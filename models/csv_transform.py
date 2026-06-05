@@ -15,6 +15,7 @@ def code_list_sido(sido_code):
 
     df_sido = df[df["code"].astype(str).str[0:2] == sido_code_str]
     code_col = df_sido["code"].astype(str).tolist()
+    print(f"Returning code list for sido_code = {sido_code}")
     return code_col
 
 def code_list_sigungu(sido_code, sigungu_code):
@@ -32,11 +33,12 @@ def code_list_sigungu(sido_code, sigungu_code):
     df_sigungu = df[(df["code"].astype(str).str[2:5] == sigungu_code_str)
                         & (df["code"].astype(str).str[0:2] == sido_code_str)]
     code_col = df_sigungu["code"].astype(str).tolist()
+    print(f"Returning code list for sido_code = {sido_code} and sigungu_code = {sigungu_code}")
     return code_col
 
-if __name__ == "__main__" :
-    print("sido")
-    print(code_list_sido(26))
-    print("sigungu")
-    print(code_list_sigungu(26, 710))
+# if __name__ == "__main__" :
+#     print("sido")
+#     print(code_list_sido(26))
+#     print("sigungu")
+#     print(code_list_sigungu(26, 710))
     
