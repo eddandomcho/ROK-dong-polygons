@@ -25,6 +25,7 @@ def transform_to_geojson(input_file_path, output_folder_path):
 
     with open(f"{output_folder_path}/{emd_eng_nm}_geo.json", "w", encoding = "utf-8") as f:
         json.dump(geojs, f, indent = 2, ensure_ascii = False)
+        print(f"Saved data to {output_folder_path}/{emd_eng_nm}_geo.json!")
 
 # 폴더에 있는 여러게의 파일을 함꼐 트랜스폼하기
 
@@ -51,6 +52,7 @@ def transform_to_geojson_list(input_folder_path, output_folder_path):
 
         with open(f"{output_folder_path}/{emd_eng_nm}_geo.json", "w", encoding = "utf-8") as f:
             json.dump(geojs, f, indent = 2, ensure_ascii = False)
+            print(f"Saved data to {output_folder_path}/{emd_eng_nm}_geo.json!")
 
 #transform_to_geojson("json_files/practice/Samseong-dong.json", "json_files/practice")
 transform_to_geojson_list("json_files/ydpg", "json_files/ydpgpractice")
