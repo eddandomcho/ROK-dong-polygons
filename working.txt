@@ -1,0 +1,3 @@
+https://api.vworld.kr/req/data?service=data&request=GetFeature&data=LT_C_ADEMD_INFO&key=인증키&domain=B023532A-0009-3FEC-BB33-45A415BF6A1D&[요청파라미터]
+
+https://api.vworld.kr/req/data?service=data&request=GetFeature&data=LT_C_ADEMD_INFO&key=B023532A-0009-3FEC-BB33-45A415BF6A1D&domain=B023532A-0009-3FEC-BB33-45A415BF6A1D&attrFilter=emd_cd:=:11650108&format=json&geometry=true&attribute=true&size=10
