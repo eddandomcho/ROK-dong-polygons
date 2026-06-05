@@ -9,7 +9,6 @@ df = pd.read_csv("legal_dong_code_mstr.csv")
 df = df[df.status == "존재"]
 df = df[df.level == 3]
 
-# ✅ 완료
 sido_code_list = df["code"].astype(str).str[0:2].astype(int).unique().tolist()
 print("Generated sido_code_list!")
 
@@ -20,5 +19,5 @@ for i in sido_code_list:
     p.write_polygon_json_list(str(i), code_list_sido)
     print(f"Wrote polygon json files for sido code {i}!")
 
-
-
+    gp.transform_to_geojson_list(f"json_files/{i}", f"geojson_files/{i}")
+    print(f"Wrote polygon GeoJSON files for sido code {i}!")
