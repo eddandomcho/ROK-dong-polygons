@@ -67,4 +67,4 @@ def view_polygon_json(bjdong_cd):
     print(f"JSON file for {emd_cd}: {emd_eng_nm}")
 
 if __name__ == "__main__":
-    write_polygon_json("practice", "1144011700")
+    write_polygon_json("practice", "1168010500")

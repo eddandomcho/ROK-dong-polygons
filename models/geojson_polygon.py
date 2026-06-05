@@ -1,5 +1,8 @@
 import json
+# 폴터 안에 iterate 할 수 있는 패키지
+from pathlib import Path as P
 
+# 한 파일만 트랜스폼하기
 def transform_to_geojson(input_file_path, output_folder_path):
     with open(input_file_path, "r", encoding = "utf-8") as f:
         input_file = json.load(f)
@@ -23,6 +26,31 @@ def transform_to_geojson(input_file_path, output_folder_path):
     with open(f"{output_folder_path}/{emd_eng_nm}_geo.json", "w", encoding = "utf-8") as f:
         json.dump(geojs, f, indent = 2, ensure_ascii = False)
 
-#def transform_to_geojson_list(input_folder_path, output_folder_path):
+# 폴더에 있는 여러게의 파일을 함꼐 트랜스폼하기
 
-transform_to_geojson("json_files/practice/Hajung-dong.json", "json_files/practice")
+def transform_to_geojson_list(input_folder_path, output_folder_path):
+    folder_path = P(input_folder_path)
+
+    for file_path in folder_path.glob("*.json"):
+        with open(file_path, "r", encoding = "utf-8") as f:
+            input_file = json.load(f)
+
+        emd_eng_nm = input_file["response"]["result"]["featureCollection"]["features"][0]["properties"]["emd_eng_nm"]
+        vworld_features = input_file["response"]["result"]["featureCollection"]["features"]
+
+        geojs = {
+            "type": "FeatureCollection",
+            "features":[
+                {
+                    "type":"Feature",
+                    "geometry": d["geometry"],
+                    "properties":d["properties"],
+                } for d in vworld_features 
+            ]
+        }
+
+        with open(f"{output_folder_path}/{emd_eng_nm}_geo.json", "w", encoding = "utf-8") as f:
+            json.dump(geojs, f, indent = 2, ensure_ascii = False)
+
+#transform_to_geojson("json_files/practice/Samseong-dong.json", "json_files/practice")
+transform_to_geojson_list("json_files/ydpg", "json_files/ydpgpractice")
