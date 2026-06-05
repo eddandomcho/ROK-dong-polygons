@@ -1,6 +1,16 @@
-vworld.py
-- API 
+script.py
 
-geojson_convert.py
+legal_dong_code_mstr.csv
 
-csv_transform.py
+indiv_script.py
+
+geojson_files
+
+json_files
+
+models
+    csv_transform.py
+
+    geojson_polygon.py
+    
+    polygon.py
