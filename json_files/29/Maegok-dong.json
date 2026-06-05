@@ -4,7 +4,7 @@
       "name": "data",
       "version": "2.0",
       "operation": "GetFeature",
-      "time": "33(ms)"
+      "time": "63(ms)"
     },
     "status": "OK",
     "record": {
