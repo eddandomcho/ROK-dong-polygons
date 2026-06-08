@@ -1,0 +1,72 @@
+{
+  "response": {
+    "service": {
+      "name": "data",
+      "version": "2.0",
+      "operation": "GetFeature",
+      "time": "19(ms)"
+    },
+    "status": "OK",
+    "record": {
+      "total": "1",
+      "current": "1"
+    },
+    "page": {
+      "total": "1",
+      "current": "1",
+      "size": "10"
+    },
+    "result": {
+      "featureCollection": {
+        "type": "FeatureCollection",
+        "bbox": [
+          128.61327300061484,
+          35.850922144124674,
+          128.61763101913488,
+          35.85977353340472
+        ],
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "MultiPolygon",
+              "coordinates": [
+                [
+                  [
+                    [
+                      128.61327300061484,
+                      35.85113903435217
+                    ],
+                    [
+                      128.6141076063003,
+                      35.85977353340472
+                    ],
+                    [
+                      128.61763101913488,
+                      35.85959557929604
+                    ],
+                    [
+                      128.6167659446015,
+                      35.850922144124674
+                    ],
+                    [
+                      128.61327300061484,
+                      35.85113903435217
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "properties": {
+              "emd_eng_nm": "Suseong-dong 2(i)-ga",
+              "emd_kor_nm": "수성동2가",
+              "full_nm": "대구광역시 수성구 수성동2가",
+              "emd_cd": "27260104"
+            },
+            "id": "LT_C_ADEMD_INFO.2189"
+          }
+        ]
+      }
+    }
+  }
+}

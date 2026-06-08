@@ -34,12 +34,13 @@ def write_polygon_json(folder_path, bjdong_cd):
     status = result["response"]["status"]
 
     emd_eng_nm = result["response"]["result"]["featureCollection"]["features"][0]["properties"]["emd_eng_nm"]
+    emd_cd = result["response"]["result"]["featureCollection"]["features"][0]["properties"]["emd_cd"]
 
-    file_path = f"json_files/{folder_path}/{emd_eng_nm}.json"
+    file_path = f"json_files/{folder_path}/{emd_cd}.json"
 
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-        print(f"Saved data to json_files/{folder_path}/{emd_eng_nm}.json!")
+        print(f"Saved data to json_files/{folder_path}/{emd_cd}.json!")
 
 def write_polygon_json_list(folder_path, code_list):
      
@@ -57,11 +58,11 @@ def write_polygon_json_list(folder_path, code_list):
         emd_eng_nm = result["response"]["result"]["featureCollection"]["features"][0]["properties"]["emd_eng_nm"]
         emd_cd = result["response"]["result"]["featureCollection"]["features"][0]["properties"]["emd_cd"]
 
-        file_path = base_dir / f"{emd_eng_nm}.json"
+        file_path = base_dir / f"{emd_cd}.json"
 
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
-            print(f"json_files/{folder_path}/{emd_eng_nm}.json!")
+            print(f"Saved data to json_files/{folder_path}/{emd_cd}.json!")
             
 def view_polygon_json(bjdong_cd):
     result = fetch_polygon(bjdong_cd)
@@ -75,3 +76,5 @@ def view_polygon_json(bjdong_cd):
 
 # if __name__ == "__main__":
 #     write_polygon_json("practice", "1168010500")
+
+print(fetch_polygon("2917012800"))

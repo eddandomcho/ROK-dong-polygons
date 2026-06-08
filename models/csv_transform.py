@@ -5,6 +5,7 @@ import pandas as pd
 df = pd.read_csv("legal_dong_code_mstr.csv")
 df = df[df.status == "존재"]
 df = df[df["code"].astype(str).str[8:10] == "00"]
+df = df[df.level == 3]
 
 # 시도의 모든 읍면동 코드 출력
 def code_list_sido(sido_code):

@@ -12,7 +12,7 @@ df = df[df.level == 3]
 sido_code_list = df["code"].astype(str).str[0:2].astype(int).unique().tolist()
 print("Generated sido_code_list!")
 
-i = 52
+i = 36
 code_list_sido = ct.code_list_sido(i)
 print(code_list_sido)
 print(f"Generated code_list_sido for sido code {i}!")
