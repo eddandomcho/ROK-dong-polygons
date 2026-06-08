@@ -17,7 +17,7 @@ def geojson_merge_list(input_folder_path, output_folder_path, final):
             with open(file_path, "r", encoding = "utf-8") as f:
                 input_file = json.load(f)
 
-            features = input_file["features"][1]
+            features = input_file["features"][0]
 
             type = features["type"]
             properties = features["properties"]
