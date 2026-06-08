@@ -1,6 +1,7 @@
 import json
 # 폴터 안에 iterate 할 수 있는 패키지
 from pathlib import Path as P
+from datetime import date
 
 def geojson_merge_list(input_folder_path, output_folder_path, final):
     if final == True:
@@ -91,6 +92,10 @@ def geojson_merge_list(input_folder_path, output_folder_path, final):
                 ]
         }
 
-        with open(f"{output_folder_path}/final_geo.json", "w", encoding = "utf-8") as f:
+        today = str(date.today())
+
+        file_name = f"법정동_polygon_{today}_기준"
+
+        with open(f"{output_folder_path}/{file_name}.json", "w", encoding = "utf-8") as f:
             json.dump(geojs, f, indent = 2, ensure_ascii = False)
             print(f"Saved data to {output_folder_path}/{input_folder_path}_geo.json!")
