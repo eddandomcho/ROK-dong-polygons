@@ -7,6 +7,19 @@
 
 ## 중오한 모델/스크립트
 
+### 모델
+`polygon.py`
+`geojson_polygon.py`
+`geojson_merge.py`
+`csv_transform.py`
+
+### 스크립트
+`geojson_merge_script.py`
+
+`dong_polygon_generate_script.py` / `sido_polygon_generate_script.py` / `sigungu_polygon_generate_script.py`
+
+`master_visualize_level_geojson.py`
+
 ## 스크립트 실행 방법
 
 ```python
