@@ -3129,7 +3129,7 @@
         ]
       },
       "properties": {
-        "sig_cd": 11200,
+        "sig_cd": 1120000000,
         "sig_eng_nm": "Seongdong-gu",
         "full_nm": "서울특별시 성동구",
         "sig_kor_nm": "성동구"

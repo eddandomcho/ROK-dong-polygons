@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28185,
+        "sig_cd": 2818500000,
         "sig_eng_nm": "Yeonsu-gu",
         "full_nm": "인천광역시 연수구",
         "sig_kor_nm": "연수구"
@@ -5414,7 +5414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28177,
+        "sig_cd": 2817700000,
         "sig_eng_nm": "Michuhol-gu",
         "full_nm": "인천광역시 미추홀구",
         "sig_kor_nm": "미추홀구"
@@ -14232,7 +14232,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28720,
+        "sig_cd": 2872000000,
         "sig_eng_nm": "Ongjin-gun",
         "full_nm": "인천광역시 옹진군",
         "sig_kor_nm": "옹진군"
@@ -73038,7 +73038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28110,
+        "sig_cd": 2811000000,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "인천광역시 중구",
         "sig_kor_nm": "중구"
@@ -91478,7 +91478,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28237,
+        "sig_cd": 2823700000,
         "sig_eng_nm": "Bupyeong-gu",
         "full_nm": "인천광역시 부평구",
         "sig_kor_nm": "부평구"
@@ -99200,7 +99200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28140,
+        "sig_cd": 2814000000,
         "sig_eng_nm": "Dong-gu",
         "full_nm": "인천광역시 동구",
         "sig_kor_nm": "동구"
@@ -108134,7 +108134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28245,
+        "sig_cd": 2824500000,
         "sig_eng_nm": "Gyeyang-gu",
         "full_nm": "인천광역시 계양구",
         "sig_kor_nm": "계양구"
@@ -122320,7 +122320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28710,
+        "sig_cd": 2871000000,
         "sig_eng_nm": "Ganghwa-gun",
         "full_nm": "인천광역시 강화군",
         "sig_kor_nm": "강화군"
@@ -167962,7 +167962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28200,
+        "sig_cd": 2820000000,
         "sig_eng_nm": "Namdong-gu",
         "full_nm": "인천광역시 남동구",
         "sig_kor_nm": "남동구"
@@ -175940,7 +175940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 28260,
+        "sig_cd": 2826000000,
         "sig_eng_nm": "Seo-gu",
         "full_nm": "인천광역시 서구",
         "sig_kor_nm": "서구"

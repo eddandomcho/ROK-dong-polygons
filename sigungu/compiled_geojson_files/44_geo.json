@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44230,
+        "sig_cd": 4423000000,
         "sig_eng_nm": "Nonsan-si",
         "full_nm": "충청남도 논산시",
         "sig_kor_nm": "논산시"
@@ -22850,7 +22850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44250,
+        "sig_cd": 4425000000,
         "sig_eng_nm": "Gyeryong-si",
         "full_nm": "충청남도 계룡시",
         "sig_kor_nm": "계룡시"
@@ -28220,7 +28220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44133,
+        "sig_cd": 4413300000,
         "sig_eng_nm": "Seobuk-gu, Cheonan-si",
         "full_nm": "충청남도 천안시 서북구",
         "sig_kor_nm": "천안시 서북구"
@@ -43086,7 +43086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44790,
+        "sig_cd": 4479000000,
         "sig_eng_nm": "Cheongyang-gun",
         "full_nm": "충청남도 청양군",
         "sig_kor_nm": "청양군"
@@ -62964,7 +62964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44770,
+        "sig_cd": 4477000000,
         "sig_eng_nm": "Seocheon-gun",
         "full_nm": "충청남도 서천군",
         "sig_kor_nm": "서천군"
@@ -82544,7 +82544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44210,
+        "sig_cd": 4421000000,
         "sig_eng_nm": "Seosan-si",
         "full_nm": "충청남도 서산시",
         "sig_kor_nm": "서산시"
@@ -113978,7 +113978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44710,
+        "sig_cd": 4471000000,
         "sig_eng_nm": "Geumsan-gun",
         "full_nm": "충청남도 금산군",
         "sig_kor_nm": "금산군"
@@ -128760,7 +128760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44270,
+        "sig_cd": 4427000000,
         "sig_eng_nm": "Dangjin-si",
         "full_nm": "충청남도 당진시",
         "sig_kor_nm": "당진시"
@@ -149382,7 +149382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44800,
+        "sig_cd": 4480000000,
         "sig_eng_nm": "Hongseong-gun",
         "full_nm": "충청남도 홍성군",
         "sig_kor_nm": "홍성군"
@@ -170722,7 +170722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44760,
+        "sig_cd": 4476000000,
         "sig_eng_nm": "Buyeo-gun",
         "full_nm": "충청남도 부여군",
         "sig_kor_nm": "부여군"
@@ -195056,7 +195056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44180,
+        "sig_cd": 4418000000,
         "sig_eng_nm": "Boryeong-si",
         "full_nm": "충청남도 보령시",
         "sig_kor_nm": "보령시"
@@ -233638,7 +233638,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44200,
+        "sig_cd": 4420000000,
         "sig_eng_nm": "Asan-si",
         "full_nm": "충청남도 아산시",
         "sig_kor_nm": "아산시"
@@ -248392,7 +248392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44150,
+        "sig_cd": 4415000000,
         "sig_eng_nm": "Gongju-si",
         "full_nm": "충청남도 공주시",
         "sig_kor_nm": "공주시"
@@ -273354,7 +273354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44825,
+        "sig_cd": 4482500000,
         "sig_eng_nm": "Taean-gun",
         "full_nm": "충청남도 태안군",
         "sig_kor_nm": "태안군"
@@ -354022,7 +354022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44131,
+        "sig_cd": 4413100000,
         "sig_eng_nm": "Dongnam-gu, Cheonan-si",
         "full_nm": "충청남도 천안시 동남구",
         "sig_kor_nm": "천안시 동남구"
@@ -374316,7 +374316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 44810,
+        "sig_cd": 4481000000,
         "sig_eng_nm": "Yesan-gun",
         "full_nm": "충청남도 예산군",
         "sig_kor_nm": "예산군"

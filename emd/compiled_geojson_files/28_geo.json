@@ -7,7 +7,7 @@
         "emd_eng_nm": "Yong-dong",
         "emd_kor_nm": "용동",
         "full_nm": "인천광역시 중구 용동",
-        "emd_cd": 28110135
+        "emd_cd": 28110135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -485,7 +485,7 @@
         "emd_eng_nm": "Gyeong-dong",
         "emd_kor_nm": "경동",
         "full_nm": "인천광역시 중구 경동",
-        "emd_cd": 28110134
+        "emd_cd": 28110134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1123,7 +1123,7 @@
         "emd_eng_nm": "Guwol-dong",
         "emd_kor_nm": "구월동",
         "full_nm": "인천광역시 남동구 구월동",
-        "emd_cd": 28200101
+        "emd_cd": 28200101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4009,7 +4009,7 @@
         "emd_eng_nm": "Sangya-dong",
         "emd_kor_nm": "상야동",
         "full_nm": "인천광역시 계양구 상야동",
-        "emd_cd": 28245112
+        "emd_cd": 28245112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6163,7 +6163,7 @@
         "emd_eng_nm": "Haya-dong",
         "emd_kor_nm": "하야동",
         "full_nm": "인천광역시 계양구 하야동",
-        "emd_cd": 28245113
+        "emd_cd": 28245113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7653,7 +7653,7 @@
         "emd_eng_nm": "Bureun-myeon",
         "emd_kor_nm": "불은면",
         "full_nm": "인천광역시 강화군 불은면",
-        "emd_cd": 28710320
+        "emd_cd": 28710320000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12975,7 +12975,7 @@
         "emd_eng_nm": "Daegok-dong",
         "emd_kor_nm": "대곡동",
         "full_nm": "인천광역시 서구 대곡동",
-        "emd_cd": 28260117
+        "emd_cd": 28260117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14509,7 +14509,7 @@
         "emd_eng_nm": "Bukdo-myeon",
         "emd_kor_nm": "북도면",
         "full_nm": "인천광역시 옹진군 북도면",
-        "emd_cd": 28720310
+        "emd_cd": 28720310000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22879,7 +22879,7 @@
         "emd_eng_nm": "Songwol-dong 1(il)-ga",
         "emd_kor_nm": "송월동1가",
         "full_nm": "인천광역시 중구 송월동1가",
-        "emd_cd": 28110142
+        "emd_cd": 28110142000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23441,7 +23441,7 @@
         "emd_eng_nm": "Songwol-dong 2(i)-ga",
         "emd_kor_nm": "송월동2가",
         "full_nm": "인천광역시 중구 송월동2가",
-        "emd_cd": 28110143
+        "emd_cd": 28110143000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23571,7 +23571,7 @@
         "emd_eng_nm": "Cheongna-dong",
         "emd_kor_nm": "청라동",
         "full_nm": "인천광역시 서구 청라동",
-        "emd_cd": 28260122
+        "emd_cd": 28260122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25181,7 +25181,7 @@
         "emd_eng_nm": "Juan-dong",
         "emd_kor_nm": "주안동",
         "full_nm": "인천광역시 미추홀구 주안동",
-        "emd_cd": 28177105
+        "emd_cd": 28177105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27967,7 +27967,7 @@
         "emd_eng_nm": "Dohwa-dong",
         "emd_kor_nm": "도화동",
         "full_nm": "인천광역시 미추홀구 도화동",
-        "emd_cd": 28177104
+        "emd_cd": 28177104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31229,7 +31229,7 @@
         "emd_eng_nm": "Unbuk-dong",
         "emd_kor_nm": "운북동",
         "full_nm": "인천광역시 중구 운북동",
-        "emd_cd": 28110148
+        "emd_cd": 28110148000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33859,7 +33859,7 @@
         "emd_eng_nm": "Eurwang-dong",
         "emd_kor_nm": "을왕동",
         "full_nm": "인천광역시 중구 을왕동",
-        "emd_cd": 28110149
+        "emd_cd": 28110149000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37221,7 +37221,7 @@
         "emd_eng_nm": "Jungang-dong 1(il)-ga",
         "emd_kor_nm": "중앙동1가",
         "full_nm": "인천광역시 중구 중앙동1가",
-        "emd_cd": 28110101
+        "emd_cd": 28110101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37271,7 +37271,7 @@
         "emd_eng_nm": "Oryu-dong",
         "emd_kor_nm": "오류동",
         "full_nm": "인천광역시 계양구 오류동",
-        "emd_cd": 28245118
+        "emd_cd": 28245118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38365,7 +38365,7 @@
         "emd_eng_nm": "Galhyeon-dong",
         "emd_kor_nm": "갈현동",
         "full_nm": "인천광역시 계양구 갈현동",
-        "emd_cd": 28245119
+        "emd_cd": 28245119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40847,7 +40847,7 @@
         "emd_eng_nm": "Hwado-myeon",
         "emd_kor_nm": "화도면",
         "full_nm": "인천광역시 강화군 화도면",
-        "emd_cd": 28710340
+        "emd_cd": 28710340000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46713,7 +46713,7 @@
         "emd_eng_nm": "Jawol-myeon",
         "emd_kor_nm": "자월면",
         "full_nm": "인천광역시 옹진군 자월면",
-        "emd_cd": 28720370
+        "emd_cd": 28720370000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55995,7 +55995,7 @@
         "emd_eng_nm": "Sa-dong",
         "emd_kor_nm": "사동",
         "full_nm": "인천광역시 중구 사동",
-        "emd_cd": 28110122
+        "emd_cd": 28110122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56221,7 +56221,7 @@
         "emd_eng_nm": "Sinsaeng-dong",
         "emd_kor_nm": "신생동",
         "full_nm": "인천광역시 중구 신생동",
-        "emd_cd": 28110123
+        "emd_cd": 28110123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56631,7 +56631,7 @@
         "emd_eng_nm": "Changyeong-dong",
         "emd_kor_nm": "창영동",
         "full_nm": "인천광역시 동구 창영동",
-        "emd_cd": 28140105
+        "emd_cd": 28140105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59025,7 +59025,7 @@
         "emd_eng_nm": "Hwapyeong-dong",
         "emd_kor_nm": "화평동",
         "full_nm": "인천광역시 동구 화평동",
-        "emd_cd": 28140104
+        "emd_cd": 28140104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60147,7 +60147,7 @@
         "emd_eng_nm": "Baekseok-dong",
         "emd_kor_nm": "백석동",
         "full_nm": "인천광역시 서구 백석동",
-        "emd_cd": 28260101
+        "emd_cd": 28260101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62829,7 +62829,7 @@
         "emd_eng_nm": "Seonhak-dong",
         "emd_kor_nm": "선학동",
         "full_nm": "인천광역시 연수구 선학동",
-        "emd_cd": 28185102
+        "emd_cd": 28185102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64079,7 +64079,7 @@
         "emd_eng_nm": "Yeonsu-dong",
         "emd_kor_nm": "연수동",
         "full_nm": "인천광역시 연수구 연수동",
-        "emd_cd": 28185103
+        "emd_cd": 28185103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64817,7 +64817,7 @@
         "emd_eng_nm": "Imhak-dong",
         "emd_kor_nm": "임학동",
         "full_nm": "인천광역시 계양구 임학동",
-        "emd_cd": 28245105
+        "emd_cd": 28245105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65451,7 +65451,7 @@
         "emd_eng_nm": "Seoun-dong",
         "emd_kor_nm": "서운동",
         "full_nm": "인천광역시 계양구 서운동",
-        "emd_cd": 28245104
+        "emd_cd": 28245104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66921,7 +66921,7 @@
         "emd_eng_nm": "Songhae-myeon",
         "emd_kor_nm": "송해면",
         "full_nm": "인천광역시 강화군 송해면",
-        "emd_cd": 28710390
+        "emd_cd": 28710390000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70939,7 +70939,7 @@
         "emd_eng_nm": "Sinheung-dong 3(sam)-ga",
         "emd_kor_nm": "신흥동3가",
         "full_nm": "인천광역시 중구 신흥동3가",
-        "emd_cd": 28110128
+        "emd_cd": 28110128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71625,7 +71625,7 @@
         "emd_eng_nm": "Seonhwa-dong",
         "emd_kor_nm": "선화동",
         "full_nm": "인천광역시 중구 선화동",
-        "emd_cd": 28110129
+        "emd_cd": 28110129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71887,7 +71887,7 @@
         "emd_eng_nm": "Bupyeong-dong",
         "emd_kor_nm": "부평동",
         "full_nm": "인천광역시 부평구 부평동",
-        "emd_cd": 28237101
+        "emd_cd": 28237101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74933,7 +74933,7 @@
         "emd_eng_nm": "Hang-dong 5(o)-ga",
         "emd_kor_nm": "항동5가",
         "full_nm": "인천광역시 중구 항동5가",
-        "emd_cd": 28110116
+        "emd_cd": 28110116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74991,7 +74991,7 @@
         "emd_eng_nm": "Hang-dong 6(yuk)-ga",
         "emd_kor_nm": "항동6가",
         "full_nm": "인천광역시 중구 항동6가",
-        "emd_cd": 28110117
+        "emd_cd": 28110117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75049,7 +75049,7 @@
         "emd_eng_nm": "Nonhyeon-dong",
         "emd_kor_nm": "논현동",
         "full_nm": "인천광역시 남동구 논현동",
-        "emd_cd": 28200110
+        "emd_cd": 28200110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80687,7 +80687,7 @@
         "emd_eng_nm": "Gojan-dong",
         "emd_kor_nm": "고잔동",
         "full_nm": "인천광역시 남동구 고잔동",
-        "emd_cd": 28200111
+        "emd_cd": 28200111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84937,7 +84937,7 @@
         "emd_eng_nm": "Dap-dong",
         "emd_kor_nm": "답동",
         "full_nm": "인천광역시 중구 답동",
-        "emd_cd": 28110125
+        "emd_cd": 28110125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85155,7 +85155,7 @@
         "emd_eng_nm": "Sinpo-dong",
         "emd_kor_nm": "신포동",
         "full_nm": "인천광역시 중구 신포동",
-        "emd_cd": 28110124
+        "emd_cd": 28110124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85313,7 +85313,7 @@
         "emd_eng_nm": "Hwasu-dong",
         "emd_kor_nm": "화수동",
         "full_nm": "인천광역시 동구 화수동",
-        "emd_cd": 28140102
+        "emd_cd": 28140102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86695,7 +86695,7 @@
         "emd_eng_nm": "Songhyeon-dong",
         "emd_kor_nm": "송현동",
         "full_nm": "인천광역시 동구 송현동",
-        "emd_cd": 28140103
+        "emd_cd": 28140103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88949,7 +88949,7 @@
         "emd_eng_nm": "Muui-dong",
         "emd_kor_nm": "무의동",
         "full_nm": "인천광역시 중구 무의동",
-        "emd_cd": 28110152
+        "emd_cd": 28110152000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92499,7 +92499,7 @@
         "emd_eng_nm": "Gyesan-dong",
         "emd_kor_nm": "계산동",
         "full_nm": "인천광역시 계양구 계산동",
-        "emd_cd": 28245102
+        "emd_cd": 28245102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94105,7 +94105,7 @@
         "emd_eng_nm": "Jakjeon-dong",
         "emd_kor_nm": "작전동",
         "full_nm": "인천광역시 계양구 작전동",
-        "emd_cd": 28245103
+        "emd_cd": 28245103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95211,7 +95211,7 @@
         "emd_eng_nm": "Yeonhui-dong",
         "emd_kor_nm": "연희동",
         "full_nm": "인천광역시 서구 연희동",
-        "emd_cd": 28260106
+        "emd_cd": 28260106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97057,7 +97057,7 @@
         "emd_eng_nm": "Dongchun-dong",
         "emd_kor_nm": "동춘동",
         "full_nm": "인천광역시 연수구 동춘동",
-        "emd_cd": 28185105
+        "emd_cd": 28185105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98127,7 +98127,7 @@
         "emd_eng_nm": "Gilsang-myeon",
         "emd_kor_nm": "길상면",
         "full_nm": "인천광역시 강화군 길상면",
-        "emd_cd": 28710330
+        "emd_cd": 28710330000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106449,7 +106449,7 @@
         "emd_eng_nm": "Simgok-dong",
         "emd_kor_nm": "심곡동",
         "full_nm": "인천광역시 서구 심곡동",
-        "emd_cd": 28260107
+        "emd_cd": 28260107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107675,7 +107675,7 @@
         "emd_eng_nm": "Cheonghak-dong",
         "emd_kor_nm": "청학동",
         "full_nm": "인천광역시 연수구 청학동",
-        "emd_cd": 28185104
+        "emd_cd": 28185104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108761,7 +108761,7 @@
         "emd_eng_nm": "Gwan-dong 3(sam)-ga",
         "emd_kor_nm": "관동3가",
         "full_nm": "인천광역시 중구 관동3가",
-        "emd_cd": 28110111
+        "emd_cd": 28110111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108819,7 +108819,7 @@
         "emd_eng_nm": "Gwan-dong 2(i)-ga",
         "emd_kor_nm": "관동2가",
         "full_nm": "인천광역시 중구 관동2가",
-        "emd_cd": 28110110
+        "emd_cd": 28110110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108865,7 +108865,7 @@
         "emd_eng_nm": "Bugae-dong",
         "emd_kor_nm": "부개동",
         "full_nm": "인천광역시 부평구 부개동",
-        "emd_cd": 28237107
+        "emd_cd": 28237107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110867,7 +110867,7 @@
         "emd_eng_nm": "Bangchuk-dong",
         "emd_kor_nm": "방축동",
         "full_nm": "인천광역시 계양구 방축동",
-        "emd_cd": 28245108
+        "emd_cd": 28245108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111653,7 +111653,7 @@
         "emd_eng_nm": "Galsan-dong",
         "emd_kor_nm": "갈산동",
         "full_nm": "인천광역시 부평구 갈산동",
-        "emd_cd": 28237106
+        "emd_cd": 28237106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112767,7 +112767,7 @@
         "emd_eng_nm": "Bakchon-dong",
         "emd_kor_nm": "박촌동",
         "full_nm": "인천광역시 계양구 박촌동",
-        "emd_cd": 28245109
+        "emd_cd": 28245109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114409,7 +114409,7 @@
         "emd_eng_nm": "Dowon-dong",
         "emd_kor_nm": "도원동",
         "full_nm": "인천광역시 중구 도원동",
-        "emd_cd": 28110132
+        "emd_cd": 28110132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115135,7 +115135,7 @@
         "emd_eng_nm": "Nae-dong",
         "emd_kor_nm": "내동",
         "full_nm": "인천광역시 중구 내동",
-        "emd_cd": 28110133
+        "emd_cd": 28110133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115397,7 +115397,7 @@
         "emd_eng_nm": "Yangdo-myeon",
         "emd_kor_nm": "양도면",
         "full_nm": "인천광역시 강화군 양도면",
-        "emd_cd": 28710350
+        "emd_cd": 28710350000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121419,7 +121419,7 @@
         "emd_eng_nm": "Yeongheung-myeon",
         "emd_kor_nm": "영흥면",
         "full_nm": "인천광역시 옹진군 영흥면",
-        "emd_cd": 28720360
+        "emd_cd": 28720360000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -130685,7 +130685,7 @@
         "emd_eng_nm": "Namchon-dong",
         "emd_kor_nm": "남촌동",
         "full_nm": "인천광역시 남동구 남촌동",
-        "emd_cd": 28200107
+        "emd_cd": 28200107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -132483,7 +132483,7 @@
         "emd_eng_nm": "Unyeon-dong",
         "emd_kor_nm": "운연동",
         "full_nm": "인천광역시 남동구 운연동",
-        "emd_cd": 28200106
+        "emd_cd": 28200106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134225,7 +134225,7 @@
         "emd_eng_nm": "Wonchang-dong",
         "emd_kor_nm": "원창동",
         "full_nm": "인천광역시 서구 원창동",
-        "emd_cd": 28260111
+        "emd_cd": 28260111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136943,7 +136943,7 @@
         "emd_eng_nm": "Seongnam-dong",
         "emd_kor_nm": "석남동",
         "full_nm": "인천광역시 서구 석남동",
-        "emd_cd": 28260110
+        "emd_cd": 28260110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138157,7 +138157,7 @@
         "emd_eng_nm": "Nooji-dong",
         "emd_kor_nm": "노오지동",
         "full_nm": "인천광역시 계양구 노오지동",
-        "emd_cd": 28245115
+        "emd_cd": 28245115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138931,7 +138931,7 @@
         "emd_eng_nm": "Pyeong-dong",
         "emd_kor_nm": "평동",
         "full_nm": "인천광역시 계양구 평동",
-        "emd_cd": 28245114
+        "emd_cd": 28245114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140037,7 +140037,7 @@
         "emd_eng_nm": "Jungsan-dong",
         "emd_kor_nm": "중산동",
         "full_nm": "인천광역시 중구 중산동",
-        "emd_cd": 28110145
+        "emd_cd": 28110145000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142855,7 +142855,7 @@
         "emd_eng_nm": "Songwol-dong 3(sam)-ga",
         "emd_kor_nm": "송월동3가",
         "full_nm": "인천광역시 중구 송월동3가",
-        "emd_cd": 28110144
+        "emd_cd": 28110144000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143065,7 +143065,7 @@
         "emd_eng_nm": "Yonghyeon-dong",
         "emd_kor_nm": "용현동",
         "full_nm": "인천광역시 미추홀구 용현동",
-        "emd_cd": 28177102
+        "emd_cd": 28177102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145399,7 +145399,7 @@
         "emd_eng_nm": "Hagik-dong",
         "emd_kor_nm": "학익동",
         "full_nm": "인천광역시 미추홀구 학익동",
-        "emd_cd": 28177103
+        "emd_cd": 28177103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147725,7 +147725,7 @@
         "emd_eng_nm": "Moksang-dong",
         "emd_kor_nm": "목상동",
         "full_nm": "인천광역시 계양구 목상동",
-        "emd_cd": 28245121
+        "emd_cd": 28245121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149375,7 +149375,7 @@
         "emd_eng_nm": "Yangsa-myeon",
         "emd_kor_nm": "양사면",
         "full_nm": "인천광역시 강화군 양사면",
-        "emd_cd": 28710380
+        "emd_cd": 28710380000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -153721,7 +153721,7 @@
         "emd_eng_nm": "Duksil-dong",
         "emd_kor_nm": "둑실동",
         "full_nm": "인천광역시 계양구 둑실동",
-        "emd_cd": 28245120
+        "emd_cd": 28245120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157819,7 +157819,7 @@
         "emd_eng_nm": "Bukseong-dong 1(il)-ga",
         "emd_kor_nm": "북성동1가",
         "full_nm": "인천광역시 중구 북성동1가",
-        "emd_cd": 28110138
+        "emd_cd": 28110138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160577,7 +160577,7 @@
         "emd_eng_nm": "Bukseong-dong 2(i)-ga",
         "emd_kor_nm": "북성동2가",
         "full_nm": "인천광역시 중구 북성동2가",
-        "emd_cd": 28110139
+        "emd_cd": 28110139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160675,7 +160675,7 @@
         "emd_eng_nm": "Seodo-myeon",
         "emd_kor_nm": "서도면",
         "full_nm": "인천광역시 강화군 서도면",
-        "emd_cd": 28710420
+        "emd_cd": 28710420000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166913,7 +166913,7 @@
         "emd_eng_nm": "Haean-dong 2(i)-ga",
         "emd_kor_nm": "해안동2가",
         "full_nm": "인천광역시 중구 해안동2가",
-        "emd_cd": 28110106
+        "emd_cd": 28110106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166971,7 +166971,7 @@
         "emd_eng_nm": "Haean-dong 3(sam)-ga",
         "emd_kor_nm": "해안동3가",
         "full_nm": "인천광역시 중구 해안동3가",
-        "emd_cd": 28110107
+        "emd_cd": 28110107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167041,7 +167041,7 @@
         "emd_eng_nm": "Baengnyeong-myeon",
         "emd_kor_nm": "백령면",
         "full_nm": "인천광역시 옹진군 백령면",
-        "emd_cd": 28720330
+        "emd_cd": 28720330000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172439,7 +172439,7 @@
         "emd_eng_nm": "Sangok-dong",
         "emd_kor_nm": "산곡동",
         "full_nm": "인천광역시 부평구 산곡동",
-        "emd_cd": 28237103
+        "emd_cd": 28237103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174849,7 +174849,7 @@
         "emd_eng_nm": "Sipjeong-dong",
         "emd_kor_nm": "십정동",
         "full_nm": "인천광역시 부평구 십정동",
-        "emd_cd": 28237102
+        "emd_cd": 28237102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -177867,7 +177867,7 @@
         "emd_eng_nm": "Hang-dong 4(sa)-ga",
         "emd_kor_nm": "항동4가",
         "full_nm": "인천광역시 중구 항동4가",
-        "emd_cd": 28110115
+        "emd_cd": 28110115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -177913,7 +177913,7 @@
         "emd_eng_nm": "Gajeong-dong",
         "emd_kor_nm": "가정동",
         "full_nm": "인천광역시 서구 가정동",
-        "emd_cd": 28260108
+        "emd_cd": 28260108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179131,7 +179131,7 @@
         "emd_eng_nm": "Sinhyeon-dong",
         "emd_kor_nm": "신현동",
         "full_nm": "인천광역시 서구 신현동",
-        "emd_cd": 28260109
+        "emd_cd": 28260109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179837,7 +179837,7 @@
         "emd_eng_nm": "Hang-dong 3(sam)-ga",
         "emd_kor_nm": "항동3가",
         "full_nm": "인천광역시 중구 항동3가",
-        "emd_cd": 28110114
+        "emd_cd": 28110114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179895,7 +179895,7 @@
         "emd_eng_nm": "Songhak-dong 3(sam)-ga",
         "emd_kor_nm": "송학동3가",
         "full_nm": "인천광역시 중구 송학동3가",
-        "emd_cd": 28110121
+        "emd_cd": 28110121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180005,7 +180005,7 @@
         "emd_eng_nm": "Songhak-dong 2(i)-ga",
         "emd_kor_nm": "송학동2가",
         "full_nm": "인천광역시 중구 송학동2가",
-        "emd_cd": 28110120
+        "emd_cd": 28110120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180083,7 +180083,7 @@
         "emd_eng_nm": "Geumgok-dong",
         "emd_kor_nm": "금곡동",
         "full_nm": "인천광역시 동구 금곡동",
-        "emd_cd": 28140106
+        "emd_cd": 28140106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -181029,7 +181029,7 @@
         "emd_eng_nm": "Songnim-dong",
         "emd_kor_nm": "송림동",
         "full_nm": "인천광역시 동구 송림동",
-        "emd_cd": 28140107
+        "emd_cd": 28140107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185551,7 +185551,7 @@
         "emd_eng_nm": "Ongnyeon-dong",
         "emd_kor_nm": "옥련동",
         "full_nm": "인천광역시 연수구 옥련동",
-        "emd_cd": 28185101
+        "emd_cd": 28185101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186841,7 +186841,7 @@
         "emd_eng_nm": "Sicheon-dong",
         "emd_kor_nm": "시천동",
         "full_nm": "인천광역시 서구 시천동",
-        "emd_cd": 28260102
+        "emd_cd": 28260102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189623,7 +189623,7 @@
         "emd_eng_nm": "Geomam-dong",
         "emd_kor_nm": "검암동",
         "full_nm": "인천광역시 서구 검암동",
-        "emd_cd": 28260103
+        "emd_cd": 28260103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -192201,7 +192201,7 @@
         "emd_eng_nm": "Yongjong-dong",
         "emd_kor_nm": "용종동",
         "full_nm": "인천광역시 계양구 용종동",
-        "emd_cd": 28245106
+        "emd_cd": 28245106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -192783,7 +192783,7 @@
         "emd_eng_nm": "Gusan-dong",
         "emd_kor_nm": "구산동",
         "full_nm": "인천광역시 부평구 구산동",
-        "emd_cd": 28237109
+        "emd_cd": 28237109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194509,7 +194509,7 @@
         "emd_eng_nm": "Byeongbang-dong",
         "emd_kor_nm": "병방동",
         "full_nm": "인천광역시 계양구 병방동",
-        "emd_cd": 28245107
+        "emd_cd": 28245107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195731,7 +195731,7 @@
         "emd_eng_nm": "Ilsin-dong",
         "emd_kor_nm": "일신동",
         "full_nm": "인천광역시 부평구 일신동",
-        "emd_cd": 28237108
+        "emd_cd": 28237108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -197225,7 +197225,7 @@
         "emd_eng_nm": "Dorim-dong",
         "emd_kor_nm": "도림동",
         "full_nm": "인천광역시 남동구 도림동",
-        "emd_cd": 28200109
+        "emd_cd": 28200109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -198687,7 +198687,7 @@
         "emd_eng_nm": "Susan-dong",
         "emd_kor_nm": "수산동",
         "full_nm": "인천광역시 남동구 수산동",
-        "emd_cd": 28200108
+        "emd_cd": 28200108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200845,7 +200845,7 @@
         "emd_eng_nm": "Bullo-dong",
         "emd_kor_nm": "불로동",
         "full_nm": "인천광역시 서구 불로동",
-        "emd_cd": 28260121
+        "emd_cd": 28260121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202683,7 +202683,7 @@
         "emd_eng_nm": "Wanggil-dong",
         "emd_kor_nm": "왕길동",
         "full_nm": "인천광역시 서구 왕길동",
-        "emd_cd": 28260120
+        "emd_cd": 28260120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205517,7 +205517,7 @@
         "emd_eng_nm": "Gwangyo-dong",
         "emd_kor_nm": "관교동",
         "full_nm": "인천광역시 미추홀구 관교동",
-        "emd_cd": 28177106
+        "emd_cd": 28177106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206995,7 +206995,7 @@
         "emd_eng_nm": "Munhak-dong",
         "emd_kor_nm": "문학동",
         "full_nm": "인천광역시 미추홀구 문학동",
-        "emd_cd": 28177107
+        "emd_cd": 28177107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208361,7 +208361,7 @@
         "emd_eng_nm": "Deokjeok-myeon",
         "emd_kor_nm": "덕적면",
         "full_nm": "인천광역시 옹진군 덕적면",
-        "emd_cd": 28720350
+        "emd_cd": 28720350000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228287,7 +228287,7 @@
         "emd_eng_nm": "Naega-myeon",
         "emd_kor_nm": "내가면",
         "full_nm": "인천광역시 강화군 내가면",
-        "emd_cd": 28710360
+        "emd_cd": 28710360000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231901,7 +231901,7 @@
         "emd_eng_nm": "Jungang-dong 2(i)-ga",
         "emd_kor_nm": "중앙동2가",
         "full_nm": "인천광역시 중구 중앙동2가",
-        "emd_cd": 28110102
+        "emd_cd": 28110102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231955,7 +231955,7 @@
         "emd_eng_nm": "Jungang-dong 3(sam)-ga",
         "emd_kor_nm": "중앙동3가",
         "full_nm": "인천광역시 중구 중앙동3가",
-        "emd_cd": 28110103
+        "emd_cd": 28110103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -232037,7 +232037,7 @@
         "emd_eng_nm": "Inhyeon-dong",
         "emd_kor_nm": "인현동",
         "full_nm": "인천광역시 중구 인현동",
-        "emd_cd": 28110136
+        "emd_cd": 28110136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -232675,7 +232675,7 @@
         "emd_eng_nm": "Jeon-dong",
         "emd_kor_nm": "전동",
         "full_nm": "인천광역시 중구 전동",
-        "emd_cd": 28110137
+        "emd_cd": 28110137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -233249,7 +233249,7 @@
         "emd_eng_nm": "Mansu-dong",
         "emd_kor_nm": "만수동",
         "full_nm": "인천광역시 남동구 만수동",
-        "emd_cd": 28200103
+        "emd_cd": 28200103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235591,7 +235591,7 @@
         "emd_eng_nm": "Ganseok-dong",
         "emd_kor_nm": "간석동",
         "full_nm": "인천광역시 남동구 간석동",
-        "emd_cd": 28200102
+        "emd_cd": 28200102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -239233,7 +239233,7 @@
         "emd_eng_nm": "Gyulhyeon-dong",
         "emd_kor_nm": "귤현동",
         "full_nm": "인천광역시 계양구 귤현동",
-        "emd_cd": 28245111
+        "emd_cd": 28245111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -240723,7 +240723,7 @@
         "emd_eng_nm": "Dongyang-dong",
         "emd_kor_nm": "동양동",
         "full_nm": "인천광역시 계양구 동양동",
-        "emd_cd": 28245110
+        "emd_cd": 28245110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243289,7 +243289,7 @@
         "emd_eng_nm": "Yeonpyeong-myeon",
         "emd_kor_nm": "연평면",
         "full_nm": "인천광역시 옹진군 연평면",
-        "emd_cd": 28720380
+        "emd_cd": 28720380000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -245935,7 +245935,7 @@
         "emd_eng_nm": "Samsan-myeon",
         "emd_kor_nm": "삼산면",
         "full_nm": "인천광역시 강화군 삼산면",
-        "emd_cd": 28710410
+        "emd_cd": 28710410000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -257137,7 +257137,7 @@
         "emd_eng_nm": "Haean-dong 4(sa)-ga",
         "emd_kor_nm": "해안동4가",
         "full_nm": "인천광역시 중구 해안동4가",
-        "emd_cd": 28110108
+        "emd_cd": 28110108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -257195,7 +257195,7 @@
         "emd_eng_nm": "Wondang-dong",
         "emd_kor_nm": "원당동",
         "full_nm": "인천광역시 서구 원당동",
-        "emd_cd": 28260115
+        "emd_cd": 28260115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -258781,7 +258781,7 @@
         "emd_eng_nm": "Dangha-dong",
         "emd_kor_nm": "당하동",
         "full_nm": "인천광역시 서구 당하동",
-        "emd_cd": 28260114
+        "emd_cd": 28260114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262779,7 +262779,7 @@
         "emd_eng_nm": "Gwan-dong 1(il)-ga",
         "emd_kor_nm": "관동1가",
         "full_nm": "인천광역시 중구 관동1가",
-        "emd_cd": 28110109
+        "emd_cd": 28110109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262897,7 +262897,7 @@
         "emd_eng_nm": "Seollin-dong",
         "emd_kor_nm": "선린동",
         "full_nm": "인천광역시 중구 선린동",
-        "emd_cd": 28110141
+        "emd_cd": 28110141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -263075,7 +263075,7 @@
         "emd_eng_nm": "Bukseong-dong 3(sam)-ga",
         "emd_kor_nm": "북성동3가",
         "full_nm": "인천광역시 중구 북성동3가",
-        "emd_cd": 28110140
+        "emd_cd": 28110140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -263305,7 +263305,7 @@
         "emd_eng_nm": "Ganghwa-eup",
         "emd_kor_nm": "강화읍",
         "full_nm": "인천광역시 강화군 강화읍",
-        "emd_cd": 28710250
+        "emd_cd": 28710250000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -268703,7 +268703,7 @@
         "emd_eng_nm": "Danam-dong",
         "emd_kor_nm": "다남동",
         "full_nm": "인천광역시 계양구 다남동",
-        "emd_cd": 28245122
+        "emd_cd": 28245122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -269785,7 +269785,7 @@
         "emd_eng_nm": "Janggi-dong",
         "emd_kor_nm": "장기동",
         "full_nm": "인천광역시 계양구 장기동",
-        "emd_cd": 28245123
+        "emd_cd": 28245123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270875,7 +270875,7 @@
         "emd_eng_nm": "Sungui-dong",
         "emd_kor_nm": "숭의동",
         "full_nm": "인천광역시 미추홀구 숭의동",
-        "emd_cd": 28177101
+        "emd_cd": 28177101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -274329,7 +274329,7 @@
         "emd_eng_nm": "Seonwon-myeon",
         "emd_kor_nm": "선원면",
         "full_nm": "인천광역시 강화군 선원면",
-        "emd_cd": 28710310
+        "emd_cd": 28710310000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -278191,7 +278191,7 @@
         "emd_eng_nm": "Geumgok-dong",
         "emd_kor_nm": "금곡동",
         "full_nm": "인천광역시 서구 금곡동",
-        "emd_cd": 28260118
+        "emd_cd": 28260118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -280405,7 +280405,7 @@
         "emd_eng_nm": "Haean-dong 1(il)-ga",
         "emd_kor_nm": "해안동1가",
         "full_nm": "인천광역시 중구 해안동1가",
-        "emd_cd": 28110105
+        "emd_cd": 28110105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -280471,7 +280471,7 @@
         "emd_eng_nm": "Jungang-dong 4(sa)-ga",
         "emd_kor_nm": "중앙동4가",
         "full_nm": "인천광역시 중구 중앙동4가",
-        "emd_cd": 28110104
+        "emd_cd": 28110104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -280541,7 +280541,7 @@
         "emd_eng_nm": "Oryu-dong",
         "emd_kor_nm": "오류동",
         "full_nm": "인천광역시 서구 오류동",
-        "emd_cd": 28260119
+        "emd_cd": 28260119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284905,7 +284905,7 @@
         "emd_eng_nm": "Yulmok-dong",
         "emd_kor_nm": "율목동",
         "full_nm": "인천광역시 중구 율목동",
-        "emd_cd": 28110131
+        "emd_cd": 28110131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -285599,7 +285599,7 @@
         "emd_eng_nm": "Yu-dong",
         "emd_kor_nm": "유동",
         "full_nm": "인천광역시 중구 유동",
-        "emd_cd": 28110130
+        "emd_cd": 28110130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -286025,7 +286025,7 @@
         "emd_eng_nm": "Jangsu-dong",
         "emd_kor_nm": "장수동",
         "full_nm": "인천광역시 남동구 장수동",
-        "emd_cd": 28200104
+        "emd_cd": 28200104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -287891,7 +287891,7 @@
         "emd_eng_nm": "Seochang-dong",
         "emd_kor_nm": "서창동",
         "full_nm": "인천광역시 남동구 서창동",
-        "emd_cd": 28200105
+        "emd_cd": 28200105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -290633,7 +290633,7 @@
         "emd_eng_nm": "Gajwa-dong",
         "emd_kor_nm": "가좌동",
         "full_nm": "인천광역시 서구 가좌동",
-        "emd_cd": 28260112
+        "emd_cd": 28260112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -292487,7 +292487,7 @@
         "emd_eng_nm": "Majeon-dong",
         "emd_kor_nm": "마전동",
         "full_nm": "인천광역시 서구 마전동",
-        "emd_cd": 28260113
+        "emd_cd": 28260113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -295509,7 +295509,7 @@
         "emd_eng_nm": "Seonjuji-dong",
         "emd_kor_nm": "선주지동",
         "full_nm": "인천광역시 계양구 선주지동",
-        "emd_cd": 28245116
+        "emd_cd": 28245116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296563,7 +296563,7 @@
         "emd_eng_nm": "Ihwa-dong",
         "emd_kor_nm": "이화동",
         "full_nm": "인천광역시 계양구 이화동",
-        "emd_cd": 28245117
+        "emd_cd": 28245117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -298069,7 +298069,7 @@
         "emd_eng_nm": "Unnam-dong",
         "emd_kor_nm": "운남동",
         "full_nm": "인천광역시 중구 운남동",
-        "emd_cd": 28110146
+        "emd_cd": 28110146000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299883,7 +299883,7 @@
         "emd_eng_nm": "Unseo-dong",
         "emd_kor_nm": "운서동",
         "full_nm": "인천광역시 중구 운서동",
-        "emd_cd": 28110147
+        "emd_cd": 28110147000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -304645,7 +304645,7 @@
         "emd_eng_nm": "Hang-dong 1(il)-ga",
         "emd_kor_nm": "항동1가",
         "full_nm": "인천광역시 중구 항동1가",
-        "emd_cd": 28110112
+        "emd_cd": 28110112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -304919,7 +304919,7 @@
         "emd_eng_nm": "Hang-dong 2(i)-ga",
         "emd_kor_nm": "항동2가",
         "full_nm": "인천광역시 중구 항동2가",
-        "emd_cd": 28110113
+        "emd_cd": 28110113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -305053,7 +305053,7 @@
         "emd_eng_nm": "Cheongcheon-dong",
         "emd_kor_nm": "청천동",
         "full_nm": "인천광역시 부평구 청천동",
-        "emd_cd": 28237104
+        "emd_cd": 28237104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -307347,7 +307347,7 @@
         "emd_eng_nm": "Samsan-dong",
         "emd_kor_nm": "삼산동",
         "full_nm": "인천광역시 부평구 삼산동",
-        "emd_cd": 28237105
+        "emd_cd": 28237105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -309925,7 +309925,7 @@
         "emd_eng_nm": "Daecheong-myeon",
         "emd_kor_nm": "대청면",
         "full_nm": "인천광역시 옹진군 대청면",
-        "emd_cd": 28720340
+        "emd_cd": 28720340000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -313935,7 +313935,7 @@
         "emd_eng_nm": "Hajeom-myeon",
         "emd_kor_nm": "하점면",
         "full_nm": "인천광역시 강화군 하점면",
-        "emd_cd": 28710370
+        "emd_cd": 28710370000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -317669,7 +317669,7 @@
         "emd_eng_nm": "Sinheung-dong 1(il)-ga",
         "emd_kor_nm": "신흥동1가",
         "full_nm": "인천광역시 중구 신흥동1가",
-        "emd_cd": 28110126
+        "emd_cd": 28110126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -318323,7 +318323,7 @@
         "emd_eng_nm": "Sinheung-dong 2(i)-ga",
         "emd_kor_nm": "신흥동2가",
         "full_nm": "인천광역시 중구 신흥동2가",
-        "emd_cd": 28110127
+        "emd_cd": 28110127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -318973,7 +318973,7 @@
         "emd_eng_nm": "Manseok-dong",
         "emd_kor_nm": "만석동",
         "full_nm": "인천광역시 동구 만석동",
-        "emd_cd": 28140101
+        "emd_cd": 28140101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -322323,7 +322323,7 @@
         "emd_eng_nm": "Deokgyo-dong",
         "emd_kor_nm": "덕교동",
         "full_nm": "인천광역시 중구 덕교동",
-        "emd_cd": 28110151
+        "emd_cd": 28110151000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -324505,7 +324505,7 @@
         "emd_eng_nm": "Nambuk-dong",
         "emd_kor_nm": "남북동",
         "full_nm": "인천광역시 중구 남북동",
-        "emd_cd": 28110150
+        "emd_cd": 28110150000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -326323,7 +326323,7 @@
         "emd_eng_nm": "Hyoseong-dong",
         "emd_kor_nm": "효성동",
         "full_nm": "인천광역시 계양구 효성동",
-        "emd_cd": 28245101
+        "emd_cd": 28245101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -327805,7 +327805,7 @@
         "emd_eng_nm": "Gyodong-myeon",
         "emd_kor_nm": "교동면",
         "full_nm": "인천광역시 강화군 교동면",
-        "emd_cd": 28710400
+        "emd_cd": 28710400000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -334627,7 +334627,7 @@
         "emd_eng_nm": "Songdo-dong",
         "emd_kor_nm": "송도동",
         "full_nm": "인천광역시 연수구 송도동",
-        "emd_cd": 28185106
+        "emd_cd": 28185106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -337681,7 +337681,7 @@
         "emd_eng_nm": "Gongchon-dong",
         "emd_kor_nm": "공촌동",
         "full_nm": "인천광역시 서구 공촌동",
-        "emd_cd": 28260105
+        "emd_cd": 28260105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -340371,7 +340371,7 @@
         "emd_eng_nm": "Hang-dong 7(chil)-ga",
         "emd_kor_nm": "항동7가",
         "full_nm": "인천광역시 중구 항동7가",
-        "emd_cd": 28110118
+        "emd_cd": 28110118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -341513,7 +341513,7 @@
         "emd_eng_nm": "Songhak-dong 1(il)-ga",
         "emd_kor_nm": "송학동1가",
         "full_nm": "인천광역시 중구 송학동1가",
-        "emd_cd": 28110119
+        "emd_cd": 28110119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -341667,7 +341667,7 @@
         "emd_eng_nm": "Gyeongseo-dong",
         "emd_kor_nm": "경서동",
         "full_nm": "인천광역시 서구 경서동",
-        "emd_cd": 28260104
+        "emd_cd": 28260104000
       },
       "geometry": {
         "type": "MultiPolygon",

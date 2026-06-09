@@ -7,7 +7,7 @@
         "emd_eng_nm": "Eojin-dong",
         "emd_kor_nm": "어진동",
         "full_nm": "세종특별자치시  어진동",
-        "emd_cd": 36110110
+        "emd_cd": 36110110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2317,7 +2317,7 @@
         "emd_eng_nm": "Jongchon-dong",
         "emd_kor_nm": "종촌동",
         "full_nm": "세종특별자치시  종촌동",
-        "emd_cd": 36110111
+        "emd_cd": 36110111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3547,7 +3547,7 @@
         "emd_eng_nm": "Naseong-dong",
         "emd_kor_nm": "나성동",
         "full_nm": "세종특별자치시  나성동",
-        "emd_cd": 36110107
+        "emd_cd": 36110107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4401,7 +4401,7 @@
         "emd_eng_nm": "Yeonseo-myeon",
         "emd_kor_nm": "연서면",
         "full_nm": "세종특별자치시  연서면",
-        "emd_cd": 36110360
+        "emd_cd": 36110360000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10003,7 +10003,7 @@
         "emd_eng_nm": "Hansol-dong",
         "emd_kor_nm": "한솔동",
         "full_nm": "세종특별자치시  한솔동",
-        "emd_cd": 36110106
+        "emd_cd": 36110106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10993,7 +10993,7 @@
         "emd_eng_nm": "Yeongi-myeon",
         "emd_kor_nm": "연기면",
         "full_nm": "세종특별자치시  연기면",
-        "emd_cd": 36110310
+        "emd_cd": 36110310000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14535,7 +14535,7 @@
         "emd_eng_nm": "Jochiwon-eup",
         "emd_kor_nm": "조치원읍",
         "full_nm": "세종특별자치시  조치원읍",
-        "emd_cd": 36110250
+        "emd_cd": 36110250000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18233,7 +18233,7 @@
         "emd_eng_nm": "Bangok-dong",
         "emd_kor_nm": "반곡동",
         "full_nm": "세종특별자치시  반곡동",
-        "emd_cd": 36110101
+        "emd_cd": 36110101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19883,7 +19883,7 @@
         "emd_eng_nm": "Yongho-dong",
         "emd_kor_nm": "용호동",
         "full_nm": "세종특별자치시  용호동",
-        "emd_cd": 36110123
+        "emd_cd": 36110123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21429,7 +21429,7 @@
         "emd_eng_nm": "Dasom-dong",
         "emd_kor_nm": "다솜동",
         "full_nm": "세종특별자치시  다솜동",
-        "emd_cd": 36110122
+        "emd_cd": 36110122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22947,7 +22947,7 @@
         "emd_eng_nm": "Hapgang-dong",
         "emd_kor_nm": "합강동",
         "full_nm": "세종특별자치시  합강동",
-        "emd_cd": 36110117
+        "emd_cd": 36110117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25649,7 +25649,7 @@
         "emd_eng_nm": "Haemil-dong",
         "emd_kor_nm": "해밀동",
         "full_nm": "세종특별자치시  해밀동",
-        "emd_cd": 36110116
+        "emd_cd": 36110116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27127,7 +27127,7 @@
         "emd_eng_nm": "Jeonui-myeon",
         "emd_kor_nm": "전의면",
         "full_nm": "세종특별자치시  전의면",
-        "emd_cd": 36110370
+        "emd_cd": 36110370000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34269,7 +34269,7 @@
         "emd_eng_nm": "Daepyeong-dong",
         "emd_kor_nm": "대평동",
         "full_nm": "세종특별자치시  대평동",
-        "emd_cd": 36110104
+        "emd_cd": 36110104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35351,7 +35351,7 @@
         "emd_eng_nm": "Garam-dong",
         "emd_kor_nm": "가람동",
         "full_nm": "세종특별자치시  가람동",
-        "emd_cd": 36110105
+        "emd_cd": 36110105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37049,7 +37049,7 @@
         "emd_eng_nm": "Yeondong-myeon",
         "emd_kor_nm": "연동면",
         "full_nm": "세종특별자치시  연동면",
-        "emd_cd": 36110320
+        "emd_cd": 36110320000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41255,7 +41255,7 @@
         "emd_eng_nm": "Sojeong-myeon",
         "emd_kor_nm": "소정면",
         "full_nm": "세종특별자치시  소정면",
-        "emd_cd": 36110390
+        "emd_cd": 36110390000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45493,7 +45493,7 @@
         "emd_eng_nm": "Areum-dong",
         "emd_kor_nm": "아름동",
         "full_nm": "세종특별자치시  아름동",
-        "emd_cd": 36110113
+        "emd_cd": 36110113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48455,7 +48455,7 @@
         "emd_eng_nm": "Goun-dong",
         "emd_kor_nm": "고운동",
         "full_nm": "세종특별자치시  고운동",
-        "emd_cd": 36110112
+        "emd_cd": 36110112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51389,7 +51389,7 @@
         "emd_eng_nm": "Geumnam-myeon",
         "emd_kor_nm": "금남면",
         "full_nm": "세종특별자치시  금남면",
-        "emd_cd": 36110340
+        "emd_cd": 36110340000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59819,7 +59819,7 @@
         "emd_eng_nm": "Sejong-dong",
         "emd_kor_nm": "세종동",
         "full_nm": "세종특별자치시  세종동",
-        "emd_cd": 36110119
+        "emd_cd": 36110119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74201,7 +74201,7 @@
         "emd_eng_nm": "Jiphyeon-dong",
         "emd_kor_nm": "집현동",
         "full_nm": "세종특별자치시  집현동",
-        "emd_cd": 36110118
+        "emd_cd": 36110118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76923,7 +76923,7 @@
         "emd_eng_nm": "Dodam-dong",
         "emd_kor_nm": "도담동",
         "full_nm": "세종특별자치시  도담동",
-        "emd_cd": 36110114
+        "emd_cd": 36110114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80257,7 +80257,7 @@
         "emd_eng_nm": "Sanul-dong",
         "emd_kor_nm": "산울동",
         "full_nm": "세종특별자치시  산울동",
-        "emd_cd": 36110115
+        "emd_cd": 36110115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82551,7 +82551,7 @@
         "emd_eng_nm": "Nuri-dong",
         "emd_kor_nm": "누리동",
         "full_nm": "세종특별자치시  누리동",
-        "emd_cd": 36110120
+        "emd_cd": 36110120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85209,7 +85209,7 @@
         "emd_eng_nm": "Hanbyeol-dong",
         "emd_kor_nm": "한별동",
         "full_nm": "세종특별자치시  한별동",
-        "emd_cd": 36110121
+        "emd_cd": 36110121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86875,7 +86875,7 @@
         "emd_eng_nm": "Bugang-myeon",
         "emd_kor_nm": "부강면",
         "full_nm": "세종특별자치시  부강면",
-        "emd_cd": 36110330
+        "emd_cd": 36110330000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91409,7 +91409,7 @@
         "emd_eng_nm": "Jeondong-myeon",
         "emd_kor_nm": "전동면",
         "full_nm": "세종특별자치시  전동면",
-        "emd_cd": 36110380
+        "emd_cd": 36110380000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95731,7 +95731,7 @@
         "emd_eng_nm": "Boram-dong",
         "emd_kor_nm": "보람동",
         "full_nm": "세종특별자치시  보람동",
-        "emd_cd": 36110103
+        "emd_cd": 36110103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96597,7 +96597,7 @@
         "emd_eng_nm": "Sodam-dong",
         "emd_kor_nm": "소담동",
         "full_nm": "세종특별자치시  소담동",
-        "emd_cd": 36110102
+        "emd_cd": 36110102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97243,7 +97243,7 @@
         "emd_eng_nm": "Janggun-myeon",
         "emd_kor_nm": "장군면",
         "full_nm": "세종특별자치시  장군면",
-        "emd_cd": 36110350
+        "emd_cd": 36110350000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103109,7 +103109,7 @@
         "emd_eng_nm": "Dajeong-dong",
         "emd_kor_nm": "다정동",
         "full_nm": "세종특별자치시  다정동",
-        "emd_cd": 36110109
+        "emd_cd": 36110109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104267,7 +104267,7 @@
         "emd_eng_nm": "Saerom-dong",
         "emd_kor_nm": "새롬동",
         "full_nm": "세종특별자치시  새롬동",
-        "emd_cd": 36110108
+        "emd_cd": 36110108000
       },
       "geometry": {
         "type": "MultiPolygon",

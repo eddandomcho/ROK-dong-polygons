@@ -24,7 +24,7 @@ def transform_to_geojson(input_file_path, output_folder_path):
         ]
     }
 
-    geojs["features"][0]["properties"]["ctprvn_cd"] = int(geojs["features"][0]["properties"]["ctprvn_cd"])
+    geojs["features"][0]["properties"]["ctprvn_cd"] = int(geojs["features"][0]["properties"]["ctprvn_cd"]) * 100000000
 
     with open(f"{output_folder_path}_geo.json", "w", encoding = "utf-8") as f:
         json.dump(geojs, f, indent = 2, ensure_ascii = False)

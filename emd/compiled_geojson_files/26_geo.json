@@ -7,7 +7,7 @@
         "emd_eng_nm": "Bupyeong-dong 1(il)-ga",
         "emd_kor_nm": "부평동1가",
         "full_nm": "부산광역시 중구 부평동1가",
-        "emd_cd": 26110123
+        "emd_cd": 26110123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173,7 +173,7 @@
         "emd_eng_nm": "Daehang-dong",
         "emd_kor_nm": "대항동",
         "full_nm": "부산광역시 강서구 대항동",
-        "emd_cd": 26440122
+        "emd_cd": 26440122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2371,7 +2371,7 @@
         "emd_eng_nm": "Bosu-dong 3(sam)-ga",
         "emd_kor_nm": "보수동3가",
         "full_nm": "부산광역시 중구 보수동3가",
-        "emd_cd": 26110122
+        "emd_cd": 26110122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2533,7 +2533,7 @@
         "emd_eng_nm": "Bongnae-dong 2(i)-ga",
         "emd_kor_nm": "봉래동2가",
         "full_nm": "부산광역시 영도구 봉래동2가",
-        "emd_cd": 26200116
+        "emd_cd": 26200116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3011,7 +3011,7 @@
         "emd_eng_nm": "Bongnae-dong 3(sam)-ga",
         "emd_kor_nm": "봉래동3가",
         "full_nm": "부산광역시 영도구 봉래동3가",
-        "emd_cd": 26200117
+        "emd_cd": 26200117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3717,7 +3717,7 @@
         "emd_eng_nm": "Gwaebeop-dong",
         "emd_kor_nm": "괘법동",
         "full_nm": "부산광역시 사상구 괘법동",
-        "emd_cd": 26530104
+        "emd_cd": 26530104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4463,7 +4463,7 @@
         "emd_eng_nm": "Gamjeon-dong",
         "emd_kor_nm": "감전동",
         "full_nm": "부산광역시 사상구 감전동",
-        "emd_cd": 26530105
+        "emd_cd": 26530105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5441,7 +5441,7 @@
         "emd_eng_nm": "Myeongjang-dong",
         "emd_kor_nm": "명장동",
         "full_nm": "부산광역시 동래구 명장동",
-        "emd_cd": 26260101
+        "emd_cd": 26260101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6731,7 +6731,7 @@
         "emd_eng_nm": "Seodaesin-dong 1(il)-ga",
         "emd_kor_nm": "서대신동1가",
         "full_nm": "부산광역시 서구 서대신동1가",
-        "emd_cd": 26140104
+        "emd_cd": 26140104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7693,7 +7693,7 @@
         "emd_eng_nm": "Namsan-dong",
         "emd_kor_nm": "남산동",
         "full_nm": "부산광역시 금정구 남산동",
-        "emd_cd": 26410104
+        "emd_cd": 26410104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9019,7 +9019,7 @@
         "emd_eng_nm": "Seon-dong",
         "emd_kor_nm": "선동",
         "full_nm": "부산광역시 금정구 선동",
-        "emd_cd": 26410105
+        "emd_cd": 26410105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10293,7 +10293,7 @@
         "emd_eng_nm": "Seodaesin-dong 2(i)-ga",
         "emd_kor_nm": "서대신동2가",
         "full_nm": "부산광역시 서구 서대신동2가",
-        "emd_cd": 26140105
+        "emd_cd": 26140105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11487,7 +11487,7 @@
         "emd_eng_nm": "Choryang-dong",
         "emd_kor_nm": "초량동",
         "full_nm": "부산광역시 동구 초량동",
-        "emd_cd": 26170101
+        "emd_cd": 26170101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13829,7 +13829,7 @@
         "emd_eng_nm": "Sinchang-dong 3(sam)-ga",
         "emd_kor_nm": "신창동3가",
         "full_nm": "부산광역시 중구 신창동3가",
-        "emd_cd": 26110129
+        "emd_cd": 26110129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14451,7 +14451,7 @@
         "emd_eng_nm": "Sinchang-dong 2(i)-ga",
         "emd_kor_nm": "신창동2가",
         "full_nm": "부산광역시 중구 신창동2가",
-        "emd_cd": 26110128
+        "emd_cd": 26110128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15057,7 +15057,7 @@
         "emd_eng_nm": "Mangmi-dong",
         "emd_kor_nm": "망미동",
         "full_nm": "부산광역시 수영구 망미동",
-        "emd_cd": 26500101
+        "emd_cd": 26500101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17075,7 +17075,7 @@
         "emd_eng_nm": "Daecheong-dong 2(i)-ga",
         "emd_kor_nm": "대청동2가",
         "full_nm": "부산광역시 중구 대청동2가",
-        "emd_cd": 26110117
+        "emd_cd": 26110117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17673,7 +17673,7 @@
         "emd_eng_nm": "Sinho-dong",
         "emd_kor_nm": "신호동",
         "full_nm": "부산광역시 강서구 신호동",
-        "emd_cd": 26440117
+        "emd_cd": 26440117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19079,7 +19079,7 @@
         "emd_eng_nm": "Beombang-dong",
         "emd_kor_nm": "범방동",
         "full_nm": "부산광역시 강서구 범방동",
-        "emd_cd": 26440116
+        "emd_cd": 26440116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24385,7 +24385,7 @@
         "emd_eng_nm": "Daecheong-dong 1(il)-ga",
         "emd_kor_nm": "대청동1가",
         "full_nm": "부산광역시 중구 대청동1가",
-        "emd_cd": 26110116
+        "emd_cd": 26110116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25591,7 +25591,7 @@
         "emd_eng_nm": "Daegyo-dong 1(il)-ga",
         "emd_kor_nm": "대교동1가",
         "full_nm": "부산광역시 영도구 대교동1가",
-        "emd_cd": 26200101
+        "emd_cd": 26200101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25753,7 +25753,7 @@
         "emd_eng_nm": "Gwangbok-dong 2(i)-ga",
         "emd_kor_nm": "광복동2가",
         "full_nm": "부산광역시 중구 광복동2가",
-        "emd_cd": 26110134
+        "emd_cd": 26110134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26267,7 +26267,7 @@
         "emd_eng_nm": "Gwangbok-dong 3(sam)-ga",
         "emd_kor_nm": "광복동3가",
         "full_nm": "부산광역시 중구 광복동3가",
-        "emd_cd": 26110135
+        "emd_cd": 26110135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26441,7 +26441,7 @@
         "emd_eng_nm": "Bansong-dong",
         "emd_kor_nm": "반송동",
         "full_nm": "부산광역시 해운대구 반송동",
-        "emd_cd": 26350101
+        "emd_cd": 26350101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27907,7 +27907,7 @@
         "emd_eng_nm": "Toseong-dong 2(i)-ga",
         "emd_kor_nm": "토성동2가",
         "full_nm": "부산광역시 서구 토성동2가",
-        "emd_cd": 26140113
+        "emd_cd": 26140113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27997,7 +27997,7 @@
         "emd_eng_nm": "Geumseong-dong",
         "emd_kor_nm": "금성동",
         "full_nm": "부산광역시 금정구 금성동",
-        "emd_cd": 26410113
+        "emd_cd": 26410113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29235,7 +29235,7 @@
         "emd_eng_nm": "Hoedong-dong",
         "emd_kor_nm": "회동동",
         "full_nm": "부산광역시 금정구 회동동",
-        "emd_cd": 26410112
+        "emd_cd": 26410112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30501,7 +30501,7 @@
         "emd_eng_nm": "Toseong-dong 1(il)-ga",
         "emd_kor_nm": "토성동1가",
         "full_nm": "부산광역시 서구 토성동1가",
-        "emd_cd": 26140112
+        "emd_cd": 26140112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30647,7 +30647,7 @@
         "emd_eng_nm": "Geumgok-dong",
         "emd_kor_nm": "금곡동",
         "full_nm": "부산광역시 북구 금곡동",
-        "emd_cd": 26320101
+        "emd_cd": 26320101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32057,7 +32057,7 @@
         "emd_eng_nm": "Gupyeong-dong",
         "emd_kor_nm": "구평동",
         "full_nm": "부산광역시 사하구 구평동",
-        "emd_cd": 26380107
+        "emd_cd": 26380107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33635,7 +33635,7 @@
         "emd_eng_nm": "Dadae-dong",
         "emd_kor_nm": "다대동",
         "full_nm": "부산광역시 사하구 다대동",
-        "emd_cd": 26380106
+        "emd_cd": 26380106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40817,7 +40817,7 @@
         "emd_eng_nm": "Yongdang-dong",
         "emd_kor_nm": "용당동",
         "full_nm": "부산광역시 남구 용당동",
-        "emd_cd": 26290108
+        "emd_cd": 26290108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42251,7 +42251,7 @@
         "emd_eng_nm": "Munhyeon-dong",
         "emd_kor_nm": "문현동",
         "full_nm": "부산광역시 남구 문현동",
-        "emd_cd": 26290109
+        "emd_cd": 26290109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44513,7 +44513,7 @@
         "emd_eng_nm": "Daejeo 1(il)-dong",
         "emd_kor_nm": "대저1동",
         "full_nm": "부산광역시 강서구 대저1동",
-        "emd_cd": 26440101
+        "emd_cd": 26440101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47411,7 +47411,7 @@
         "emd_eng_nm": "Yeongju-dong",
         "emd_kor_nm": "영주동",
         "full_nm": "부산광역시 중구 영주동",
-        "emd_cd": 26110101
+        "emd_cd": 26110101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49449,7 +49449,7 @@
         "emd_eng_nm": "Chojang-dong",
         "emd_kor_nm": "초장동",
         "full_nm": "부산광역시 서구 초장동",
-        "emd_cd": 26140119
+        "emd_cd": 26140119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50411,7 +50411,7 @@
         "emd_eng_nm": "Beomcheon-dong",
         "emd_kor_nm": "범천동",
         "full_nm": "부산광역시 부산진구 범천동",
-        "emd_cd": 26230104
+        "emd_cd": 26230104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52841,7 +52841,7 @@
         "emd_eng_nm": "Beomjeon-dong",
         "emd_kor_nm": "범전동",
         "full_nm": "부산광역시 부산진구 범전동",
-        "emd_cd": 26230105
+        "emd_cd": 26230105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54615,7 +54615,7 @@
         "emd_eng_nm": "Toseong-dong 5(o)-ga",
         "emd_kor_nm": "토성동5가",
         "full_nm": "부산광역시 서구 토성동5가",
-        "emd_cd": 26140118
+        "emd_cd": 26140118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54713,7 +54713,7 @@
         "emd_eng_nm": "Namhang-dong 2(i)-ga",
         "emd_kor_nm": "남항동2가",
         "full_nm": "부산광역시 영도구 남항동2가",
-        "emd_cd": 26200106
+        "emd_cd": 26200106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55327,7 +55327,7 @@
         "emd_eng_nm": "Namhang-dong 3(sam)-ga",
         "emd_kor_nm": "남항동3가",
         "full_nm": "부산광역시 영도구 남항동3가",
-        "emd_cd": 26200107
+        "emd_cd": 26200107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56017,7 +56017,7 @@
         "emd_eng_nm": "Ilgwang-eup",
         "emd_kor_nm": "일광읍",
         "full_nm": "부산광역시 기장군 일광읍",
-        "emd_cd": 26710259
+        "emd_cd": 26710259000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63631,7 +63631,7 @@
         "emd_eng_nm": "Gwangbok-dong 1(il)-ga",
         "emd_kor_nm": "광복동1가",
         "full_nm": "부산광역시 중구 광복동1가",
-        "emd_cd": 26110133
+        "emd_cd": 26110133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64005,7 +64005,7 @@
         "emd_eng_nm": "Changseon-dong 2(i)-ga",
         "emd_kor_nm": "창선동2가",
         "full_nm": "부산광역시 중구 창선동2가",
-        "emd_cd": 26110132
+        "emd_cd": 26110132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64247,7 +64247,7 @@
         "emd_eng_nm": "Yeonsan-dong",
         "emd_kor_nm": "연산동",
         "full_nm": "부산광역시 연제구 연산동",
-        "emd_cd": 26470102
+        "emd_cd": 26470102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66309,7 +66309,7 @@
         "emd_eng_nm": "Danggam-dong",
         "emd_kor_nm": "당감동",
         "full_nm": "부산광역시 부산진구 당감동",
-        "emd_cd": 26230109
+        "emd_cd": 26230109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69863,7 +69863,7 @@
         "emd_eng_nm": "Toseong-dong 3(sam)-ga",
         "emd_kor_nm": "토성동3가",
         "full_nm": "부산광역시 서구 토성동3가",
-        "emd_cd": 26140114
+        "emd_cd": 26140114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69997,7 +69997,7 @@
         "emd_eng_nm": "Ami-dong 1(il)-ga",
         "emd_kor_nm": "아미동1가",
         "full_nm": "부산광역시 서구 아미동1가",
-        "emd_cd": 26140115
+        "emd_cd": 26140115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70075,7 +70075,7 @@
         "emd_eng_nm": "Buam-dong",
         "emd_kor_nm": "부암동",
         "full_nm": "부산광역시 부산진구 부암동",
-        "emd_cd": 26230108
+        "emd_cd": 26230108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73181,7 +73181,7 @@
         "emd_eng_nm": "Jung-dong",
         "emd_kor_nm": "중동",
         "full_nm": "부산광역시 해운대구 중동",
-        "emd_cd": 26350106
+        "emd_cd": 26350106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75855,7 +75855,7 @@
         "emd_eng_nm": "Jwa-dong",
         "emd_kor_nm": "좌동",
         "full_nm": "부산광역시 해운대구 좌동",
-        "emd_cd": 26350107
+        "emd_cd": 26350107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78509,7 +78509,7 @@
         "emd_eng_nm": "Goejeong-dong",
         "emd_kor_nm": "괴정동",
         "full_nm": "부산광역시 사하구 괴정동",
-        "emd_cd": 26380101
+        "emd_cd": 26380101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80179,7 +80179,7 @@
         "emd_eng_nm": "Nampo-dong 4(sa)-ga",
         "emd_kor_nm": "남포동4가",
         "full_nm": "부산광역시 중구 남포동4가",
-        "emd_cd": 26110139
+        "emd_cd": 26110139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80629,7 +80629,7 @@
         "emd_eng_nm": "Nampo-dong 3(sam)-ga",
         "emd_kor_nm": "남포동3가",
         "full_nm": "부산광역시 중구 남포동3가",
-        "emd_cd": 26110138
+        "emd_cd": 26110138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81043,7 +81043,7 @@
         "emd_eng_nm": "Jangan-eup",
         "emd_kor_nm": "장안읍",
         "full_nm": "부산광역시 기장군 장안읍",
-        "emd_cd": 26710253
+        "emd_cd": 26710253000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87597,7 +87597,7 @@
         "emd_eng_nm": "Chungmu-dong 1(il)-ga",
         "emd_kor_nm": "충무동1가",
         "full_nm": "부산광역시 서구 충무동1가",
-        "emd_cd": 26140120
+        "emd_cd": 26140120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87995,7 +87995,7 @@
         "emd_eng_nm": "Chungmu-dong 2(i)-ga",
         "emd_kor_nm": "충무동2가",
         "full_nm": "부산광역시 서구 충무동2가",
-        "emd_cd": 26140121
+        "emd_cd": 26140121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88365,7 +88365,7 @@
         "emd_eng_nm": "Jukdong-dong",
         "emd_kor_nm": "죽동동",
         "full_nm": "부산광역시 강서구 죽동동",
-        "emd_cd": 26440107
+        "emd_cd": 26440107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90523,7 +90523,7 @@
         "emd_eng_nm": "Jungang-dong 4(sa)-ga",
         "emd_kor_nm": "중앙동4가",
         "full_nm": "부산광역시 중구 중앙동4가",
-        "emd_cd": 26110107
+        "emd_cd": 26110107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91985,7 +91985,7 @@
         "emd_eng_nm": "Jungang-dong 3(sam)-ga",
         "emd_kor_nm": "중앙동3가",
         "full_nm": "부산광역시 중구 중앙동3가",
-        "emd_cd": 26110106
+        "emd_cd": 26110106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92127,7 +92127,7 @@
         "emd_eng_nm": "Singman-dong",
         "emd_kor_nm": "식만동",
         "full_nm": "부산광역시 강서구 식만동",
-        "emd_cd": 26440106
+        "emd_cd": 26440106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93325,7 +93325,7 @@
         "emd_eng_nm": "Bujeon-dong",
         "emd_kor_nm": "부전동",
         "full_nm": "부산광역시 부산진구 부전동",
-        "emd_cd": 26230103
+        "emd_cd": 26230103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94887,7 +94887,7 @@
         "emd_eng_nm": "Jeonpo-dong",
         "emd_kor_nm": "전포동",
         "full_nm": "부산광역시 부산진구 전포동",
-        "emd_cd": 26230102
+        "emd_cd": 26230102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96145,7 +96145,7 @@
         "emd_eng_nm": "Bupyeong-dong 2(i)-ga",
         "emd_kor_nm": "부평동2가",
         "full_nm": "부산광역시 중구 부평동2가",
-        "emd_cd": 26110124
+        "emd_cd": 26110124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96311,7 +96311,7 @@
         "emd_eng_nm": "Bupyeong-dong 3(sam)-ga",
         "emd_kor_nm": "부평동3가",
         "full_nm": "부산광역시 중구 부평동3가",
-        "emd_cd": 26110125
+        "emd_cd": 26110125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96461,7 +96461,7 @@
         "emd_eng_nm": "Yeongseon-dong 4(sa)-ga",
         "emd_kor_nm": "영선동4가",
         "full_nm": "부산광역시 영도구 영선동4가",
-        "emd_cd": 26200111
+        "emd_cd": 26200111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97819,7 +97819,7 @@
         "emd_eng_nm": "Yeongseon-dong 3(sam)-ga",
         "emd_kor_nm": "영선동3가",
         "full_nm": "부산광역시 영도구 영선동3가",
-        "emd_cd": 26200110
+        "emd_cd": 26200110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98041,7 +98041,7 @@
         "emd_eng_nm": "Deokpo-dong",
         "emd_kor_nm": "덕포동",
         "full_nm": "부산광역시 사상구 덕포동",
-        "emd_cd": 26530103
+        "emd_cd": 26530103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98635,7 +98635,7 @@
         "emd_eng_nm": "Mora-dong",
         "emd_kor_nm": "모라동",
         "full_nm": "부산광역시 사상구 모라동",
-        "emd_cd": 26530102
+        "emd_cd": 26530102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99585,7 +99585,7 @@
         "emd_eng_nm": "Myeongnyun-dong",
         "emd_kor_nm": "명륜동",
         "full_nm": "부산광역시 동래구 명륜동",
-        "emd_cd": 26260107
+        "emd_cd": 26260107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101475,7 +101475,7 @@
         "emd_eng_nm": "Suan-dong",
         "emd_kor_nm": "수안동",
         "full_nm": "부산광역시 동래구 수안동",
-        "emd_cd": 26260106
+        "emd_cd": 26260106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103381,7 +103381,7 @@
         "emd_eng_nm": "Cheolma-myeon",
         "emd_kor_nm": "철마면",
         "full_nm": "부산광역시 기장군 철마면",
-        "emd_cd": 26710330
+        "emd_cd": 26710330000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107459,7 +107459,7 @@
         "emd_eng_nm": "Cheongnyong-dong",
         "emd_kor_nm": "청룡동",
         "full_nm": "부산광역시 금정구 청룡동",
-        "emd_cd": 26410103
+        "emd_cd": 26410103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108705,7 +108705,7 @@
         "emd_eng_nm": "Dongdaesin-dong 3(sam)-ga",
         "emd_kor_nm": "동대신동3가",
         "full_nm": "부산광역시 서구 동대신동3가",
-        "emd_cd": 26140103
+        "emd_cd": 26140103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110319,7 +110319,7 @@
         "emd_eng_nm": "Dongdaesin-dong 2(i)-ga",
         "emd_kor_nm": "동대신동2가",
         "full_nm": "부산광역시 서구 동대신동2가",
-        "emd_cd": 26140102
+        "emd_cd": 26140102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112169,7 +112169,7 @@
         "emd_eng_nm": "Nopo-dong",
         "emd_kor_nm": "노포동",
         "full_nm": "부산광역시 금정구 노포동",
-        "emd_cd": 26410102
+        "emd_cd": 26410102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113415,7 +113415,7 @@
         "emd_eng_nm": "Eomgung-dong",
         "emd_kor_nm": "엄궁동",
         "full_nm": "부산광역시 사상구 엄궁동",
-        "emd_cd": 26530108
+        "emd_cd": 26530108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114925,7 +114925,7 @@
         "emd_eng_nm": "Bugok-dong",
         "emd_kor_nm": "부곡동",
         "full_nm": "부산광역시 금정구 부곡동",
-        "emd_cd": 26410109
+        "emd_cd": 26410109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116555,7 +116555,7 @@
         "emd_eng_nm": "Bumin-dong 1(il)-ga",
         "emd_kor_nm": "부민동1가",
         "full_nm": "부산광역시 서구 부민동1가",
-        "emd_cd": 26140109
+        "emd_cd": 26140109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116673,7 +116673,7 @@
         "emd_eng_nm": "Buyong-dong 2(i)-ga",
         "emd_kor_nm": "부용동2가",
         "full_nm": "부산광역시 서구 부용동2가",
-        "emd_cd": 26140108
+        "emd_cd": 26140108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117111,7 +117111,7 @@
         "emd_eng_nm": "Jangjeon-dong",
         "emd_kor_nm": "장전동",
         "full_nm": "부산광역시 금정구 장전동",
-        "emd_cd": 26410108
+        "emd_cd": 26410108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118557,7 +118557,7 @@
         "emd_eng_nm": "Hwajeon-dong",
         "emd_kor_nm": "화전동",
         "full_nm": "부산광역시 강서구 화전동",
-        "emd_cd": 26440110
+        "emd_cd": 26440110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121123,7 +121123,7 @@
         "emd_eng_nm": "Jungang-dong 7(chil)-ga",
         "emd_kor_nm": "중앙동7가",
         "full_nm": "부산광역시 중구 중앙동7가",
-        "emd_cd": 26110110
+        "emd_cd": 26110110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121597,7 +121597,7 @@
         "emd_eng_nm": "Donggwang-dong 1(il)-ga",
         "emd_kor_nm": "동광동1가",
         "full_nm": "부산광역시 중구 동광동1가",
-        "emd_cd": 26110111
+        "emd_cd": 26110111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122079,7 +122079,7 @@
         "emd_eng_nm": "Noksan-dong",
         "emd_kor_nm": "녹산동",
         "full_nm": "부산광역시 강서구 녹산동",
-        "emd_cd": 26440111
+        "emd_cd": 26440111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -124681,7 +124681,7 @@
         "emd_eng_nm": "Sinpyeong-dong",
         "emd_kor_nm": "신평동",
         "full_nm": "부산광역시 사하구 신평동",
-        "emd_cd": 26380104
+        "emd_cd": 26380104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -125623,7 +125623,7 @@
         "emd_eng_nm": "Jangnim-dong",
         "emd_kor_nm": "장림동",
         "full_nm": "부산광역시 사하구 장림동",
-        "emd_cd": 26380105
+        "emd_cd": 26380105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126945,7 +126945,7 @@
         "emd_eng_nm": "Yeongseon-dong 1(il)-ga",
         "emd_kor_nm": "영선동1가",
         "full_nm": "부산광역시 영도구 영선동1가",
-        "emd_cd": 26200108
+        "emd_cd": 26200108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -127471,7 +127471,7 @@
         "emd_eng_nm": "Yeongseon-dong 2(i)-ga",
         "emd_kor_nm": "영선동2가",
         "full_nm": "부산광역시 영도구 영선동2가",
-        "emd_cd": 26200109
+        "emd_cd": 26200109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128065,7 +128065,7 @@
         "emd_eng_nm": "Amnam-dong",
         "emd_kor_nm": "암남동",
         "full_nm": "부산광역시 서구 암남동",
-        "emd_cd": 26140124
+        "emd_cd": 26140124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131367,7 +131367,7 @@
         "emd_eng_nm": "Jeonggwan-eup",
         "emd_kor_nm": "정관읍",
         "full_nm": "부산광역시 기장군 정관읍",
-        "emd_cd": 26710256
+        "emd_cd": 26710256000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135273,7 +135273,7 @@
         "emd_eng_nm": "Daechang-dong 2(i)-ga",
         "emd_kor_nm": "대창동2가",
         "full_nm": "부산광역시 중구 대창동2가",
-        "emd_cd": 26110103
+        "emd_cd": 26110103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135539,7 +135539,7 @@
         "emd_eng_nm": "Gangdong-dong",
         "emd_kor_nm": "강동동",
         "full_nm": "부산광역시 강서구 강동동",
-        "emd_cd": 26440103
+        "emd_cd": 26440103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138169,7 +138169,7 @@
         "emd_eng_nm": "Daejeo 2(i)-dong",
         "emd_kor_nm": "대저2동",
         "full_nm": "부산광역시 강서구 대저2동",
-        "emd_cd": 26440102
+        "emd_cd": 26440102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141191,7 +141191,7 @@
         "emd_eng_nm": "Daechang-dong 1(il)-ga",
         "emd_kor_nm": "대창동1가",
         "full_nm": "부산광역시 중구 대창동1가",
-        "emd_cd": 26110102
+        "emd_cd": 26110102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141545,7 +141545,7 @@
         "emd_eng_nm": "Choeup-dong",
         "emd_kor_nm": "초읍동",
         "full_nm": "부산광역시 부산진구 초읍동",
-        "emd_cd": 26230107
+        "emd_cd": 26230107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143123,7 +143123,7 @@
         "emd_eng_nm": "Yeonji-dong",
         "emd_kor_nm": "연지동",
         "full_nm": "부산광역시 부산진구 연지동",
-        "emd_cd": 26230106
+        "emd_cd": 26230106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145197,7 +145197,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "부산광역시 해운대구 송정동",
-        "emd_cd": 26350108
+        "emd_cd": 26350108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147247,7 +147247,7 @@
         "emd_eng_nm": "Daegyo-dong 2(i)-ga",
         "emd_kor_nm": "대교동2가",
         "full_nm": "부산광역시 영도구 대교동2가",
-        "emd_cd": 26200102
+        "emd_cd": 26200102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147421,7 +147421,7 @@
         "emd_eng_nm": "Daepyeong-dong 1(il)-ga",
         "emd_kor_nm": "대평동1가",
         "full_nm": "부산광역시 영도구 대평동1가",
-        "emd_cd": 26200103
+        "emd_cd": 26200103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147707,7 +147707,7 @@
         "emd_eng_nm": "Nampo-dong 2(i)-ga",
         "emd_kor_nm": "남포동2가",
         "full_nm": "부산광역시 중구 남포동2가",
-        "emd_cd": 26110137
+        "emd_cd": 26110137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148301,7 +148301,7 @@
         "emd_eng_nm": "Nampo-dong 1(il)-ga",
         "emd_kor_nm": "남포동1가",
         "full_nm": "부산광역시 중구 남포동1가",
-        "emd_cd": 26110136
+        "emd_cd": 26110136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148707,7 +148707,7 @@
         "emd_eng_nm": "Seokdae-dong",
         "emd_kor_nm": "석대동",
         "full_nm": "부산광역시 해운대구 석대동",
-        "emd_cd": 26350102
+        "emd_cd": 26350102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149973,7 +149973,7 @@
         "emd_eng_nm": "Banyeo-dong",
         "emd_kor_nm": "반여동",
         "full_nm": "부산광역시 해운대구 반여동",
-        "emd_cd": 26350103
+        "emd_cd": 26350103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152107,7 +152107,7 @@
         "emd_eng_nm": "Nampo-dong 5(o)-ga",
         "emd_kor_nm": "남포동5가",
         "full_nm": "부산광역시 중구 남포동5가",
-        "emd_cd": 26110140
+        "emd_cd": 26110140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152429,7 +152429,7 @@
         "emd_eng_nm": "Nampo-dong 6(yuk)-ga",
         "emd_kor_nm": "남포동6가",
         "full_nm": "부산광역시 중구 남포동6가",
-        "emd_cd": 26110141
+        "emd_cd": 26110141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152659,7 +152659,7 @@
         "emd_eng_nm": "Hwamyeong-dong",
         "emd_kor_nm": "화명동",
         "full_nm": "부산광역시 북구 화명동",
-        "emd_cd": 26320102
+        "emd_cd": 26320102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -154601,7 +154601,7 @@
         "emd_eng_nm": "Mandeok-dong",
         "emd_kor_nm": "만덕동",
         "full_nm": "부산광역시 북구 만덕동",
-        "emd_cd": 26320103
+        "emd_cd": 26320103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155703,7 +155703,7 @@
         "emd_eng_nm": "Bumin-dong 2(i)-ga",
         "emd_kor_nm": "부민동2가",
         "full_nm": "부산광역시 서구 부민동2가",
-        "emd_cd": 26140110
+        "emd_cd": 26140110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155757,7 +155757,7 @@
         "emd_eng_nm": "Seo-dong",
         "emd_kor_nm": "서동",
         "full_nm": "부산광역시 금정구 서동",
-        "emd_cd": 26410110
+        "emd_cd": 26410110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157247,7 +157247,7 @@
         "emd_eng_nm": "Geumsa-dong",
         "emd_kor_nm": "금사동",
         "full_nm": "부산광역시 금정구 금사동",
-        "emd_cd": 26410111
+        "emd_cd": 26410111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158365,7 +158365,7 @@
         "emd_eng_nm": "Bumin-dong 3(sam)-ga",
         "emd_kor_nm": "부민동3가",
         "full_nm": "부산광역시 서구 부민동3가",
-        "emd_cd": 26140111
+        "emd_cd": 26140111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158971,7 +158971,7 @@
         "emd_eng_nm": "Jungang-dong 6(yuk)-ga",
         "emd_kor_nm": "중앙동6가",
         "full_nm": "부산광역시 중구 중앙동6가",
-        "emd_cd": 26110109
+        "emd_cd": 26110109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -159421,7 +159421,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "부산광역시 강서구 송정동",
-        "emd_cd": 26440109
+        "emd_cd": 26440109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162219,7 +162219,7 @@
         "emd_eng_nm": "Bongnim-dong",
         "emd_kor_nm": "봉림동",
         "full_nm": "부산광역시 강서구 봉림동",
-        "emd_cd": 26440108
+        "emd_cd": 26440108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164629,7 +164629,7 @@
         "emd_eng_nm": "Jungang-dong 5(o)-ga",
         "emd_kor_nm": "중앙동5가",
         "full_nm": "부산광역시 중구 중앙동5가",
-        "emd_cd": 26110108
+        "emd_cd": 26110108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164879,7 +164879,7 @@
         "emd_eng_nm": "Sujeong-dong",
         "emd_kor_nm": "수정동",
         "full_nm": "부산광역시 동구 수정동",
-        "emd_cd": 26170102
+        "emd_cd": 26170102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166985,7 +166985,7 @@
         "emd_eng_nm": "Jwacheon-dong",
         "emd_kor_nm": "좌천동",
         "full_nm": "부산광역시 동구 좌천동",
-        "emd_cd": 26170103
+        "emd_cd": 26170103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -169615,7 +169615,7 @@
         "emd_eng_nm": "Gaya-dong",
         "emd_kor_nm": "가야동",
         "full_nm": "부산광역시 부산진구 가야동",
-        "emd_cd": 26230110
+        "emd_cd": 26230110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171413,7 +171413,7 @@
         "emd_eng_nm": "Gaegeum-dong",
         "emd_kor_nm": "개금동",
         "full_nm": "부산광역시 부산진구 개금동",
-        "emd_cd": 26230111
+        "emd_cd": 26230111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173435,7 +173435,7 @@
         "emd_eng_nm": "Suyeong-dong",
         "emd_kor_nm": "수영동",
         "full_nm": "부산광역시 수영구 수영동",
-        "emd_cd": 26500102
+        "emd_cd": 26500102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174773,7 +174773,7 @@
         "emd_eng_nm": "Dongsam-dong",
         "emd_kor_nm": "동삼동",
         "full_nm": "부산광역시 영도구 동삼동",
-        "emd_cd": 26200121
+        "emd_cd": 26200121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -178975,7 +178975,7 @@
         "emd_eng_nm": "Millak-dong",
         "emd_kor_nm": "민락동",
         "full_nm": "부산광역시 수영구 민락동",
-        "emd_cd": 26500103
+        "emd_cd": 26500103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180029,7 +180029,7 @@
         "emd_eng_nm": "Cheonghak-dong",
         "emd_kor_nm": "청학동",
         "full_nm": "부산광역시 영도구 청학동",
-        "emd_cd": 26200120
+        "emd_cd": 26200120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -181439,7 +181439,7 @@
         "emd_eng_nm": "Donggwang-dong 4(sa)-ga",
         "emd_kor_nm": "동광동4가",
         "full_nm": "부산광역시 중구 동광동4가",
-        "emd_cd": 26110114
+        "emd_cd": 26110114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -181617,7 +181617,7 @@
         "emd_eng_nm": "Sajik-dong",
         "emd_kor_nm": "사직동",
         "full_nm": "부산광역시 동래구 사직동",
-        "emd_cd": 26260109
+        "emd_cd": 26260109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -182735,7 +182735,7 @@
         "emd_eng_nm": "Jisa-dong",
         "emd_kor_nm": "지사동",
         "full_nm": "부산광역시 강서구 지사동",
-        "emd_cd": 26440114
+        "emd_cd": 26440114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -184049,7 +184049,7 @@
         "emd_eng_nm": "Oncheon-dong",
         "emd_kor_nm": "온천동",
         "full_nm": "부산광역시 동래구 온천동",
-        "emd_cd": 26260108
+        "emd_cd": 26260108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185999,7 +185999,7 @@
         "emd_eng_nm": "Mieum-dong",
         "emd_kor_nm": "미음동",
         "full_nm": "부산광역시 강서구 미음동",
-        "emd_cd": 26440115
+        "emd_cd": 26440115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188697,7 +188697,7 @@
         "emd_eng_nm": "Donggwang-dong 5(o)-ga",
         "emd_kor_nm": "동광동5가",
         "full_nm": "부산광역시 중구 동광동5가",
-        "emd_cd": 26110115
+        "emd_cd": 26110115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189987,7 +189987,7 @@
         "emd_eng_nm": "Bosu-dong 1(il)-ga",
         "emd_kor_nm": "보수동1가",
         "full_nm": "부산광역시 중구 보수동1가",
-        "emd_cd": 26110120
+        "emd_cd": 26110120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191169,7 +191169,7 @@
         "emd_eng_nm": "Nulcha-dong",
         "emd_kor_nm": "눌차동",
         "full_nm": "부산광역시 강서구 눌차동",
-        "emd_cd": 26440120
+        "emd_cd": 26440120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194127,7 +194127,7 @@
         "emd_eng_nm": "Cheonseong-dong",
         "emd_kor_nm": "천성동",
         "full_nm": "부산광역시 강서구 천성동",
-        "emd_cd": 26440121
+        "emd_cd": 26440121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196841,7 +196841,7 @@
         "emd_eng_nm": "Bosu-dong 2(i)-ga",
         "emd_kor_nm": "보수동2가",
         "full_nm": "부산광역시 중구 보수동2가",
-        "emd_cd": 26110121
+        "emd_cd": 26110121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -197067,7 +197067,7 @@
         "emd_eng_nm": "Hakjang-dong",
         "emd_kor_nm": "학장동",
         "full_nm": "부산광역시 사상구 학장동",
-        "emd_cd": 26530107
+        "emd_cd": 26530107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -198229,7 +198229,7 @@
         "emd_eng_nm": "Jurye-dong",
         "emd_kor_nm": "주례동",
         "full_nm": "부산광역시 사상구 주례동",
-        "emd_cd": 26530106
+        "emd_cd": 26530106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199519,7 +199519,7 @@
         "emd_eng_nm": "Bongnae-dong 1(il)-ga",
         "emd_kor_nm": "봉래동1가",
         "full_nm": "부산광역시 영도구 봉래동1가",
-        "emd_cd": 26200115
+        "emd_cd": 26200115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199737,7 +199737,7 @@
         "emd_eng_nm": "Sinseon-dong 3(sam)-ga",
         "emd_kor_nm": "신선동3가",
         "full_nm": "부산광역시 영도구 신선동3가",
-        "emd_cd": 26200114
+        "emd_cd": 26200114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200955,7 +200955,7 @@
         "emd_eng_nm": "Chilsan-dong",
         "emd_kor_nm": "칠산동",
         "full_nm": "부산광역시 동래구 칠산동",
-        "emd_cd": 26260103
+        "emd_cd": 26260103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202389,7 +202389,7 @@
         "emd_eng_nm": "Allak-dong",
         "emd_kor_nm": "안락동",
         "full_nm": "부산광역시 동래구 안락동",
-        "emd_cd": 26260102
+        "emd_cd": 26260102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204387,7 +204387,7 @@
         "emd_eng_nm": "Buyong-dong 1(il)-ga",
         "emd_kor_nm": "부용동1가",
         "full_nm": "부산광역시 서구 부용동1가",
-        "emd_cd": 26140107
+        "emd_cd": 26140107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204525,7 +204525,7 @@
         "emd_eng_nm": "Guseo-dong",
         "emd_kor_nm": "구서동",
         "full_nm": "부산광역시 금정구 구서동",
-        "emd_cd": 26410107
+        "emd_cd": 26410107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206015,7 +206015,7 @@
         "emd_eng_nm": "Oryun-dong",
         "emd_kor_nm": "오륜동",
         "full_nm": "부산광역시 금정구 오륜동",
-        "emd_cd": 26410106
+        "emd_cd": 26410106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -207289,7 +207289,7 @@
         "emd_eng_nm": "Seodaesin-dong 3(sam)-ga",
         "emd_kor_nm": "서대신동3가",
         "full_nm": "부산광역시 서구 서대신동3가",
-        "emd_cd": 26140106
+        "emd_cd": 26140106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -209323,7 +209323,7 @@
         "emd_eng_nm": "Bongnae-dong 4(sa)-ga",
         "emd_kor_nm": "봉래동4가",
         "full_nm": "부산광역시 영도구 봉래동4가",
-        "emd_cd": 26200118
+        "emd_cd": 26200118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -210817,7 +210817,7 @@
         "emd_eng_nm": "Beomil-dong",
         "emd_kor_nm": "범일동",
         "full_nm": "부산광역시 동구 범일동",
-        "emd_cd": 26170104
+        "emd_cd": 26170104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213515,7 +213515,7 @@
         "emd_eng_nm": "Bongnae-dong 5(o)-ga",
         "emd_kor_nm": "봉래동5가",
         "full_nm": "부산광역시 영도구 봉래동5가",
-        "emd_cd": 26200119
+        "emd_cd": 26200119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -214841,7 +214841,7 @@
         "emd_eng_nm": "Namcheon-dong",
         "emd_kor_nm": "남천동",
         "full_nm": "부산광역시 수영구 남천동",
-        "emd_cd": 26500105
+        "emd_cd": 26500105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -216095,7 +216095,7 @@
         "emd_eng_nm": "Gwangan-dong",
         "emd_kor_nm": "광안동",
         "full_nm": "부산광역시 수영구 광안동",
-        "emd_cd": 26500104
+        "emd_cd": 26500104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -217509,7 +217509,7 @@
         "emd_eng_nm": "Gurang-dong",
         "emd_kor_nm": "구랑동",
         "full_nm": "부산광역시 강서구 구랑동",
-        "emd_cd": 26440113
+        "emd_cd": 26440113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219175,7 +219175,7 @@
         "emd_eng_nm": "Donggwang-dong 3(sam)-ga",
         "emd_kor_nm": "동광동3가",
         "full_nm": "부산광역시 중구 동광동3가",
-        "emd_cd": 26110113
+        "emd_cd": 26110113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219449,7 +219449,7 @@
         "emd_eng_nm": "Donggwang-dong 2(i)-ga",
         "emd_kor_nm": "동광동2가",
         "full_nm": "부산광역시 중구 동광동2가",
-        "emd_cd": 26110112
+        "emd_cd": 26110112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219795,7 +219795,7 @@
         "emd_eng_nm": "Saenggok-dong",
         "emd_kor_nm": "생곡동",
         "full_nm": "부산광역시 강서구 생곡동",
-        "emd_cd": 26440112
+        "emd_cd": 26440112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221017,7 +221017,7 @@
         "emd_eng_nm": "Sinchang-dong 1(il)-ga",
         "emd_kor_nm": "신창동1가",
         "full_nm": "부산광역시 중구 신창동1가",
-        "emd_cd": 26110127
+        "emd_cd": 26110127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221515,7 +221515,7 @@
         "emd_eng_nm": "Bupyeong-dong 4(sa)-ga",
         "emd_kor_nm": "부평동4가",
         "full_nm": "부산광역시 중구 부평동4가",
-        "emd_cd": 26110126
+        "emd_cd": 26110126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221641,7 +221641,7 @@
         "emd_eng_nm": "Gamman-dong",
         "emd_kor_nm": "감만동",
         "full_nm": "부산광역시 남구 감만동",
-        "emd_cd": 26290111
+        "emd_cd": 26290111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222895,7 +222895,7 @@
         "emd_eng_nm": "Uam-dong",
         "emd_kor_nm": "우암동",
         "full_nm": "부산광역시 남구 우암동",
-        "emd_cd": 26290110
+        "emd_cd": 26290110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224089,7 +224089,7 @@
         "emd_eng_nm": "Samnak-dong",
         "emd_kor_nm": "삼락동",
         "full_nm": "부산광역시 사상구 삼락동",
-        "emd_cd": 26530101
+        "emd_cd": 26530101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224967,7 +224967,7 @@
         "emd_eng_nm": "Sinseon-dong 1(il)-ga",
         "emd_kor_nm": "신선동1가",
         "full_nm": "부산광역시 영도구 신선동1가",
-        "emd_cd": 26200112
+        "emd_cd": 26200112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226749,7 +226749,7 @@
         "emd_eng_nm": "Sinseon-dong 2(i)-ga",
         "emd_kor_nm": "신선동2가",
         "full_nm": "부산광역시 영도구 신선동2가",
-        "emd_cd": 26200113
+        "emd_cd": 26200113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228163,7 +228163,7 @@
         "emd_eng_nm": "Nangmin-dong",
         "emd_kor_nm": "낙민동",
         "full_nm": "부산광역시 동래구 낙민동",
-        "emd_cd": 26260104
+        "emd_cd": 26260104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229529,7 +229529,7 @@
         "emd_eng_nm": "Seongbuk-dong",
         "emd_kor_nm": "성북동",
         "full_nm": "부산광역시 강서구 성북동",
-        "emd_cd": 26440119
+        "emd_cd": 26440119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -233975,7 +233975,7 @@
         "emd_eng_nm": "Daecheong-dong 4(sa)-ga",
         "emd_kor_nm": "대청동4가",
         "full_nm": "부산광역시 중구 대청동4가",
-        "emd_cd": 26110119
+        "emd_cd": 26110119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235185,7 +235185,7 @@
         "emd_eng_nm": "Daecheong-dong 3(sam)-ga",
         "emd_kor_nm": "대청동3가",
         "full_nm": "부산광역시 중구 대청동3가",
-        "emd_cd": 26110118
+        "emd_cd": 26110118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235515,7 +235515,7 @@
         "emd_eng_nm": "Bokcheon-dong",
         "emd_kor_nm": "복천동",
         "full_nm": "부산광역시 동래구 복천동",
-        "emd_cd": 26260105
+        "emd_cd": 26260105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -236873,7 +236873,7 @@
         "emd_eng_nm": "Dongseon-dong",
         "emd_kor_nm": "동선동",
         "full_nm": "부산광역시 강서구 동선동",
-        "emd_cd": 26440118
+        "emd_cd": 26440118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -239251,7 +239251,7 @@
         "emd_eng_nm": "Dongdaesin-dong 1(il)-ga",
         "emd_kor_nm": "동대신동1가",
         "full_nm": "부산광역시 서구 동대신동1가",
-        "emd_cd": 26140101
+        "emd_cd": 26140101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -240069,7 +240069,7 @@
         "emd_eng_nm": "Dugu-dong",
         "emd_kor_nm": "두구동",
         "full_nm": "부산광역시 금정구 두구동",
-        "emd_cd": 26410101
+        "emd_cd": 26410101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -241967,7 +241967,7 @@
         "emd_eng_nm": "Hadan-dong",
         "emd_kor_nm": "하단동",
         "full_nm": "부산광역시 사하구 하단동",
-        "emd_cd": 26380103
+        "emd_cd": 26380103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -244081,7 +244081,7 @@
         "emd_eng_nm": "Dangni-dong",
         "emd_kor_nm": "당리동",
         "full_nm": "부산광역시 사하구 당리동",
-        "emd_cd": 26380102
+        "emd_cd": 26380102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -245335,7 +245335,7 @@
         "emd_eng_nm": "Nambumin-dong",
         "emd_kor_nm": "남부민동",
         "full_nm": "부산광역시 서구 남부민동",
-        "emd_cd": 26140123
+        "emd_cd": 26140123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -246657,7 +246657,7 @@
         "emd_eng_nm": "Gijang-eup",
         "emd_kor_nm": "기장읍",
         "full_nm": "부산광역시 기장군 기장읍",
-        "emd_cd": 26710250
+        "emd_cd": 26710250000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -254983,7 +254983,7 @@
         "emd_eng_nm": "Chungmu-dong 3(sam)-ga",
         "emd_kor_nm": "충무동3가",
         "full_nm": "부산광역시 서구 충무동3가",
-        "emd_cd": 26140122
+        "emd_cd": 26140122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255373,7 +255373,7 @@
         "emd_eng_nm": "Myeongji-dong",
         "emd_kor_nm": "명지동",
         "full_nm": "부산광역시 강서구 명지동",
-        "emd_cd": 26440104
+        "emd_cd": 26440104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260075,7 +260075,7 @@
         "emd_eng_nm": "Jungang-dong 1(il)-ga",
         "emd_kor_nm": "중앙동1가",
         "full_nm": "부산광역시 중구 중앙동1가",
-        "emd_cd": 26110104
+        "emd_cd": 26110104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260297,7 +260297,7 @@
         "emd_eng_nm": "Jungang-dong 2(i)-ga",
         "emd_kor_nm": "중앙동2가",
         "full_nm": "부산광역시 중구 중앙동2가",
-        "emd_cd": 26110105
+        "emd_cd": 26110105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260467,7 +260467,7 @@
         "emd_eng_nm": "Jungnim-dong",
         "emd_kor_nm": "죽림동",
         "full_nm": "부산광역시 강서구 죽림동",
-        "emd_cd": 26440105
+        "emd_cd": 26440105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262217,7 +262217,7 @@
         "emd_eng_nm": "Yangjeong-dong",
         "emd_kor_nm": "양정동",
         "full_nm": "부산광역시 부산진구 양정동",
-        "emd_cd": 26230101
+        "emd_cd": 26230101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264387,7 +264387,7 @@
         "emd_eng_nm": "Namhang-dong 1(il)-ga",
         "emd_kor_nm": "남항동1가",
         "full_nm": "부산광역시 영도구 남항동1가",
-        "emd_cd": 26200105
+        "emd_cd": 26200105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264645,7 +264645,7 @@
         "emd_eng_nm": "Daepyeong-dong 2(i)-ga",
         "emd_kor_nm": "대평동2가",
         "full_nm": "부산광역시 영도구 대평동2가",
-        "emd_cd": 26200104
+        "emd_cd": 26200104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265063,7 +265063,7 @@
         "emd_eng_nm": "Geoje-dong",
         "emd_kor_nm": "거제동",
         "full_nm": "부산광역시 연제구 거제동",
-        "emd_cd": 26470101
+        "emd_cd": 26470101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -266369,7 +266369,7 @@
         "emd_eng_nm": "Gamcheon-dong",
         "emd_kor_nm": "감천동",
         "full_nm": "부산광역시 사하구 감천동",
-        "emd_cd": 26380108
+        "emd_cd": 26380108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267767,7 +267767,7 @@
         "emd_eng_nm": "Daeyeon-dong",
         "emd_kor_nm": "대연동",
         "full_nm": "부산광역시 남구 대연동",
-        "emd_cd": 26290106
+        "emd_cd": 26290106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270733,7 +270733,7 @@
         "emd_eng_nm": "Yongho-dong",
         "emd_kor_nm": "용호동",
         "full_nm": "부산광역시 남구 용호동",
-        "emd_cd": 26290107
+        "emd_cd": 26290107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -274159,7 +274159,7 @@
         "emd_eng_nm": "Sinchang-dong 4(sa)-ga",
         "emd_kor_nm": "신창동4가",
         "full_nm": "부산광역시 중구 신창동4가",
-        "emd_cd": 26110130
+        "emd_cd": 26110130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -274569,7 +274569,7 @@
         "emd_eng_nm": "Changseon-dong 1(il)-ga",
         "emd_kor_nm": "창선동1가",
         "full_nm": "부산광역시 중구 창선동1가",
-        "emd_cd": 26110131
+        "emd_cd": 26110131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -274919,7 +274919,7 @@
         "emd_eng_nm": "Gupo-dong",
         "emd_kor_nm": "구포동",
         "full_nm": "부산광역시 북구 구포동",
-        "emd_cd": 26320105
+        "emd_cd": 26320105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -276225,7 +276225,7 @@
         "emd_eng_nm": "Deokcheon-dong",
         "emd_kor_nm": "덕천동",
         "full_nm": "부산광역시 북구 덕천동",
-        "emd_cd": 26320104
+        "emd_cd": 26320104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -278043,7 +278043,7 @@
         "emd_eng_nm": "Toseong-dong 4(sa)-ga",
         "emd_kor_nm": "토성동4가",
         "full_nm": "부산광역시 서구 토성동4가",
-        "emd_cd": 26140117
+        "emd_cd": 26140117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -278153,7 +278153,7 @@
         "emd_eng_nm": "Ami-dong 2(i)-ga",
         "emd_kor_nm": "아미동2가",
         "full_nm": "부산광역시 서구 아미동2가",
-        "emd_cd": 26140116
+        "emd_cd": 26140116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -279399,7 +279399,7 @@
         "emd_eng_nm": "U-dong",
         "emd_kor_nm": "우동",
         "full_nm": "부산광역시 해운대구 우동",
-        "emd_cd": 26350105
+        "emd_cd": 26350105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -283025,7 +283025,7 @@
         "emd_eng_nm": "Jaesong-dong",
         "emd_kor_nm": "재송동",
         "full_nm": "부산광역시 해운대구 재송동",
-        "emd_cd": 26350104
+        "emd_cd": 26350104000
       },
       "geometry": {
         "type": "MultiPolygon",

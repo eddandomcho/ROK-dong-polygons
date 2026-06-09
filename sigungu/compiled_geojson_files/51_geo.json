@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51230,
+        "sig_cd": 5123000000,
         "sig_eng_nm": "Samcheok-si",
         "full_nm": "강원특별자치도 삼척시",
         "sig_kor_nm": "삼척시"
@@ -26468,7 +26468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51780,
+        "sig_cd": 5178000000,
         "sig_eng_nm": "Cheorwon-gun",
         "full_nm": "강원특별자치도 철원군",
         "sig_kor_nm": "철원군"
@@ -111738,7 +111738,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51750,
+        "sig_cd": 5175000000,
         "sig_eng_nm": "Yeongwol-gun",
         "full_nm": "강원특별자치도 영월군",
         "sig_kor_nm": "영월군"
@@ -137816,7 +137816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51820,
+        "sig_cd": 5182000000,
         "sig_eng_nm": "Goseong-gun",
         "full_nm": "강원특별자치도 고성군",
         "sig_kor_nm": "고성군"
@@ -205826,7 +205826,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51730,
+        "sig_cd": 5173000000,
         "sig_eng_nm": "Hoengseong-gun",
         "full_nm": "강원특별자치도 횡성군",
         "sig_kor_nm": "횡성군"
@@ -222400,7 +222400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51170,
+        "sig_cd": 5117000000,
         "sig_eng_nm": "Donghae-si",
         "full_nm": "강원특별자치도 동해시",
         "sig_kor_nm": "동해시"
@@ -232422,7 +232422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51790,
+        "sig_cd": 5179000000,
         "sig_eng_nm": "Hwacheon-gun",
         "full_nm": "강원특별자치도 화천군",
         "sig_kor_nm": "화천군"
@@ -240084,7 +240084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51110,
+        "sig_cd": 5111000000,
         "sig_eng_nm": "Chuncheon-si",
         "full_nm": "강원특별자치도 춘천시",
         "sig_kor_nm": "춘천시"
@@ -252382,7 +252382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51830,
+        "sig_cd": 5183000000,
         "sig_eng_nm": "Yangyang-gun",
         "full_nm": "강원특별자치도 양양군",
         "sig_kor_nm": "양양군"
@@ -276360,7 +276360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51720,
+        "sig_cd": 5172000000,
         "sig_eng_nm": "Hongcheon-gun",
         "full_nm": "강원특별자치도 홍천군",
         "sig_kor_nm": "홍천군"
@@ -298650,7 +298650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51210,
+        "sig_cd": 5121000000,
         "sig_eng_nm": "Sokcho-si",
         "full_nm": "강원특별자치도 속초시",
         "sig_kor_nm": "속초시"
@@ -306692,7 +306692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51770,
+        "sig_cd": 5177000000,
         "sig_eng_nm": "Jeongseon-gun",
         "full_nm": "강원특별자치도 정선군",
         "sig_kor_nm": "정선군"
@@ -319526,7 +319526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51190,
+        "sig_cd": 5119000000,
         "sig_eng_nm": "Taebaek-si",
         "full_nm": "강원특별자치도 태백시",
         "sig_kor_nm": "태백시"
@@ -327544,7 +327544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51800,
+        "sig_cd": 5180000000,
         "sig_eng_nm": "Yanggu-gun",
         "full_nm": "강원특별자치도 양구군",
         "sig_kor_nm": "양구군"
@@ -339878,7 +339878,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51150,
+        "sig_cd": 5115000000,
         "sig_eng_nm": "Gangneung-si",
         "full_nm": "강원특별자치도 강릉시",
         "sig_kor_nm": "강릉시"
@@ -356176,7 +356176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51760,
+        "sig_cd": 5176000000,
         "sig_eng_nm": "Pyeongchang-gun",
         "full_nm": "강원특별자치도 평창군",
         "sig_kor_nm": "평창군"
@@ -368750,7 +368750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51810,
+        "sig_cd": 5181000000,
         "sig_eng_nm": "Inje-gun",
         "full_nm": "강원특별자치도 인제군",
         "sig_kor_nm": "인제군"
@@ -381592,7 +381592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 51130,
+        "sig_cd": 5113000000,
         "sig_eng_nm": "Wonju-si",
         "full_nm": "강원특별자치도 원주시",
         "sig_kor_nm": "원주시"

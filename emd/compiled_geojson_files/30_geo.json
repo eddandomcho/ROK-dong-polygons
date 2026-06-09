@@ -7,7 +7,7 @@
         "emd_eng_nm": "Yucheon-dong",
         "emd_kor_nm": "유천동",
         "full_nm": "대전광역시 중구 유천동",
-        "emd_cd": 30140115
+        "emd_cd": 30140115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -533,7 +533,7 @@
         "emd_eng_nm": "Beop-dong",
         "emd_kor_nm": "법동",
         "full_nm": "대전광역시 대덕구 법동",
-        "emd_cd": 30230108
+        "emd_cd": 30230108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1739,7 +1739,7 @@
         "emd_eng_nm": "Jungni-dong",
         "emd_kor_nm": "중리동",
         "full_nm": "대전광역시 대덕구 중리동",
-        "emd_cd": 30230109
+        "emd_cd": 30230109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2425,7 +2425,7 @@
         "emd_eng_nm": "Taepyeong-dong",
         "emd_kor_nm": "태평동",
         "full_nm": "대전광역시 중구 태평동",
-        "emd_cd": 30140114
+        "emd_cd": 30140114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3467,7 +3467,7 @@
         "emd_eng_nm": "Wonjeong-dong",
         "emd_kor_nm": "원정동",
         "full_nm": "대전광역시 서구 원정동",
-        "emd_cd": 30170124
+        "emd_cd": 30170124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5093,7 +5093,7 @@
         "emd_eng_nm": "Banseok-dong",
         "emd_kor_nm": "반석동",
         "full_nm": "대전광역시 유성구 반석동",
-        "emd_cd": 30200139
+        "emd_cd": 30200139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6551,7 +6551,7 @@
         "emd_eng_nm": "Oesam-dong",
         "emd_kor_nm": "외삼동",
         "full_nm": "대전광역시 유성구 외삼동",
-        "emd_cd": 30200138
+        "emd_cd": 30200138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7829,7 +7829,7 @@
         "emd_eng_nm": "Yongchon-dong",
         "emd_kor_nm": "용촌동",
         "full_nm": "대전광역시 서구 용촌동",
-        "emd_cd": 30170125
+        "emd_cd": 30170125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9459,7 +9459,7 @@
         "emd_eng_nm": "Haso-dong",
         "emd_kor_nm": "하소동",
         "full_nm": "대전광역시 동구 하소동",
-        "emd_cd": 30110145
+        "emd_cd": 30110145000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10553,7 +10553,7 @@
         "emd_eng_nm": "Sangso-dong",
         "emd_kor_nm": "상소동",
         "full_nm": "대전광역시 동구 상소동",
-        "emd_cd": 30110144
+        "emd_cd": 30110144000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11799,7 +11799,7 @@
         "emd_eng_nm": "Saseong-dong",
         "emd_kor_nm": "사성동",
         "full_nm": "대전광역시 동구 사성동",
-        "emd_cd": 30110132
+        "emd_cd": 30110132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12813,7 +12813,7 @@
         "emd_eng_nm": "Naetap-dong",
         "emd_kor_nm": "내탑동",
         "full_nm": "대전광역시 동구 내탑동",
-        "emd_cd": 30110133
+        "emd_cd": 30110133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14175,7 +14175,7 @@
         "emd_eng_nm": "Seongbuk-dong",
         "emd_kor_nm": "성북동",
         "full_nm": "대전광역시 유성구 성북동",
-        "emd_cd": 30200107
+        "emd_cd": 30200107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15637,7 +15637,7 @@
         "emd_eng_nm": "Gyesan-dong",
         "emd_kor_nm": "계산동",
         "full_nm": "대전광역시 유성구 계산동",
-        "emd_cd": 30200106
+        "emd_cd": 30200106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16819,7 +16819,7 @@
         "emd_eng_nm": "Chumok-dong",
         "emd_kor_nm": "추목동",
         "full_nm": "대전광역시 유성구 추목동",
-        "emd_cd": 30200133
+        "emd_cd": 30200133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18197,7 +18197,7 @@
         "emd_eng_nm": "Hagi-dong",
         "emd_kor_nm": "하기동",
         "full_nm": "대전광역시 유성구 하기동",
-        "emd_cd": 30200132
+        "emd_cd": 30200132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19783,7 +19783,7 @@
         "emd_eng_nm": "Daehwa-dong",
         "emd_kor_nm": "대화동",
         "full_nm": "대전광역시 대덕구 대화동",
-        "emd_cd": 30230102
+        "emd_cd": 30230102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20705,7 +20705,7 @@
         "emd_eng_nm": "Eumnae-dong",
         "emd_kor_nm": "읍내동",
         "full_nm": "대전광역시 대덕구 읍내동",
-        "emd_cd": 30230103
+        "emd_cd": 30230103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22191,7 +22191,7 @@
         "emd_eng_nm": "Sinheung-dong",
         "emd_kor_nm": "신흥동",
         "full_nm": "대전광역시 동구 신흥동",
-        "emd_cd": 30110106
+        "emd_cd": 30110106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23629,7 +23629,7 @@
         "emd_eng_nm": "Panam-dong",
         "emd_kor_nm": "판암동",
         "full_nm": "대전광역시 동구 판암동",
-        "emd_cd": 30110107
+        "emd_cd": 30110107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26171,7 +26171,7 @@
         "emd_eng_nm": "Guwan-dong",
         "emd_kor_nm": "구완동",
         "full_nm": "대전광역시 중구 구완동",
-        "emd_cd": 30140121
+        "emd_cd": 30140121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26961,7 +26961,7 @@
         "emd_eng_nm": "Musu-dong",
         "emd_kor_nm": "무수동",
         "full_nm": "대전광역시 중구 무수동",
-        "emd_cd": 30140120
+        "emd_cd": 30140120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28187,7 +28187,7 @@
         "emd_eng_nm": "Nae-dong",
         "emd_kor_nm": "내동",
         "full_nm": "대전광역시 서구 내동",
-        "emd_cd": 30170110
+        "emd_cd": 30170110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28977,7 +28977,7 @@
         "emd_eng_nm": "Galma-dong",
         "emd_kor_nm": "갈마동",
         "full_nm": "대전광역시 서구 갈마동",
-        "emd_cd": 30170111
+        "emd_cd": 30170111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29947,7 +29947,7 @@
         "emd_eng_nm": "Isa-dong",
         "emd_kor_nm": "이사동",
         "full_nm": "대전광역시 동구 이사동",
-        "emd_cd": 30110138
+        "emd_cd": 30110138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31369,7 +31369,7 @@
         "emd_eng_nm": "Daeseong-dong",
         "emd_kor_nm": "대성동",
         "full_nm": "대전광역시 동구 대성동",
-        "emd_cd": 30110139
+        "emd_cd": 30110139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32775,7 +32775,7 @@
         "emd_eng_nm": "Yongsan-dong",
         "emd_kor_nm": "용산동",
         "full_nm": "대전광역시 유성구 용산동",
-        "emd_cd": 30200144
+        "emd_cd": 30200144000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33537,7 +33537,7 @@
         "emd_eng_nm": "Bongsan-dong",
         "emd_kor_nm": "봉산동",
         "full_nm": "대전광역시 유성구 봉산동",
-        "emd_cd": 30200145
+        "emd_cd": 30200145000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35179,7 +35179,7 @@
         "emd_eng_nm": "Seonhwa-dong",
         "emd_kor_nm": "선화동",
         "full_nm": "대전광역시 중구 선화동",
-        "emd_cd": 30140102
+        "emd_cd": 30140102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36349,7 +36349,7 @@
         "emd_eng_nm": "Mok-dong",
         "emd_kor_nm": "목동",
         "full_nm": "대전광역시 중구 목동",
-        "emd_cd": 30140103
+        "emd_cd": 30140103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37743,7 +37743,7 @@
         "emd_eng_nm": "Bang-dong",
         "emd_kor_nm": "방동",
         "full_nm": "대전광역시 유성구 방동",
-        "emd_cd": 30200110
+        "emd_cd": 30200110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39381,7 +39381,7 @@
         "emd_eng_nm": "Bongmyeong-dong",
         "emd_kor_nm": "봉명동",
         "full_nm": "대전광역시 유성구 봉명동",
-        "emd_cd": 30200111
+        "emd_cd": 30200111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40403,7 +40403,7 @@
         "emd_eng_nm": "Galjeon-dong",
         "emd_kor_nm": "갈전동",
         "full_nm": "대전광역시 대덕구 갈전동",
-        "emd_cd": 30230121
+        "emd_cd": 30230121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41717,7 +41717,7 @@
         "emd_eng_nm": "Ihyeon-dong",
         "emd_kor_nm": "이현동",
         "full_nm": "대전광역시 대덕구 이현동",
-        "emd_cd": 30230120
+        "emd_cd": 30230120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42759,7 +42759,7 @@
         "emd_eng_nm": "Masan-dong",
         "emd_kor_nm": "마산동",
         "full_nm": "대전광역시 동구 마산동",
-        "emd_cd": 30110125
+        "emd_cd": 30110125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43993,7 +43993,7 @@
         "emd_eng_nm": "Yonggye-dong",
         "emd_kor_nm": "용계동",
         "full_nm": "대전광역시 동구 용계동",
-        "emd_cd": 30110124
+        "emd_cd": 30110124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45855,7 +45855,7 @@
         "emd_eng_nm": "Jayang-dong",
         "emd_kor_nm": "자양동",
         "full_nm": "대전광역시 동구 자양동",
-        "emd_cd": 30110111
+        "emd_cd": 30110111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47341,7 +47341,7 @@
         "emd_eng_nm": "Dae-dong",
         "emd_kor_nm": "대동",
         "full_nm": "대전광역시 동구 대동",
-        "emd_cd": 30110110
+        "emd_cd": 30110110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49339,7 +49339,7 @@
         "emd_eng_nm": "Guseong-dong",
         "emd_kor_nm": "구성동",
         "full_nm": "대전광역시 유성구 구성동",
-        "emd_cd": 30200124
+        "emd_cd": 30200124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50585,7 +50585,7 @@
         "emd_eng_nm": "Sinseong-dong",
         "emd_kor_nm": "신성동",
         "full_nm": "대전광역시 유성구 신성동",
-        "emd_cd": 30200125
+        "emd_cd": 30200125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52567,7 +52567,7 @@
         "emd_eng_nm": "Ho-dong",
         "emd_kor_nm": "호동",
         "full_nm": "대전광역시 중구 호동",
-        "emd_cd": 30140108
+        "emd_cd": 30140108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53649,7 +53649,7 @@
         "emd_eng_nm": "Deogam-dong",
         "emd_kor_nm": "덕암동",
         "full_nm": "대전광역시 대덕구 덕암동",
-        "emd_cd": 30230115
+        "emd_cd": 30230115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54523,7 +54523,7 @@
         "emd_eng_nm": "Sinil-dong",
         "emd_kor_nm": "신일동",
         "full_nm": "대전광역시 대덕구 신일동",
-        "emd_cd": 30230114
+        "emd_cd": 30230114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55489,7 +55489,7 @@
         "emd_eng_nm": "Okgye-dong",
         "emd_kor_nm": "옥계동",
         "full_nm": "대전광역시 중구 옥계동",
-        "emd_cd": 30140109
+        "emd_cd": 30140109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56231,7 +56231,7 @@
         "emd_eng_nm": "Guryong-dong",
         "emd_kor_nm": "구룡동",
         "full_nm": "대전광역시 유성구 구룡동",
-        "emd_cd": 30200153
+        "emd_cd": 30200153000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57733,7 +57733,7 @@
         "emd_eng_nm": "Dungok-dong",
         "emd_kor_nm": "둔곡동",
         "full_nm": "대전광역시 유성구 둔곡동",
-        "emd_cd": 30200152
+        "emd_cd": 30200152000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58643,7 +58643,7 @@
         "emd_eng_nm": "Tanbang-dong",
         "emd_kor_nm": "탄방동",
         "full_nm": "대전광역시 서구 탄방동",
-        "emd_cd": 30170106
+        "emd_cd": 30170106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59329,7 +59329,7 @@
         "emd_eng_nm": "Jang-dong",
         "emd_kor_nm": "장동",
         "full_nm": "대전광역시 대덕구 장동",
-        "emd_cd": 30230118
+        "emd_cd": 30230118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60899,7 +60899,7 @@
         "emd_eng_nm": "Daeheung-dong",
         "emd_kor_nm": "대흥동",
         "full_nm": "대전광역시 중구 대흥동",
-        "emd_cd": 30140105
+        "emd_cd": 30140105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62769,7 +62769,7 @@
         "emd_eng_nm": "Jungchon-dong",
         "emd_kor_nm": "중촌동",
         "full_nm": "대전광역시 중구 중촌동",
-        "emd_cd": 30140104
+        "emd_cd": 30140104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63827,7 +63827,7 @@
         "emd_eng_nm": "Yongho-dong",
         "emd_kor_nm": "용호동",
         "full_nm": "대전광역시 대덕구 용호동",
-        "emd_cd": 30230119
+        "emd_cd": 30230119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64985,7 +64985,7 @@
         "emd_eng_nm": "Banghyeon-dong",
         "emd_kor_nm": "방현동",
         "full_nm": "대전광역시 유성구 방현동",
-        "emd_cd": 30200129
+        "emd_cd": 30200129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66079,7 +66079,7 @@
         "emd_eng_nm": "Jang-dong",
         "emd_kor_nm": "장동",
         "full_nm": "대전광역시 유성구 장동",
-        "emd_cd": 30200128
+        "emd_cd": 30200128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67969,7 +67969,7 @@
         "emd_eng_nm": "Jangdae-dong",
         "emd_kor_nm": "장대동",
         "full_nm": "대전광역시 유성구 장대동",
-        "emd_cd": 30200117
+        "emd_cd": 30200117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69187,7 +69187,7 @@
         "emd_eng_nm": "Bogyong-dong",
         "emd_kor_nm": "복용동",
         "full_nm": "대전광역시 유성구 복용동",
-        "emd_cd": 30200116
+        "emd_cd": 30200116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70165,7 +70165,7 @@
         "emd_eng_nm": "Sintanjin-dong",
         "emd_kor_nm": "신탄진동",
         "full_nm": "대전광역시 대덕구 신탄진동",
-        "emd_cd": 30230126
+        "emd_cd": 30230126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71439,7 +71439,7 @@
         "emd_eng_nm": "Biryong-dong",
         "emd_kor_nm": "비룡동",
         "full_nm": "대전광역시 동구 비룡동",
-        "emd_cd": 30110122
+        "emd_cd": 30110122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72665,7 +72665,7 @@
         "emd_eng_nm": "Jusan-dong",
         "emd_kor_nm": "주산동",
         "full_nm": "대전광역시 동구 주산동",
-        "emd_cd": 30110123
+        "emd_cd": 30110123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74571,7 +74571,7 @@
         "emd_eng_nm": "Seongnam-dong",
         "emd_kor_nm": "성남동",
         "full_nm": "대전광역시 동구 성남동",
-        "emd_cd": 30110116
+        "emd_cd": 30110116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76097,7 +76097,7 @@
         "emd_eng_nm": "Hongdo-dong",
         "emd_kor_nm": "홍도동",
         "full_nm": "대전광역시 동구 홍도동",
-        "emd_cd": 30110117
+        "emd_cd": 30110117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77019,7 +77019,7 @@
         "emd_eng_nm": "Eoeun-dong",
         "emd_kor_nm": "어은동",
         "full_nm": "대전광역시 유성구 어은동",
-        "emd_cd": 30200123
+        "emd_cd": 30200123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78881,7 +78881,7 @@
         "emd_eng_nm": "Gung-dong",
         "emd_kor_nm": "궁동",
         "full_nm": "대전광역시 유성구 궁동",
-        "emd_cd": 30200122
+        "emd_cd": 30200122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80139,7 +80139,7 @@
         "emd_eng_nm": "Moksang-dong",
         "emd_kor_nm": "목상동",
         "full_nm": "대전광역시 대덕구 목상동",
-        "emd_cd": 30230112
+        "emd_cd": 30230112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81065,7 +81065,7 @@
         "emd_eng_nm": "Munpyeong-dong",
         "emd_kor_nm": "문평동",
         "full_nm": "대전광역시 대덕구 문평동",
-        "emd_cd": 30230113
+        "emd_cd": 30230113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82239,7 +82239,7 @@
         "emd_eng_nm": "Secheon-dong",
         "emd_kor_nm": "세천동",
         "full_nm": "대전광역시 동구 세천동",
-        "emd_cd": 30110128
+        "emd_cd": 30110128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84389,7 +84389,7 @@
         "emd_eng_nm": "Sinsang-dong",
         "emd_kor_nm": "신상동",
         "full_nm": "대전광역시 동구 신상동",
-        "emd_cd": 30110129
+        "emd_cd": 30110129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87159,7 +87159,7 @@
         "emd_eng_nm": "Boksu-dong",
         "emd_kor_nm": "복수동",
         "full_nm": "대전광역시 서구 복수동",
-        "emd_cd": 30170101
+        "emd_cd": 30170101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88399,7 +88399,7 @@
         "emd_eng_nm": "Gudo-dong",
         "emd_kor_nm": "구도동",
         "full_nm": "대전광역시 동구 구도동",
-        "emd_cd": 30110142
+        "emd_cd": 30110142000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89569,7 +89569,7 @@
         "emd_eng_nm": "Samgoe-dong",
         "emd_kor_nm": "삼괴동",
         "full_nm": "대전광역시 동구 삼괴동",
-        "emd_cd": 30110143
+        "emd_cd": 30110143000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91039,7 +91039,7 @@
         "emd_eng_nm": "Yongdu-dong",
         "emd_kor_nm": "용두동",
         "full_nm": "대전광역시 중구 용두동",
-        "emd_cd": 30140112
+        "emd_cd": 30140112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92525,7 +92525,7 @@
         "emd_eng_nm": "Oryu-dong",
         "emd_kor_nm": "오류동",
         "full_nm": "대전광역시 중구 오류동",
-        "emd_cd": 30140113
+        "emd_cd": 30140113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92939,7 +92939,7 @@
         "emd_eng_nm": "Umyeong-dong",
         "emd_kor_nm": "우명동",
         "full_nm": "대전광역시 서구 우명동",
-        "emd_cd": 30170123
+        "emd_cd": 30170123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95545,7 +95545,7 @@
         "emd_eng_nm": "O-dong",
         "emd_kor_nm": "오동",
         "full_nm": "대전광역시 서구 오동",
-        "emd_cd": 30170122
+        "emd_cd": 30170122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97015,7 +97015,7 @@
         "emd_eng_nm": "Juchon-dong",
         "emd_kor_nm": "주촌동",
         "full_nm": "대전광역시 동구 주촌동",
-        "emd_cd": 30110135
+        "emd_cd": 30110135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98537,7 +98537,7 @@
         "emd_eng_nm": "O-dong",
         "emd_kor_nm": "오동",
         "full_nm": "대전광역시 동구 오동",
-        "emd_cd": 30110134
+        "emd_cd": 30110134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99867,7 +99867,7 @@
         "emd_eng_nm": "Dae-dong",
         "emd_kor_nm": "대동",
         "full_nm": "대전광역시 유성구 대동",
-        "emd_cd": 30200149
+        "emd_cd": 30200149000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100605,7 +100605,7 @@
         "emd_eng_nm": "Geumgo-dong",
         "emd_kor_nm": "금고동",
         "full_nm": "대전광역시 유성구 금고동",
-        "emd_cd": 30200148
+        "emd_cd": 30200148000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102183,7 +102183,7 @@
         "emd_eng_nm": "Wonnae-dong",
         "emd_kor_nm": "원내동",
         "full_nm": "대전광역시 유성구 원내동",
-        "emd_cd": 30200101
+        "emd_cd": 30200101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103797,7 +103797,7 @@
         "emd_eng_nm": "Jaun-dong",
         "emd_kor_nm": "자운동",
         "full_nm": "대전광역시 유성구 자운동",
-        "emd_cd": 30200134
+        "emd_cd": 30200134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105451,7 +105451,7 @@
         "emd_eng_nm": "Mannyeon-dong",
         "emd_kor_nm": "만년동",
         "full_nm": "대전광역시 서구 만년동",
-        "emd_cd": 30170128
+        "emd_cd": 30170128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106061,7 +106061,7 @@
         "emd_eng_nm": "Sinbong-dong",
         "emd_kor_nm": "신봉동",
         "full_nm": "대전광역시 유성구 신봉동",
-        "emd_cd": 30200135
+        "emd_cd": 30200135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107647,7 +107647,7 @@
         "emd_eng_nm": "Sindae-dong",
         "emd_kor_nm": "신대동",
         "full_nm": "대전광역시 대덕구 신대동",
-        "emd_cd": 30230105
+        "emd_cd": 30230105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108869,7 +108869,7 @@
         "emd_eng_nm": "Sajeong-dong",
         "emd_kor_nm": "사정동",
         "full_nm": "대전광역시 중구 사정동",
-        "emd_cd": 30140118
+        "emd_cd": 30140118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110355,7 +110355,7 @@
         "emd_eng_nm": "Anyeong-dong",
         "emd_kor_nm": "안영동",
         "full_nm": "대전광역시 중구 안영동",
-        "emd_cd": 30140119
+        "emd_cd": 30140119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111261,7 +111261,7 @@
         "emd_eng_nm": "Yeonchuk-dong",
         "emd_kor_nm": "연축동",
         "full_nm": "대전광역시 대덕구 연축동",
-        "emd_cd": 30230104
+        "emd_cd": 30230104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112375,7 +112375,7 @@
         "emd_eng_nm": "Won-dong",
         "emd_kor_nm": "원동",
         "full_nm": "대전광역시 동구 원동",
-        "emd_cd": 30110101
+        "emd_cd": 30110101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112833,7 +112833,7 @@
         "emd_eng_nm": "Geum-dong",
         "emd_kor_nm": "금동",
         "full_nm": "대전광역시 중구 금동",
-        "emd_cd": 30140126
+        "emd_cd": 30140126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113663,7 +113663,7 @@
         "emd_eng_nm": "Heukseok-dong",
         "emd_kor_nm": "흑석동",
         "full_nm": "대전광역시 서구 흑석동",
-        "emd_cd": 30170117
+        "emd_cd": 30170117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115649,7 +115649,7 @@
         "emd_eng_nm": "Gwanjeo-dong",
         "emd_kor_nm": "관저동",
         "full_nm": "대전광역시 서구 관저동",
-        "emd_cd": 30170116
+        "emd_cd": 30170116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117683,7 +117683,7 @@
         "emd_eng_nm": "Tamnip-dong",
         "emd_kor_nm": "탑립동",
         "full_nm": "대전광역시 유성구 탑립동",
-        "emd_cd": 30200143
+        "emd_cd": 30200143000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118989,7 +118989,7 @@
         "emd_eng_nm": "Wonchon-dong",
         "emd_kor_nm": "원촌동",
         "full_nm": "대전광역시 유성구 원촌동",
-        "emd_cd": 30200142
+        "emd_cd": 30200142000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120161,7 +120161,7 @@
         "emd_eng_nm": "Sinan-dong",
         "emd_kor_nm": "신안동",
         "full_nm": "대전광역시 동구 신안동",
-        "emd_cd": 30110112
+        "emd_cd": 30110112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121039,7 +121039,7 @@
         "emd_eng_nm": "Soje-dong",
         "emd_kor_nm": "소제동",
         "full_nm": "대전광역시 동구 소제동",
-        "emd_cd": 30110113
+        "emd_cd": 30110113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122157,7 +122157,7 @@
         "emd_eng_nm": "Sangseo-dong",
         "emd_kor_nm": "상서동",
         "full_nm": "대전광역시 대덕구 상서동",
-        "emd_cd": 30230116
+        "emd_cd": 30230116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -123427,7 +123427,7 @@
         "emd_eng_nm": "Pyeongchon-dong",
         "emd_kor_nm": "평촌동",
         "full_nm": "대전광역시 대덕구 평촌동",
-        "emd_cd": 30230117
+        "emd_cd": 30230117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -124469,7 +124469,7 @@
         "emd_eng_nm": "Doryong-dong",
         "emd_kor_nm": "도룡동",
         "full_nm": "대전광역시 유성구 도룡동",
-        "emd_cd": 30200127
+        "emd_cd": 30200127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126611,7 +126611,7 @@
         "emd_eng_nm": "Gajeong-dong",
         "emd_kor_nm": "가정동",
         "full_nm": "대전광역시 유성구 가정동",
-        "emd_cd": 30200126
+        "emd_cd": 30200126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128451,7 +128451,7 @@
         "emd_eng_nm": "Geumtan-dong",
         "emd_kor_nm": "금탄동",
         "full_nm": "대전광역시 유성구 금탄동",
-        "emd_cd": 30200150
+        "emd_cd": 30200150000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129201,7 +129201,7 @@
         "emd_eng_nm": "Sin-dong",
         "emd_kor_nm": "신동",
         "full_nm": "대전광역시 유성구 신동",
-        "emd_cd": 30200151
+        "emd_cd": 30200151000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -130539,7 +130539,7 @@
         "emd_eng_nm": "Jeongnim-dong",
         "emd_kor_nm": "정림동",
         "full_nm": "대전광역시 서구 정림동",
-        "emd_cd": 30170104
+        "emd_cd": 30170104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -132617,7 +132617,7 @@
         "emd_eng_nm": "Noeun-dong",
         "emd_kor_nm": "노은동",
         "full_nm": "대전광역시 유성구 노은동",
-        "emd_cd": 30200119
+        "emd_cd": 30200119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134035,7 +134035,7 @@
         "emd_eng_nm": "Gap-dong",
         "emd_kor_nm": "갑동",
         "full_nm": "대전광역시 유성구 갑동",
-        "emd_cd": 30200118
+        "emd_cd": 30200118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135293,7 +135293,7 @@
         "emd_eng_nm": "Yongmun-dong",
         "emd_kor_nm": "용문동",
         "full_nm": "대전광역시 서구 용문동",
-        "emd_cd": 30170105
+        "emd_cd": 30170105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135951,7 +135951,7 @@
         "emd_eng_nm": "Eunhaeng-dong",
         "emd_kor_nm": "은행동",
         "full_nm": "대전광역시 중구 은행동",
-        "emd_cd": 30140101
+        "emd_cd": 30140101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136185,7 +136185,7 @@
         "emd_eng_nm": "Samseong-dong",
         "emd_kor_nm": "삼성동",
         "full_nm": "대전광역시 동구 삼성동",
-        "emd_cd": 30110118
+        "emd_cd": 30110118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -137907,7 +137907,7 @@
         "emd_eng_nm": "Jeong-dong",
         "emd_kor_nm": "정동",
         "full_nm": "대전광역시 동구 정동",
-        "emd_cd": 30110119
+        "emd_cd": 30110119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -139029,7 +139029,7 @@
         "emd_eng_nm": "Busu-dong",
         "emd_kor_nm": "부수동",
         "full_nm": "대전광역시 대덕구 부수동",
-        "emd_cd": 30230122
+        "emd_cd": 30230122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140071,7 +140071,7 @@
         "emd_eng_nm": "Hwangho-dong",
         "emd_kor_nm": "황호동",
         "full_nm": "대전광역시 대덕구 황호동",
-        "emd_cd": 30230123
+        "emd_cd": 30230123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140993,7 +140993,7 @@
         "emd_eng_nm": "Deongmyeong-dong",
         "emd_kor_nm": "덕명동",
         "full_nm": "대전광역시 유성구 덕명동",
-        "emd_cd": 30200113
+        "emd_cd": 30200113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142531,7 +142531,7 @@
         "emd_eng_nm": "Guam-dong",
         "emd_kor_nm": "구암동",
         "full_nm": "대전광역시 유성구 구암동",
-        "emd_cd": 30200112
+        "emd_cd": 30200112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143985,7 +143985,7 @@
         "emd_eng_nm": "Hyopyeong-dong",
         "emd_kor_nm": "효평동",
         "full_nm": "대전광역시 동구 효평동",
-        "emd_cd": 30110126
+        "emd_cd": 30110126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145531,7 +145531,7 @@
         "emd_eng_nm": "Jik-dong",
         "emd_kor_nm": "직동",
         "full_nm": "대전광역시 동구 직동",
-        "emd_cd": 30110127
+        "emd_cd": 30110127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147577,7 +147577,7 @@
         "emd_eng_nm": "Ojeong-dong",
         "emd_kor_nm": "오정동",
         "full_nm": "대전광역시 대덕구 오정동",
-        "emd_cd": 30230101
+        "emd_cd": 30230101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149191,7 +149191,7 @@
         "emd_eng_nm": "Hwaam-dong",
         "emd_kor_nm": "화암동",
         "full_nm": "대전광역시 유성구 화암동",
-        "emd_cd": 30200130
+        "emd_cd": 30200130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -150545,7 +150545,7 @@
         "emd_eng_nm": "Deokjin-dong",
         "emd_kor_nm": "덕진동",
         "full_nm": "대전광역시 유성구 덕진동",
-        "emd_cd": 30200131
+        "emd_cd": 30200131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151987,7 +151987,7 @@
         "emd_eng_nm": "Gao-dong",
         "emd_kor_nm": "가오동",
         "full_nm": "대전광역시 동구 가오동",
-        "emd_cd": 30110105
+        "emd_cd": 30110105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -153009,7 +153009,7 @@
         "emd_eng_nm": "Cheon-dong",
         "emd_kor_nm": "천동",
         "full_nm": "대전광역시 동구 천동",
-        "emd_cd": 30110104
+        "emd_cd": 30110104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -154339,7 +154339,7 @@
         "emd_eng_nm": "Wolpyeong-dong",
         "emd_kor_nm": "월평동",
         "full_nm": "대전광역시 서구 월평동",
-        "emd_cd": 30170113
+        "emd_cd": 30170113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155557,7 +155557,7 @@
         "emd_eng_nm": "Dunsan-dong",
         "emd_kor_nm": "둔산동",
         "full_nm": "대전광역시 서구 둔산동",
-        "emd_cd": 30170112
+        "emd_cd": 30170112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156059,7 +156059,7 @@
         "emd_eng_nm": "Chimsan-dong",
         "emd_kor_nm": "침산동",
         "full_nm": "대전광역시 중구 침산동",
-        "emd_cd": 30140122
+        "emd_cd": 30140122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157009,7 +157009,7 @@
         "emd_eng_nm": "Mokdal-dong",
         "emd_kor_nm": "목달동",
         "full_nm": "대전광역시 중구 목달동",
-        "emd_cd": 30140123
+        "emd_cd": 30140123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157919,7 +157919,7 @@
         "emd_eng_nm": "Songgang-dong",
         "emd_kor_nm": "송강동",
         "full_nm": "대전광역시 유성구 송강동",
-        "emd_cd": 30200147
+        "emd_cd": 30200147000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158565,7 +158565,7 @@
         "emd_eng_nm": "Gwanpyeong-dong",
         "emd_kor_nm": "관평동",
         "full_nm": "대전광역시 유성구 관평동",
-        "emd_cd": 30200146
+        "emd_cd": 30200146000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -159991,7 +159991,7 @@
         "emd_eng_nm": "Goegok-dong",
         "emd_kor_nm": "괴곡동",
         "full_nm": "대전광역시 서구 괴곡동",
-        "emd_cd": 30170127
+        "emd_cd": 30170127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162181,7 +162181,7 @@
         "emd_eng_nm": "Bonggok-dong",
         "emd_kor_nm": "봉곡동",
         "full_nm": "대전광역시 서구 봉곡동",
-        "emd_cd": 30170126
+        "emd_cd": 30170126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -163589,7 +163589,7 @@
         "emd_eng_nm": "Munhwa-dong",
         "emd_kor_nm": "문화동",
         "full_nm": "대전광역시 중구 문화동",
-        "emd_cd": 30140116
+        "emd_cd": 30140116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -165127,7 +165127,7 @@
         "emd_eng_nm": "Sanseong-dong",
         "emd_kor_nm": "산성동",
         "full_nm": "대전광역시 중구 산성동",
-        "emd_cd": 30140117
+        "emd_cd": 30140117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166201,7 +166201,7 @@
         "emd_eng_nm": "Sinchon-dong",
         "emd_kor_nm": "신촌동",
         "full_nm": "대전광역시 동구 신촌동",
-        "emd_cd": 30110131
+        "emd_cd": 30110131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167935,7 +167935,7 @@
         "emd_eng_nm": "Sinha-dong",
         "emd_kor_nm": "신하동",
         "full_nm": "대전광역시 동구 신하동",
-        "emd_cd": 30110130
+        "emd_cd": 30110130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -169809,7 +169809,7 @@
         "emd_eng_nm": "Sanjik-dong",
         "emd_kor_nm": "산직동",
         "full_nm": "대전광역시 서구 산직동",
-        "emd_cd": 30170119
+        "emd_cd": 30170119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171579,7 +171579,7 @@
         "emd_eng_nm": "Yonggye-dong",
         "emd_kor_nm": "용계동",
         "full_nm": "대전광역시 유성구 용계동",
-        "emd_cd": 30200104
+        "emd_cd": 30200104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173153,7 +173153,7 @@
         "emd_eng_nm": "Hakha-dong",
         "emd_kor_nm": "학하동",
         "full_nm": "대전광역시 유성구 학하동",
-        "emd_cd": 30200105
+        "emd_cd": 30200105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174487,7 +174487,7 @@
         "emd_eng_nm": "Maeno-dong",
         "emd_kor_nm": "매노동",
         "full_nm": "대전광역시 서구 매노동",
-        "emd_cd": 30170118
+        "emd_cd": 30170118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176989,7 +176989,7 @@
         "emd_eng_nm": "Wa-dong",
         "emd_kor_nm": "와동",
         "full_nm": "대전광역시 대덕구 와동",
-        "emd_cd": 30230106
+        "emd_cd": 30230106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -178127,7 +178127,7 @@
         "emd_eng_nm": "Songchon-dong",
         "emd_kor_nm": "송촌동",
         "full_nm": "대전광역시 대덕구 송촌동",
-        "emd_cd": 30230107
+        "emd_cd": 30230107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179229,7 +179229,7 @@
         "emd_eng_nm": "Ansan-dong",
         "emd_kor_nm": "안산동",
         "full_nm": "대전광역시 유성구 안산동",
-        "emd_cd": 30200137
+        "emd_cd": 30200137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180403,7 +180403,7 @@
         "emd_eng_nm": "Sunam-dong",
         "emd_kor_nm": "수남동",
         "full_nm": "대전광역시 유성구 수남동",
-        "emd_cd": 30200136
+        "emd_cd": 30200136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -181133,7 +181133,7 @@
         "emd_eng_nm": "In-dong",
         "emd_kor_nm": "인동",
         "full_nm": "대전광역시 동구 인동",
-        "emd_cd": 30110102
+        "emd_cd": 30110102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -182135,7 +182135,7 @@
         "emd_eng_nm": "Hyo-dong",
         "emd_kor_nm": "효동",
         "full_nm": "대전광역시 동구 효동",
-        "emd_cd": 30110103
+        "emd_cd": 30110103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183125,7 +183125,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "대전광역시 유성구 송정동",
-        "emd_cd": 30200109
+        "emd_cd": 30200109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -184083,7 +184083,7 @@
         "emd_eng_nm": "Gasuwon-dong",
         "emd_kor_nm": "가수원동",
         "full_nm": "대전광역시 서구 가수원동",
-        "emd_cd": 30170114
+        "emd_cd": 30170114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185061,7 +185061,7 @@
         "emd_eng_nm": "Doan-dong",
         "emd_kor_nm": "도안동",
         "full_nm": "대전광역시 서구 도안동",
-        "emd_cd": 30170115
+        "emd_cd": 30170115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186563,7 +186563,7 @@
         "emd_eng_nm": "Se-dong",
         "emd_kor_nm": "세동",
         "full_nm": "대전광역시 유성구 세동",
-        "emd_cd": 30200108
+        "emd_cd": 30200108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -187833,7 +187833,7 @@
         "emd_eng_nm": "Eonam-dong",
         "emd_kor_nm": "어남동",
         "full_nm": "대전광역시 중구 어남동",
-        "emd_cd": 30140125
+        "emd_cd": 30140125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188747,7 +188747,7 @@
         "emd_eng_nm": "Jeongsaeng-dong",
         "emd_kor_nm": "정생동",
         "full_nm": "대전광역시 중구 정생동",
-        "emd_cd": 30140124
+        "emd_cd": 30140124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -190037,7 +190037,7 @@
         "emd_eng_nm": "Munji-dong",
         "emd_kor_nm": "문지동",
         "full_nm": "대전광역시 유성구 문지동",
-        "emd_cd": 30200140
+        "emd_cd": 30200140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191335,7 +191335,7 @@
         "emd_eng_nm": "Jeonmin-dong",
         "emd_kor_nm": "전민동",
         "full_nm": "대전광역시 유성구 전민동",
-        "emd_cd": 30200141
+        "emd_cd": 30200141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -193001,7 +193001,7 @@
         "emd_eng_nm": "Samjeong-dong",
         "emd_kor_nm": "삼정동",
         "full_nm": "대전광역시 동구 삼정동",
-        "emd_cd": 30110108
+        "emd_cd": 30110108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194379,7 +194379,7 @@
         "emd_eng_nm": "Yongun-dong",
         "emd_kor_nm": "용운동",
         "full_nm": "대전광역시 동구 용운동",
-        "emd_cd": 30110109
+        "emd_cd": 30110109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196205,7 +196205,7 @@
         "emd_eng_nm": "Soho-dong",
         "emd_kor_nm": "소호동",
         "full_nm": "대전광역시 동구 소호동",
-        "emd_cd": 30110141
+        "emd_cd": 30110141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -197187,7 +197187,7 @@
         "emd_eng_nm": "Jangcheok-dong",
         "emd_kor_nm": "장척동",
         "full_nm": "대전광역시 동구 장척동",
-        "emd_cd": 30110140
+        "emd_cd": 30110140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -197873,7 +197873,7 @@
         "emd_eng_nm": "Jangan-dong",
         "emd_kor_nm": "장안동",
         "full_nm": "대전광역시 서구 장안동",
-        "emd_cd": 30170120
+        "emd_cd": 30170120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199779,7 +199779,7 @@
         "emd_eng_nm": "Pyeongchon-dong",
         "emd_kor_nm": "평촌동",
         "full_nm": "대전광역시 서구 평촌동",
-        "emd_cd": 30170121
+        "emd_cd": 30170121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202177,7 +202177,7 @@
         "emd_eng_nm": "Busa-dong",
         "emd_kor_nm": "부사동",
         "full_nm": "대전광역시 중구 부사동",
-        "emd_cd": 30140111
+        "emd_cd": 30140111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203751,7 +203751,7 @@
         "emd_eng_nm": "Daesa-dong",
         "emd_kor_nm": "대사동",
         "full_nm": "대전광역시 중구 대사동",
-        "emd_cd": 30140110
+        "emd_cd": 30140110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206633,7 +206633,7 @@
         "emd_eng_nm": "Nangwol-dong",
         "emd_kor_nm": "낭월동",
         "full_nm": "대전광역시 동구 낭월동",
-        "emd_cd": 30110136
+        "emd_cd": 30110136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208483,7 +208483,7 @@
         "emd_eng_nm": "Daebyeol-dong",
         "emd_kor_nm": "대별동",
         "full_nm": "대전광역시 동구 대별동",
-        "emd_cd": 30110137
+        "emd_cd": 30110137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -209713,7 +209713,7 @@
         "emd_eng_nm": "Daejeong-dong",
         "emd_kor_nm": "대정동",
         "full_nm": "대전광역시 유성구 대정동",
-        "emd_cd": 30200103
+        "emd_cd": 30200103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -211463,7 +211463,7 @@
         "emd_eng_nm": "Gyochon-dong",
         "emd_kor_nm": "교촌동",
         "full_nm": "대전광역시 유성구 교촌동",
-        "emd_cd": 30200102
+        "emd_cd": 30200102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -212689,7 +212689,7 @@
         "emd_eng_nm": "Yongjeon-dong",
         "emd_kor_nm": "용전동",
         "full_nm": "대전광역시 동구 용전동",
-        "emd_cd": 30110115
+        "emd_cd": 30110115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213191,7 +213191,7 @@
         "emd_eng_nm": "Gayang-dong",
         "emd_kor_nm": "가양동",
         "full_nm": "대전광역시 동구 가양동",
-        "emd_cd": 30110114
+        "emd_cd": 30110114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215105,7 +215105,7 @@
         "emd_eng_nm": "Seokbong-dong",
         "emd_kor_nm": "석봉동",
         "full_nm": "대전광역시 대덕구 석봉동",
-        "emd_cd": 30230111
+        "emd_cd": 30230111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -216063,7 +216063,7 @@
         "emd_eng_nm": "Birae-dong",
         "emd_kor_nm": "비래동",
         "full_nm": "대전광역시 대덕구 비래동",
-        "emd_cd": 30230110
+        "emd_cd": 30230110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -217525,7 +217525,7 @@
         "emd_eng_nm": "Jijok-dong",
         "emd_kor_nm": "지족동",
         "full_nm": "대전광역시 유성구 지족동",
-        "emd_cd": 30200120
+        "emd_cd": 30200120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -218983,7 +218983,7 @@
         "emd_eng_nm": "Juk-dong",
         "emd_kor_nm": "죽동",
         "full_nm": "대전광역시 유성구 죽동",
-        "emd_cd": 30200121
+        "emd_cd": 30200121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220369,7 +220369,7 @@
         "emd_eng_nm": "Doma-dong",
         "emd_kor_nm": "도마동",
         "full_nm": "대전광역시 서구 도마동",
-        "emd_cd": 30170103
+        "emd_cd": 30170103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221679,7 +221679,7 @@
         "emd_eng_nm": "Byeon-dong",
         "emd_kor_nm": "변동",
         "full_nm": "대전광역시 서구 변동",
-        "emd_cd": 30170102
+        "emd_cd": 30170102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222641,7 +222641,7 @@
         "emd_eng_nm": "Munchang-dong",
         "emd_kor_nm": "문창동",
         "full_nm": "대전광역시 중구 문창동",
-        "emd_cd": 30140106
+        "emd_cd": 30140106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -223571,7 +223571,7 @@
         "emd_eng_nm": "Seokgyo-dong",
         "emd_kor_nm": "석교동",
         "full_nm": "대전광역시 중구 석교동",
-        "emd_cd": 30140107
+        "emd_cd": 30140107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224461,7 +224461,7 @@
         "emd_eng_nm": "Miho-dong",
         "emd_kor_nm": "미호동",
         "full_nm": "대전광역시 대덕구 미호동",
-        "emd_cd": 30230125
+        "emd_cd": 30230125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226083,7 +226083,7 @@
         "emd_eng_nm": "Samjeong-dong",
         "emd_kor_nm": "삼정동",
         "full_nm": "대전광역시 대덕구 삼정동",
-        "emd_cd": 30230124
+        "emd_cd": 30230124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -227433,7 +227433,7 @@
         "emd_eng_nm": "Wonsinheung-dong",
         "emd_kor_nm": "원신흥동",
         "full_nm": "대전광역시 유성구 원신흥동",
-        "emd_cd": 30200114
+        "emd_cd": 30200114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228415,7 +228415,7 @@
         "emd_eng_nm": "Gajang-dong",
         "emd_kor_nm": "가장동",
         "full_nm": "대전광역시 서구 가장동",
-        "emd_cd": 30170109
+        "emd_cd": 30170109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228777,7 +228777,7 @@
         "emd_eng_nm": "Goejeong-dong",
         "emd_kor_nm": "괴정동",
         "full_nm": "대전광역시 서구 괴정동",
-        "emd_cd": 30170108
+        "emd_cd": 30170108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229667,7 +229667,7 @@
         "emd_eng_nm": "Sangdae-dong",
         "emd_kor_nm": "상대동",
         "full_nm": "대전광역시 유성구 상대동",
-        "emd_cd": 30200115
+        "emd_cd": 30200115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -230521,7 +230521,7 @@
         "emd_eng_nm": "Chu-dong",
         "emd_kor_nm": "추동",
         "full_nm": "대전광역시 동구 추동",
-        "emd_cd": 30110121
+        "emd_cd": 30110121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -232599,7 +232599,7 @@
         "emd_eng_nm": "Jung-dong",
         "emd_kor_nm": "중동",
         "full_nm": "대전광역시 동구 중동",
-        "emd_cd": 30110120
+        "emd_cd": 30110120000
       },
       "geometry": {
         "type": "MultiPolygon",

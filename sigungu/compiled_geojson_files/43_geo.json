@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43130,
+        "sig_cd": 4313000000,
         "sig_eng_nm": "Chungju-si",
         "full_nm": "충청북도 충주시",
         "sig_kor_nm": "충주시"
@@ -18594,7 +18594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43150,
+        "sig_cd": 4315000000,
         "sig_eng_nm": "Jecheon-si",
         "full_nm": "충청북도 제천시",
         "sig_kor_nm": "제천시"
@@ -33904,7 +33904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43760,
+        "sig_cd": 4376000000,
         "sig_eng_nm": "Goesan-gun",
         "full_nm": "충청북도 괴산군",
         "sig_kor_nm": "괴산군"
@@ -52258,7 +52258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43113,
+        "sig_cd": 4311300000,
         "sig_eng_nm": "Heungdeok-gu, Cheongju-si",
         "full_nm": "충청북도 청주시 흥덕구",
         "sig_kor_nm": "청주시 흥덕구"
@@ -67292,7 +67292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43112,
+        "sig_cd": 4311200000,
         "sig_eng_nm": "Seowon-gu, Cheongju-si",
         "full_nm": "충청북도 청주시 서원구",
         "sig_kor_nm": "청주시 서원구"
@@ -80258,7 +80258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43800,
+        "sig_cd": 4380000000,
         "sig_eng_nm": "Danyang-gun",
         "full_nm": "충청북도 단양군",
         "sig_kor_nm": "단양군"
@@ -95804,7 +95804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43114,
+        "sig_cd": 4311400000,
         "sig_eng_nm": "Cheongwon-gu, Cheongju-si",
         "full_nm": "충청북도 청주시 청원구",
         "sig_kor_nm": "청주시 청원구"
@@ -111186,7 +111186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43745,
+        "sig_cd": 4374500000,
         "sig_eng_nm": "Jeungpyeong-gun",
         "full_nm": "충청북도 증평군",
         "sig_kor_nm": "증평군"
@@ -119012,7 +119012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43770,
+        "sig_cd": 4377000000,
         "sig_eng_nm": "Eumseong-gun",
         "full_nm": "충청북도 음성군",
         "sig_kor_nm": "음성군"
@@ -145186,7 +145186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43111,
+        "sig_cd": 4311100000,
         "sig_eng_nm": "Sangdang-gu, Cheongju-si",
         "full_nm": "충청북도 청주시 상당구",
         "sig_kor_nm": "청주시 상당구"
@@ -161888,7 +161888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43720,
+        "sig_cd": 4372000000,
         "sig_eng_nm": "Boeun-gun",
         "full_nm": "충청북도 보은군",
         "sig_kor_nm": "보은군"
@@ -175710,7 +175710,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43740,
+        "sig_cd": 4374000000,
         "sig_eng_nm": "Yeongdong-gun",
         "full_nm": "충청북도 영동군",
         "sig_kor_nm": "영동군"
@@ -193588,7 +193588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43730,
+        "sig_cd": 4373000000,
         "sig_eng_nm": "Okcheon-gun",
         "full_nm": "충청북도 옥천군",
         "sig_kor_nm": "옥천군"
@@ -209122,7 +209122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": 43750,
+        "sig_cd": 4375000000,
         "sig_eng_nm": "Jincheon-gun",
         "full_nm": "충청북도 진천군",
         "sig_kor_nm": "진천군"

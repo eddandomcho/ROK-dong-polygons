@@ -56,7 +56,7 @@ def transform_to_geojson_list(input_folder_path, output_folder_path):
             ]
         }
 
-        geojs["features"][0]["properties"]["emd_cd"] = int(geojs["features"][0]["properties"]["emd_cd"])
+        geojs["features"][0]["properties"]["emd_cd"] = int(geojs["features"][0]["properties"]["emd_cd"]) * 1000
 
         out_file_path = output_dir / f"{emd_cd}_geo.json"
 

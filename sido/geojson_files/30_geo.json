@@ -16258,7 +16258,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Daejeon",
-        "ctprvn_cd": 30,
+        "ctprvn_cd": 3000000000,
         "ctp_kor_nm": "대전광역시"
       }
     }

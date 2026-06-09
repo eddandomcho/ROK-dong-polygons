@@ -7,7 +7,7 @@
         "emd_eng_nm": "Jongno 3(sam)-ga",
         "emd_kor_nm": "종로3가",
         "full_nm": "서울특별시 종로구 종로3가",
-        "emd_cd": 11110156
+        "emd_cd": 11110156000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -465,7 +465,7 @@
         "emd_eng_nm": "Inui-dong",
         "emd_kor_nm": "인의동",
         "full_nm": "서울특별시 종로구 인의동",
-        "emd_cd": 11110157
+        "emd_cd": 11110157000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1263,7 +1263,7 @@
         "emd_eng_nm": "Banghwa-dong",
         "emd_kor_nm": "방화동",
         "full_nm": "서울특별시 강서구 방화동",
-        "emd_cd": 11500109
+        "emd_cd": 11500109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4313,7 +4313,7 @@
         "emd_eng_nm": "Gonghang-dong",
         "emd_kor_nm": "공항동",
         "full_nm": "서울특별시 강서구 공항동",
-        "emd_cd": 11500108
+        "emd_cd": 11500108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7223,7 +7223,7 @@
         "emd_eng_nm": "Bogwang-dong",
         "emd_kor_nm": "보광동",
         "full_nm": "서울특별시 용산구 보광동",
-        "emd_cd": 11170136
+        "emd_cd": 11170136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9109,7 +9109,7 @@
         "emd_eng_nm": "Namdaemunno 1(il)-ga",
         "emd_kor_nm": "남대문로1가",
         "full_nm": "서울특별시 중구 남대문로1가",
-        "emd_cd": 11140106
+        "emd_cd": 11140106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9811,7 +9811,7 @@
         "emd_eng_nm": "Cheonyeon-dong",
         "emd_kor_nm": "천연동",
         "full_nm": "서울특별시 서대문구 천연동",
-        "emd_cd": 11410106
+        "emd_cd": 11410106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11117,7 +11117,7 @@
         "emd_eng_nm": "Okcheon-dong",
         "emd_kor_nm": "옥천동",
         "full_nm": "서울특별시 서대문구 옥천동",
-        "emd_cd": 11410107
+        "emd_cd": 11410107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11923,7 +11923,7 @@
         "emd_eng_nm": "Samgak-dong",
         "emd_kor_nm": "삼각동",
         "full_nm": "서울특별시 중구 삼각동",
-        "emd_cd": 11140107
+        "emd_cd": 11140107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12697,7 +12697,7 @@
         "emd_eng_nm": "Bomun-dong 7(chil)-ga",
         "emd_kor_nm": "보문동7가",
         "full_nm": "서울특별시 성북구 보문동7가",
-        "emd_cd": 11290129
+        "emd_cd": 11290129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13351,7 +13351,7 @@
         "emd_eng_nm": "Bomun-dong 6(yuk)-ga",
         "emd_kor_nm": "보문동6가",
         "full_nm": "서울특별시 성북구 보문동6가",
-        "emd_cd": 11290128
+        "emd_cd": 11290128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14277,7 +14277,7 @@
         "emd_eng_nm": "Mullae-dong 3(sam)-ga",
         "emd_kor_nm": "문래동3가",
         "full_nm": "서울특별시 영등포구 문래동3가",
-        "emd_cd": 11560121
+        "emd_cd": 11560121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15387,7 +15387,7 @@
         "emd_eng_nm": "Sangbong-dong",
         "emd_kor_nm": "상봉동",
         "full_nm": "서울특별시 중랑구 상봉동",
-        "emd_cd": 11260102
+        "emd_cd": 11260102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17657,7 +17657,7 @@
         "emd_eng_nm": "Mullae-dong 2(i)-ga",
         "emd_kor_nm": "문래동2가",
         "full_nm": "서울특별시 영등포구 문래동2가",
-        "emd_cd": 11560120
+        "emd_cd": 11560120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18383,7 +18383,7 @@
         "emd_eng_nm": "Junghwa-dong",
         "emd_kor_nm": "중화동",
         "full_nm": "서울특별시 중랑구 중화동",
-        "emd_cd": 11260103
+        "emd_cd": 11260103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20289,7 +20289,7 @@
         "emd_eng_nm": "Godeok-dong",
         "emd_kor_nm": "고덕동",
         "full_nm": "서울특별시 강동구 고덕동",
-        "emd_cd": 11740102
+        "emd_cd": 11740102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21731,7 +21731,7 @@
         "emd_eng_nm": "Sangil-dong",
         "emd_kor_nm": "상일동",
         "full_nm": "서울특별시 강동구 상일동",
-        "emd_cd": 11740103
+        "emd_cd": 11740103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23053,7 +23053,7 @@
         "emd_eng_nm": "Dongsung-dong",
         "emd_kor_nm": "동숭동",
         "full_nm": "서울특별시 종로구 동숭동",
-        "emd_cd": 11110168
+        "emd_cd": 11110168000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23963,7 +23963,7 @@
         "emd_eng_nm": "Hyehwa-dong",
         "emd_kor_nm": "혜화동",
         "full_nm": "서울특별시 종로구 혜화동",
-        "emd_cd": 11110169
+        "emd_cd": 11110169000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24913,7 +24913,7 @@
         "emd_eng_nm": "Pildong 2(i)-ga",
         "emd_kor_nm": "필동2가",
         "full_nm": "서울특별시 중구 필동2가",
-        "emd_cd": 11140138
+        "emd_cd": 11140138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26855,7 +26855,7 @@
         "emd_eng_nm": "Gocheok-dong",
         "emd_kor_nm": "고척동",
         "full_nm": "서울특별시 구로구 고척동",
-        "emd_cd": 11530106
+        "emd_cd": 11530106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29117,7 +29117,7 @@
         "emd_eng_nm": "Pil-dong 3(sam)-ga",
         "emd_kor_nm": "필동3가",
         "full_nm": "서울특별시 중구 필동3가",
-        "emd_cd": 11140139
+        "emd_cd": 11140139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31035,7 +31035,7 @@
         "emd_eng_nm": "Gaebong-dong",
         "emd_kor_nm": "개봉동",
         "full_nm": "서울특별시 구로구 개봉동",
-        "emd_cd": 11530107
+        "emd_cd": 11530107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34461,7 +34461,7 @@
         "emd_eng_nm": "Cheongpa-dong 1(il)-ga",
         "emd_kor_nm": "청파동1가",
         "full_nm": "서울특별시 용산구 청파동1가",
-        "emd_cd": 11170109
+        "emd_cd": 11170109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36403,7 +36403,7 @@
         "emd_eng_nm": "Seongsu-dong1(il)-ga",
         "emd_kor_nm": "성수동1가",
         "full_nm": "서울특별시 성동구 성수동1가",
-        "emd_cd": 11200114
+        "emd_cd": 11200114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37953,7 +37953,7 @@
         "emd_eng_nm": "Seongsu-dong2(i)-ga",
         "emd_kor_nm": "성수동2가",
         "full_nm": "서울특별시 성동구 성수동2가",
-        "emd_cd": 11200115
+        "emd_cd": 11200115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39031,7 +39031,7 @@
         "emd_eng_nm": "Seogye-dong",
         "emd_kor_nm": "서계동",
         "full_nm": "서울특별시 용산구 서계동",
-        "emd_cd": 11170108
+        "emd_cd": 11170108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40305,7 +40305,7 @@
         "emd_eng_nm": "Yeoksam-dong",
         "emd_kor_nm": "역삼동",
         "full_nm": "서울특별시 강남구 역삼동",
-        "emd_cd": 11680101
+        "emd_cd": 11680101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40759,7 +40759,7 @@
         "emd_eng_nm": "Sinmunno 2(i)-ga",
         "emd_kor_nm": "신문로2가",
         "full_nm": "서울특별시 종로구 신문로2가",
-        "emd_cd": 11110121
+        "emd_cd": 11110121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42857,7 +42857,7 @@
         "emd_eng_nm": "Donggyo-dong",
         "emd_kor_nm": "동교동",
         "full_nm": "서울특별시 마포구 동교동",
-        "emd_cd": 11440121
+        "emd_cd": 11440121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43999,7 +43999,7 @@
         "emd_eng_nm": "Seogyo-dong",
         "emd_kor_nm": "서교동",
         "full_nm": "서울특별시 마포구 서교동",
-        "emd_cd": 11440120
+        "emd_cd": 11440120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46185,7 +46185,7 @@
         "emd_eng_nm": "Sinmunno 1(il)-ga",
         "emd_kor_nm": "신문로1가",
         "full_nm": "서울특별시 종로구 신문로1가",
-        "emd_cd": 11110120
+        "emd_cd": 11110120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47479,7 +47479,7 @@
         "emd_eng_nm": "Dongseon-dong 2(i)-ga",
         "emd_kor_nm": "동선동2가",
         "full_nm": "서울특별시 성북구 동선동2가",
-        "emd_cd": 11290117
+        "emd_cd": 11290117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48081,7 +48081,7 @@
         "emd_eng_nm": "Dongseon-dong 1(il)-ga",
         "emd_kor_nm": "동선동1가",
         "full_nm": "서울특별시 성북구 동선동1가",
-        "emd_cd": 11290116
+        "emd_cd": 11290116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48775,7 +48775,7 @@
         "emd_eng_nm": "Jungnim-dong",
         "emd_kor_nm": "중림동",
         "full_nm": "서울특별시 중구 중림동",
-        "emd_cd": 11140171
+        "emd_cd": 11140171000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50829,7 +50829,7 @@
         "emd_eng_nm": "Chungjeongno 1(il)-ga",
         "emd_kor_nm": "충정로1가",
         "full_nm": "서울특별시 중구 충정로1가",
-        "emd_cd": 11140170
+        "emd_cd": 11140170000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51455,7 +51455,7 @@
         "emd_eng_nm": "Banpo-dong",
         "emd_kor_nm": "반포동",
         "full_nm": "서울특별시 서초구 반포동",
-        "emd_cd": 11650107
+        "emd_cd": 11650107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52969,7 +52969,7 @@
         "emd_eng_nm": "Jamwon-dong",
         "emd_kor_nm": "잠원동",
         "full_nm": "서울특별시 서초구 잠원동",
-        "emd_cd": 11650106
+        "emd_cd": 11650106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53779,7 +53779,7 @@
         "emd_eng_nm": "Muak-dong",
         "emd_kor_nm": "무악동",
         "full_nm": "서울특별시 종로구 무악동",
-        "emd_cd": 11110187
+        "emd_cd": 11110187000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55001,7 +55001,7 @@
         "emd_eng_nm": "Sinyeong-dong",
         "emd_kor_nm": "신영동",
         "full_nm": "서울특별시 종로구 신영동",
-        "emd_cd": 11110186
+        "emd_cd": 11110186000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56519,7 +56519,7 @@
         "emd_eng_nm": "Seongnae-dong",
         "emd_kor_nm": "성내동",
         "full_nm": "서울특별시 강동구 성내동",
-        "emd_cd": 11740108
+        "emd_cd": 11740108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57537,7 +57537,7 @@
         "emd_eng_nm": "Gwanghui-dong 1(il)-ga",
         "emd_kor_nm": "광희동1가",
         "full_nm": "서울특별시 중구 광희동1가",
-        "emd_cd": 11140145
+        "emd_cd": 11140145000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58387,7 +58387,7 @@
         "emd_eng_nm": "Cheonho-dong",
         "emd_kor_nm": "천호동",
         "full_nm": "서울특별시 강동구 천호동",
-        "emd_cd": 11740109
+        "emd_cd": 11740109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60357,7 +60357,7 @@
         "emd_eng_nm": "Jangchung-dong 2(i)-ga",
         "emd_kor_nm": "장충동2가",
         "full_nm": "서울특별시 중구 장충동2가",
-        "emd_cd": 11140144
+        "emd_cd": 11140144000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63691,7 +63691,7 @@
         "emd_eng_nm": "Anam-dong 3(sam)-ga",
         "emd_kor_nm": "안암동3가",
         "full_nm": "서울특별시 성북구 안암동3가",
-        "emd_cd": 11290123
+        "emd_cd": 11290123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64149,7 +64149,7 @@
         "emd_eng_nm": "Noryangjin-dong",
         "emd_kor_nm": "노량진동",
         "full_nm": "서울특별시 동작구 노량진동",
-        "emd_cd": 11590101
+        "emd_cd": 11590101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66575,7 +66575,7 @@
         "emd_eng_nm": "Anam-dong 2(i)-ga",
         "emd_kor_nm": "안암동2가",
         "full_nm": "서울특별시 성북구 안암동2가",
-        "emd_cd": 11290122
+        "emd_cd": 11290122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66973,7 +66973,7 @@
         "emd_eng_nm": "Sajik-dong",
         "emd_kor_nm": "사직동",
         "full_nm": "서울특별시 종로구 사직동",
-        "emd_cd": 11110115
+        "emd_cd": 11110115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68563,7 +68563,7 @@
         "emd_eng_nm": "Sangsu-dong",
         "emd_kor_nm": "상수동",
         "full_nm": "서울특별시 마포구 상수동",
-        "emd_cd": 11440115
+        "emd_cd": 11440115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69981,7 +69981,7 @@
         "emd_eng_nm": "Changjeon-dong",
         "emd_kor_nm": "창전동",
         "full_nm": "서울특별시 마포구 창전동",
-        "emd_cd": 11440114
+        "emd_cd": 11440114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71343,7 +71343,7 @@
         "emd_eng_nm": "Naeja-dong",
         "emd_kor_nm": "내자동",
         "full_nm": "서울특별시 종로구 내자동",
-        "emd_cd": 11110114
+        "emd_cd": 11110114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71665,7 +71665,7 @@
         "emd_eng_nm": "Imun-dong",
         "emd_kor_nm": "이문동",
         "full_nm": "서울특별시 동대문구 이문동",
-        "emd_cd": 11230110
+        "emd_cd": 11230110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74715,7 +74715,7 @@
         "emd_eng_nm": "Hwagok-dong",
         "emd_kor_nm": "화곡동",
         "full_nm": "서울특별시 강서구 화곡동",
-        "emd_cd": 11500103
+        "emd_cd": 11500103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77245,7 +77245,7 @@
         "emd_eng_nm": "Deungchon-dong",
         "emd_kor_nm": "등촌동",
         "full_nm": "서울특별시 강서구 등촌동",
-        "emd_cd": 11500102
+        "emd_cd": 11500102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78995,7 +78995,7 @@
         "emd_eng_nm": "Bangi-dong",
         "emd_kor_nm": "방이동",
         "full_nm": "서울특별시 송파구 방이동",
-        "emd_cd": 11710111
+        "emd_cd": 11710111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80309,7 +80309,7 @@
         "emd_eng_nm": "Dangsan-dong 5(o)-ga",
         "emd_kor_nm": "당산동5가",
         "full_nm": "서울특별시 영등포구 당산동5가",
-        "emd_cd": 11560115
+        "emd_cd": 11560115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80867,7 +80867,7 @@
         "emd_eng_nm": "Dangsan-dong 4(sa)-ga",
         "emd_kor_nm": "당산동4가",
         "full_nm": "서울특별시 영등포구 당산동4가",
-        "emd_cd": 11560114
+        "emd_cd": 11560114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81533,7 +81533,7 @@
         "emd_eng_nm": "Yongsan-dong 4(sa)-ga",
         "emd_kor_nm": "용산동4가",
         "full_nm": "서울특별시 용산구 용산동4가",
-        "emd_cd": 11170103
+        "emd_cd": 11170103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82555,7 +82555,7 @@
         "emd_eng_nm": "yongsan-dong  2(i)-ga",
         "emd_kor_nm": "용산동2가",
         "full_nm": "서울특별시 용산구 용산동2가",
-        "emd_cd": 11170102
+        "emd_cd": 11170102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84617,7 +84617,7 @@
         "emd_eng_nm": "Chungmuro 4(sa)-ga",
         "emd_kor_nm": "충무로4가",
         "full_nm": "서울특별시 중구 충무로4가",
-        "emd_cd": 11140132
+        "emd_cd": 11140132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86343,7 +86343,7 @@
         "emd_eng_nm": "Chungmuro 5(o)-ga",
         "emd_kor_nm": "충무로5가",
         "full_nm": "서울특별시 중구 충무로5가",
-        "emd_cd": 11140133
+        "emd_cd": 11140133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87045,7 +87045,7 @@
         "emd_eng_nm": "Hyoje-dong",
         "emd_kor_nm": "효제동",
         "full_nm": "서울특별시 종로구 효제동",
-        "emd_cd": 11110162
+        "emd_cd": 11110162000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87679,7 +87679,7 @@
         "emd_eng_nm": "Jongno 5(o)-ga",
         "emd_kor_nm": "종로5가",
         "full_nm": "서울특별시 종로구 종로5가",
-        "emd_cd": 11110163
+        "emd_cd": 11110163000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88505,7 +88505,7 @@
         "emd_eng_nm": "Chungmuro 3(sam)-ga",
         "emd_kor_nm": "충무로3가",
         "full_nm": "서울특별시 중구 충무로3가",
-        "emd_cd": 11140158
+        "emd_cd": 11140158000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89223,7 +89223,7 @@
         "emd_eng_nm": "Cho-dong",
         "emd_kor_nm": "초동",
         "full_nm": "서울특별시 중구 초동",
-        "emd_cd": 11140159
+        "emd_cd": 11140159000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90333,7 +90333,7 @@
         "emd_eng_nm": "Tongin-dong",
         "emd_kor_nm": "통인동",
         "full_nm": "서울특별시 종로구 통인동",
-        "emd_cd": 11110108
+        "emd_cd": 11110108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91195,7 +91195,7 @@
         "emd_eng_nm": "Daeheung-dong",
         "emd_kor_nm": "대흥동",
         "full_nm": "서울특별시 마포구 대흥동",
-        "emd_cd": 11440108
+        "emd_cd": 11440108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92345,7 +92345,7 @@
         "emd_eng_nm": "Yeomni-dong",
         "emd_kor_nm": "염리동",
         "full_nm": "서울특별시 마포구 염리동",
-        "emd_cd": 11440109
+        "emd_cd": 11440109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93839,7 +93839,7 @@
         "emd_eng_nm": "Nusang-dong",
         "emd_kor_nm": "누상동",
         "full_nm": "서울특별시 종로구 누상동",
-        "emd_cd": 11110109
+        "emd_cd": 11110109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94761,7 +94761,7 @@
         "emd_eng_nm": "Dowon-dong",
         "emd_kor_nm": "도원동",
         "full_nm": "서울특별시 용산구 도원동",
-        "emd_cd": 11170120
+        "emd_cd": 11170120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95683,7 +95683,7 @@
         "emd_eng_nm": "Yongmun-dong",
         "emd_kor_nm": "용문동",
         "full_nm": "서울특별시 용산구 용문동",
-        "emd_cd": 11170121
+        "emd_cd": 11170121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97269,7 +97269,7 @@
         "emd_eng_nm": "Sogong-dong",
         "emd_kor_nm": "소공동",
         "full_nm": "서울특별시 중구 소공동",
-        "emd_cd": 11140111
+        "emd_cd": 11140111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98499,7 +98499,7 @@
         "emd_eng_nm": "Hongje-dong",
         "emd_kor_nm": "홍제동",
         "full_nm": "서울특별시 서대문구 홍제동",
-        "emd_cd": 11410111
+        "emd_cd": 11410111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100157,7 +100157,7 @@
         "emd_eng_nm": "Bugahyeon-dong",
         "emd_kor_nm": "북아현동",
         "full_nm": "서울특별시 서대문구 북아현동",
-        "emd_cd": 11410110
+        "emd_cd": 11410110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101863,7 +101863,7 @@
         "emd_eng_nm": "Supyo-dong",
         "emd_kor_nm": "수표동",
         "full_nm": "서울특별시 중구 수표동",
-        "emd_cd": 11140110
+        "emd_cd": 11140110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102217,7 +102217,7 @@
         "emd_eng_nm": "Gongneung-dong",
         "emd_kor_nm": "공릉동",
         "full_nm": "서울특별시 노원구 공릉동",
-        "emd_cd": 11350103
+        "emd_cd": 11350103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105759,7 +105759,7 @@
         "emd_eng_nm": "Wolgye-dong",
         "emd_kor_nm": "월계동",
         "full_nm": "서울특별시 노원구 월계동",
-        "emd_cd": 11350102
+        "emd_cd": 11350102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108513,7 +108513,7 @@
         "emd_eng_nm": "Gunja-dong",
         "emd_kor_nm": "군자동",
         "full_nm": "서울특별시 광진구 군자동",
-        "emd_cd": 11215109
+        "emd_cd": 11215109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109295,7 +109295,7 @@
         "emd_eng_nm": "Anguk-dong",
         "emd_kor_nm": "안국동",
         "full_nm": "서울특별시 종로구 안국동",
-        "emd_cd": 11110141
+        "emd_cd": 11110141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109877,7 +109877,7 @@
         "emd_eng_nm": "Samcheong-dong",
         "emd_kor_nm": "삼청동",
         "full_nm": "서울특별시 종로구 삼청동",
-        "emd_cd": 11110140
+        "emd_cd": 11110140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111887,7 +111887,7 @@
         "emd_eng_nm": "Seosomun-dong",
         "emd_kor_nm": "서소문동",
         "full_nm": "서울특별시 중구 서소문동",
-        "emd_cd": 11140166
+        "emd_cd": 11140166000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112793,7 +112793,7 @@
         "emd_eng_nm": "Jeong-dong",
         "emd_kor_nm": "정동",
         "full_nm": "서울특별시 중구 정동",
-        "emd_cd": 11140167
+        "emd_cd": 11140167000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114887,7 +114887,7 @@
         "emd_eng_nm": "Seongbuk-dong",
         "emd_kor_nm": "성북동",
         "full_nm": "서울특별시 성북구 성북동",
-        "emd_cd": 11290101
+        "emd_cd": 11290101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117209,7 +117209,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 7(chil)-ga",
         "emd_kor_nm": "영등포동7가",
         "full_nm": "서울특별시 영등포구 영등포동7가",
-        "emd_cd": 11560108
+        "emd_cd": 11560108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118063,7 +118063,7 @@
         "emd_eng_nm": "Insa-dong",
         "emd_kor_nm": "인사동",
         "full_nm": "서울특별시 종로구 인사동",
-        "emd_cd": 11110136
+        "emd_cd": 11110136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118905,7 +118905,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 8(pal)-ga",
         "emd_kor_nm": "영등포동8가",
         "full_nm": "서울특별시 영등포구 영등포동8가",
-        "emd_cd": 11560109
+        "emd_cd": 11560109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119603,7 +119603,7 @@
         "emd_eng_nm": "Nagwon-dong",
         "emd_kor_nm": "낙원동",
         "full_nm": "서울특별시 종로구 낙원동",
-        "emd_cd": 11110137
+        "emd_cd": 11110137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120745,7 +120745,7 @@
         "emd_eng_nm": "Cheonwang-dong",
         "emd_kor_nm": "천왕동",
         "full_nm": "서울특별시 구로구 천왕동",
-        "emd_cd": 11530111
+        "emd_cd": 11530111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122355,7 +122355,7 @@
         "emd_eng_nm": "Onsu-dong",
         "emd_kor_nm": "온수동",
         "full_nm": "서울특별시 구로구 온수동",
-        "emd_cd": 11530110
+        "emd_cd": 11530110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -123517,7 +123517,7 @@
         "emd_eng_nm": "Hongik-dong",
         "emd_kor_nm": "홍익동",
         "full_nm": "서울특별시 성동구 홍익동",
-        "emd_cd": 11200103
+        "emd_cd": 11200103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -124651,7 +124651,7 @@
         "emd_eng_nm": "Hawangsimni-dong",
         "emd_kor_nm": "하왕십리동",
         "full_nm": "서울특별시 성동구 하왕십리동",
-        "emd_cd": 11200102
+        "emd_cd": 11200102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -127485,7 +127485,7 @@
         "emd_eng_nm": "Samjeon-dong",
         "emd_kor_nm": "삼전동",
         "full_nm": "서울특별시 송파구 삼전동",
-        "emd_cd": 11710106
+        "emd_cd": 11710106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128271,7 +128271,7 @@
         "emd_eng_nm": "Garak-dong",
         "emd_kor_nm": "가락동",
         "full_nm": "서울특별시 송파구 가락동",
-        "emd_cd": 11710107
+        "emd_cd": 11710107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129753,7 +129753,7 @@
         "emd_eng_nm": "Neung-dong",
         "emd_kor_nm": "능동",
         "full_nm": "서울특별시 광진구 능동",
-        "emd_cd": 11215102
+        "emd_cd": 11215102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131467,7 +131467,7 @@
         "emd_eng_nm": "Guui-dong",
         "emd_kor_nm": "구의동",
         "full_nm": "서울특별시 광진구 구의동",
-        "emd_cd": 11215103
+        "emd_cd": 11215103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134365,7 +134365,7 @@
         "emd_eng_nm": "Jangan-dong",
         "emd_kor_nm": "장안동",
         "full_nm": "서울특별시 동대문구 장안동",
-        "emd_cd": 11230106
+        "emd_cd": 11230106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136535,7 +136535,7 @@
         "emd_eng_nm": "Cheongnyangni-dong",
         "emd_kor_nm": "청량리동",
         "full_nm": "서울특별시 동대문구 청량리동",
-        "emd_cd": 11230107
+        "emd_cd": 11230107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -139609,7 +139609,7 @@
         "emd_eng_nm": "Dobong-dong",
         "emd_kor_nm": "도봉동",
         "full_nm": "서울특별시 도봉구 도봉동",
-        "emd_cd": 11320108
+        "emd_cd": 11320108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141275,7 +141275,7 @@
         "emd_eng_nm": "Singyo-dong",
         "emd_kor_nm": "신교동",
         "full_nm": "서울특별시 종로구 신교동",
-        "emd_cd": 11110102
+        "emd_cd": 11110102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142129,7 +142129,7 @@
         "emd_eng_nm": "Gongdeok-dong",
         "emd_kor_nm": "공덕동",
         "full_nm": "서울특별시 마포구 공덕동",
-        "emd_cd": 11440102
+        "emd_cd": 11440102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -144023,7 +144023,7 @@
         "emd_eng_nm": "Singongdeok-dong",
         "emd_kor_nm": "신공덕동",
         "full_nm": "서울특별시 마포구 신공덕동",
-        "emd_cd": 11440103
+        "emd_cd": 11440103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145153,7 +145153,7 @@
         "emd_eng_nm": "Gungjeong-dong",
         "emd_kor_nm": "궁정동",
         "full_nm": "서울특별시 종로구 궁정동",
-        "emd_cd": 11110103
+        "emd_cd": 11110103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145951,7 +145951,7 @@
         "emd_eng_nm": "Gireum-dong",
         "emd_kor_nm": "길음동",
         "full_nm": "서울특별시 성북구 길음동",
-        "emd_cd": 11290134
+        "emd_cd": 11290134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148625,7 +148625,7 @@
         "emd_eng_nm": "Jongam-dong",
         "emd_kor_nm": "종암동",
         "full_nm": "서울특별시 성북구 종암동",
-        "emd_cd": 11290135
+        "emd_cd": 11290135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -150235,7 +150235,7 @@
         "emd_eng_nm": "Yeomgok-dong",
         "emd_kor_nm": "염곡동",
         "full_nm": "서울특별시 서초구 염곡동",
-        "emd_cd": 11650110
+        "emd_cd": 11650110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151113,7 +151113,7 @@
         "emd_eng_nm": "Sinwon-dong",
         "emd_kor_nm": "신원동",
         "full_nm": "서울특별시 서초구 신원동",
-        "emd_cd": 11650111
+        "emd_cd": 11650111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -153795,7 +153795,7 @@
         "emd_eng_nm": "Jugyo-dong",
         "emd_kor_nm": "주교동",
         "full_nm": "서울특별시 중구 주교동",
-        "emd_cd": 11140152
+        "emd_cd": 11140152000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -154397,7 +154397,7 @@
         "emd_eng_nm": "Bangsan-dong",
         "emd_kor_nm": "방산동",
         "full_nm": "서울특별시 중구 방산동",
-        "emd_cd": 11140153
+        "emd_cd": 11140153000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155319,7 +155319,7 @@
         "emd_eng_nm": "Sungin-dong",
         "emd_kor_nm": "숭인동",
         "full_nm": "서울특별시 종로구 숭인동",
-        "emd_cd": 11110175
+        "emd_cd": 11110175000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157481,7 +157481,7 @@
         "emd_eng_nm": "Changsin-dong",
         "emd_kor_nm": "창신동",
         "full_nm": "서울특별시 종로구 창신동",
-        "emd_cd": 11110174
+        "emd_cd": 11110174000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -159575,7 +159575,7 @@
         "emd_eng_nm": "Sinchang-dong",
         "emd_kor_nm": "신창동",
         "full_nm": "서울특별시 용산구 신창동",
-        "emd_cd": 11170114
+        "emd_cd": 11170114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160457,7 +160457,7 @@
         "emd_eng_nm": "Geumho-dong1(il)-ga",
         "emd_kor_nm": "금호동1가",
         "full_nm": "서울특별시 성동구 금호동1가",
-        "emd_cd": 11200109
+        "emd_cd": 11200109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -161907,7 +161907,7 @@
         "emd_eng_nm": "Eungbong-dong",
         "emd_kor_nm": "응봉동",
         "full_nm": "서울특별시 성동구 응봉동",
-        "emd_cd": 11200108
+        "emd_cd": 11200108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162989,7 +162989,7 @@
         "emd_eng_nm": "Sancheon-dong",
         "emd_kor_nm": "산천동",
         "full_nm": "서울특별시 용산구 산천동",
-        "emd_cd": 11170115
+        "emd_cd": 11170115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164223,7 +164223,7 @@
         "emd_eng_nm": "Chungmuro 2(i)-ga",
         "emd_kor_nm": "충무로2가",
         "full_nm": "서울특별시 중구 충무로2가",
-        "emd_cd": 11140125
+        "emd_cd": 11140125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -165409,7 +165409,7 @@
         "emd_eng_nm": "Chungmuro 1(il)-ga",
         "emd_kor_nm": "충무로1가",
         "full_nm": "서울특별시 중구 충무로1가",
-        "emd_cd": 11140124
+        "emd_cd": 11140124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166479,7 +166479,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 1(il)-ga",
         "emd_kor_nm": "영등포동1가",
         "full_nm": "서울특별시 영등포구 영등포동1가",
-        "emd_cd": 11560102
+        "emd_cd": 11560102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167221,7 +167221,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 2(i)-ga",
         "emd_kor_nm": "영등포동2가",
         "full_nm": "서울특별시 영등포구 영등포동2가",
-        "emd_cd": 11560103
+        "emd_cd": 11560103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -168231,7 +168231,7 @@
         "emd_eng_nm": "Gusan-dong",
         "emd_kor_nm": "구산동",
         "full_nm": "서울특별시 은평구 구산동",
-        "emd_cd": 11380105
+        "emd_cd": 11380105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -169081,7 +169081,7 @@
         "emd_eng_nm": "Galhyeon-dong",
         "emd_kor_nm": "갈현동",
         "full_nm": "서울특별시 은평구 갈현동",
-        "emd_cd": 11380104
+        "emd_cd": 11380104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -170035,7 +170035,7 @@
         "emd_eng_nm": "Yanghwa-dong",
         "emd_kor_nm": "양화동",
         "full_nm": "서울특별시 영등포구 양화동",
-        "emd_cd": 11560131
+        "emd_cd": 11560131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173113,7 +173113,7 @@
         "emd_eng_nm": "Yangpyeong-dong 6(yuk)-ga",
         "emd_kor_nm": "양평동6가",
         "full_nm": "서울특별시 영등포구 양평동6가",
-        "emd_cd": 11560130
+        "emd_cd": 11560130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174559,7 +174559,7 @@
         "emd_eng_nm": "Seokgwan-dong",
         "emd_kor_nm": "석관동",
         "full_nm": "서울특별시 성북구 석관동",
-        "emd_cd": 11290139
+        "emd_cd": 11290139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176841,7 +176841,7 @@
         "emd_eng_nm": "Jangwi-dong",
         "emd_kor_nm": "장위동",
         "full_nm": "서울특별시 성북구 장위동",
-        "emd_cd": 11290138
+        "emd_cd": 11290138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179747,7 +179747,7 @@
         "emd_eng_nm": "Hagye-dong",
         "emd_kor_nm": "하계동",
         "full_nm": "서울특별시 노원구 하계동",
-        "emd_cd": 11350104
+        "emd_cd": 11350104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180969,7 +180969,7 @@
         "emd_eng_nm": "Sanggye-dong",
         "emd_kor_nm": "상계동",
         "full_nm": "서울특별시 노원구 상계동",
-        "emd_cd": 11350105
+        "emd_cd": 11350105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183387,7 +183387,7 @@
         "emd_eng_nm": "Mia-dong",
         "emd_kor_nm": "미아동",
         "full_nm": "서울특별시 강북구 미아동",
-        "emd_cd": 11305101
+        "emd_cd": 11305101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186629,7 +186629,7 @@
         "emd_eng_nm": "Gahoe-dong",
         "emd_kor_nm": "가회동",
         "full_nm": "서울특별시 종로구 가회동",
-        "emd_cd": 11110146
+        "emd_cd": 11110146000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188243,7 +188243,7 @@
         "emd_eng_nm": "Jae-dong",
         "emd_kor_nm": "재동",
         "full_nm": "서울특별시 종로구 재동",
-        "emd_cd": 11110147
+        "emd_cd": 11110147000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189105,7 +189105,7 @@
         "emd_eng_nm": "Yongsan-dong 5(o)-ga",
         "emd_kor_nm": "용산동5가",
         "full_nm": "서울특별시 용산구 용산동5가",
-        "emd_cd": 11170127
+        "emd_cd": 11170127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -190371,7 +190371,7 @@
         "emd_eng_nm": "Ssangmun-dong",
         "emd_kor_nm": "쌍문동",
         "full_nm": "서울특별시 도봉구 쌍문동",
-        "emd_cd": 11320105
+        "emd_cd": 11320105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -192933,7 +192933,7 @@
         "emd_eng_nm": "Yongsan-dong 3(sam)-ga",
         "emd_kor_nm": "용산동3가",
         "full_nm": "서울특별시 용산구 용산동3가",
-        "emd_cd": 11170126
+        "emd_cd": 11170126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194059,7 +194059,7 @@
         "emd_eng_nm": "Changcheon-dong",
         "emd_kor_nm": "창천동",
         "full_nm": "서울특별시 서대문구 창천동",
-        "emd_cd": 11410116
+        "emd_cd": 11410116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195077,7 +195077,7 @@
         "emd_eng_nm": "Namdaemunno 3(sam)-ga",
         "emd_kor_nm": "남대문로3가",
         "full_nm": "서울특별시 중구 남대문로3가",
-        "emd_cd": 11140116
+        "emd_cd": 11140116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195979,7 +195979,7 @@
         "emd_eng_nm": "Namdaemunno 4(sa)-ga",
         "emd_kor_nm": "남대문로4가",
         "full_nm": "서울특별시 중구 남대문로4가",
-        "emd_cd": 11140117
+        "emd_cd": 11140117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196525,7 +196525,7 @@
         "emd_eng_nm": "Yeonhui-dong",
         "emd_kor_nm": "연희동",
         "full_nm": "서울특별시 서대문구 연희동",
-        "emd_cd": 11410117
+        "emd_cd": 11410117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -198235,7 +198235,7 @@
         "emd_eng_nm": "Sinjeong-dong",
         "emd_kor_nm": "신정동",
         "full_nm": "서울특별시 양천구 신정동",
-        "emd_cd": 11470101
+        "emd_cd": 11470101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201777,7 +201777,7 @@
         "emd_eng_nm": "Yeokchon-dong",
         "emd_kor_nm": "역촌동",
         "full_nm": "서울특별시 은평구 역촌동",
-        "emd_cd": 11380108
+        "emd_cd": 11380108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202871,7 +202871,7 @@
         "emd_eng_nm": "Sinsa-dong",
         "emd_kor_nm": "신사동",
         "full_nm": "서울특별시 은평구 신사동",
-        "emd_cd": 11380109
+        "emd_cd": 11380109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203585,7 +203585,7 @@
         "emd_eng_nm": "Dongsomun-dong 4(sa)-ga",
         "emd_kor_nm": "동소문동4가",
         "full_nm": "서울특별시 성북구 동소문동4가",
-        "emd_cd": 11290107
+        "emd_cd": 11290107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204283,7 +204283,7 @@
         "emd_eng_nm": "Dongsomun-dong 3(sam)-ga",
         "emd_kor_nm": "동소문동3가",
         "full_nm": "서울특별시 성북구 동소문동3가",
-        "emd_cd": 11290106
+        "emd_cd": 11290106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204589,7 +204589,7 @@
         "emd_eng_nm": "Gwonnong-dong",
         "emd_kor_nm": "권농동",
         "full_nm": "서울특별시 종로구 권농동",
-        "emd_cd": 11110131
+        "emd_cd": 11110131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205547,7 +205547,7 @@
         "emd_eng_nm": "Waryong-dong",
         "emd_kor_nm": "와룡동",
         "full_nm": "서울특별시 종로구 와룡동",
-        "emd_cd": 11110130
+        "emd_cd": 11110130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -207657,7 +207657,7 @@
         "emd_eng_nm": "Jeo-dong 2(i)-ga",
         "emd_kor_nm": "저동2가",
         "full_nm": "서울특별시 중구 저동2가",
-        "emd_cd": 11140161
+        "emd_cd": 11140161000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208451,7 +208451,7 @@
         "emd_eng_nm": "Inhyeon-dong 1(il)-ga",
         "emd_kor_nm": "인현동1가",
         "full_nm": "서울특별시 중구 인현동1가",
-        "emd_cd": 11140160
+        "emd_cd": 11140160000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -209601,7 +209601,7 @@
         "emd_eng_nm": "Songwol-dong",
         "emd_kor_nm": "송월동",
         "full_nm": "서울특별시 종로구 송월동",
-        "emd_cd": 11110178
+        "emd_cd": 11110178000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -210395,7 +210395,7 @@
         "emd_eng_nm": "Hongpa-dong",
         "emd_kor_nm": "홍파동",
         "full_nm": "서울특별시 종로구 홍파동",
-        "emd_cd": 11110179
+        "emd_cd": 11110179000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -211413,7 +211413,7 @@
         "emd_eng_nm": "Namsan-dong 1(il)-ga",
         "emd_kor_nm": "남산동1가",
         "full_nm": "서울특별시 중구 남산동1가",
-        "emd_cd": 11140128
+        "emd_cd": 11140128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -211931,7 +211931,7 @@
         "emd_eng_nm": "Namsan-dong 2(i)-ga",
         "emd_kor_nm": "남산동2가",
         "full_nm": "서울특별시 중구 남산동2가",
-        "emd_cd": 11140129
+        "emd_cd": 11140129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213113,7 +213113,7 @@
         "emd_eng_nm": "Segok-dong",
         "emd_kor_nm": "세곡동",
         "full_nm": "서울특별시 강남구 세곡동",
-        "emd_cd": 11680111
+        "emd_cd": 11680111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215139,7 +215139,7 @@
         "emd_eng_nm": "Apgujeong-dong",
         "emd_kor_nm": "압구정동",
         "full_nm": "서울특별시 강남구 압구정동",
-        "emd_cd": 11680110
+        "emd_cd": 11680110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215957,7 +215957,7 @@
         "emd_eng_nm": "Doseon-dong",
         "emd_kor_nm": "도선동",
         "full_nm": "서울특별시 성동구 도선동",
-        "emd_cd": 11200104
+        "emd_cd": 11200104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -216299,7 +216299,7 @@
         "emd_eng_nm": "Hyochang-dong",
         "emd_kor_nm": "효창동",
         "full_nm": "서울특별시 용산구 효창동",
-        "emd_cd": 11170119
+        "emd_cd": 11170119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -218377,7 +218377,7 @@
         "emd_eng_nm": "Wonhyoro 4(sa)-ga",
         "emd_kor_nm": "원효로4가",
         "full_nm": "서울특별시 용산구 원효로4가",
-        "emd_cd": 11170118
+        "emd_cd": 11170118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220019,7 +220019,7 @@
         "emd_eng_nm": "Majang-dong",
         "emd_kor_nm": "마장동",
         "full_nm": "서울특별시 성동구 마장동",
-        "emd_cd": 11200105
+        "emd_cd": 11200105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221613,7 +221613,7 @@
         "emd_eng_nm": "Sinseol-dong",
         "emd_kor_nm": "신설동",
         "full_nm": "서울특별시 동대문구 신설동",
-        "emd_cd": 11230101
+        "emd_cd": 11230101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222567,7 +222567,7 @@
         "emd_eng_nm": "Osoe-dong",
         "emd_kor_nm": "오쇠동",
         "full_nm": "서울특별시 강서구 오쇠동",
-        "emd_cd": 11500113
+        "emd_cd": 11500113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224653,7 +224653,7 @@
         "emd_eng_nm": "Ogok-dong",
         "emd_kor_nm": "오곡동",
         "full_nm": "서울특별시 강서구 오곡동",
-        "emd_cd": 11500112
+        "emd_cd": 11500112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228807,7 +228807,7 @@
         "emd_eng_nm": "Jamsil-dong",
         "emd_kor_nm": "잠실동",
         "full_nm": "서울특별시 송파구 잠실동",
-        "emd_cd": 11710101
+        "emd_cd": 11710101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229913,7 +229913,7 @@
         "emd_eng_nm": "Jayang-dong",
         "emd_kor_nm": "자양동",
         "full_nm": "서울특별시 광진구 자양동",
-        "emd_cd": 11215105
+        "emd_cd": 11215105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231623,7 +231623,7 @@
         "emd_eng_nm": "Gwangjang-dong",
         "emd_kor_nm": "광장동",
         "full_nm": "서울특별시 광진구 광장동",
-        "emd_cd": 11215104
+        "emd_cd": 11215104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -233077,7 +233077,7 @@
         "emd_eng_nm": "Euljiro 3(sam)-ga",
         "emd_kor_nm": "을지로3가",
         "full_nm": "서울특별시 중구 을지로3가",
-        "emd_cd": 11140155
+        "emd_cd": 11140155000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -234431,7 +234431,7 @@
         "emd_eng_nm": "Ojang-dong",
         "emd_kor_nm": "오장동",
         "full_nm": "서울특별시 중구 오장동",
-        "emd_cd": 11140154
+        "emd_cd": 11140154000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235213,7 +235213,7 @@
         "emd_eng_nm": "Yonggang-dong",
         "emd_kor_nm": "용강동",
         "full_nm": "서울특별시 마포구 용강동",
-        "emd_cd": 11440105
+        "emd_cd": 11440105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235791,7 +235791,7 @@
         "emd_eng_nm": "Changseong-dong",
         "emd_kor_nm": "창성동",
         "full_nm": "서울특별시 종로구 창성동",
-        "emd_cd": 11110105
+        "emd_cd": 11110105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -236353,7 +236353,7 @@
         "emd_eng_nm": "Hyoja-dong",
         "emd_kor_nm": "효자동",
         "full_nm": "서울특별시 종로구 효자동",
-        "emd_cd": 11110104
+        "emd_cd": 11110104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -236991,7 +236991,7 @@
         "emd_eng_nm": "Dohwa-dong",
         "emd_kor_nm": "도화동",
         "full_nm": "서울특별시 마포구 도화동",
-        "emd_cd": 11440104
+        "emd_cd": 11440104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -238589,7 +238589,7 @@
         "emd_eng_nm": "Jeongneung-dong",
         "emd_kor_nm": "정릉동",
         "full_nm": "서울특별시 성북구 정릉동",
-        "emd_cd": 11290133
+        "emd_cd": 11290133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243711,7 +243711,7 @@
         "emd_eng_nm": "Bomun-dong 3(sam)-ga",
         "emd_kor_nm": "보문동3가",
         "full_nm": "서울특별시 성북구 보문동3가",
-        "emd_cd": 11290132
+        "emd_cd": 11290132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -244413,7 +244413,7 @@
         "emd_eng_nm": "Wonhyoro 2(i)-ga",
         "emd_kor_nm": "원효로2가",
         "full_nm": "서울특별시 용산구 원효로2가",
-        "emd_cd": 11170113
+        "emd_cd": 11170113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -245403,7 +245403,7 @@
         "emd_eng_nm": "Wonhyoro 1(iI)-ga",
         "emd_kor_nm": "원효로1가",
         "full_nm": "서울특별시 용산구 원효로1가",
-        "emd_cd": 11170112
+        "emd_cd": 11170112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -246505,7 +246505,7 @@
         "emd_eng_nm": "Hoehyeon-dong 2(i)-ga",
         "emd_kor_nm": "회현동2가",
         "full_nm": "서울특별시 중구 회현동2가",
-        "emd_cd": 11140122
+        "emd_cd": 11140122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247319,7 +247319,7 @@
         "emd_eng_nm": "Hoehyeon-dong 3(sam)-ga",
         "emd_kor_nm": "회현동3가",
         "full_nm": "서울특별시 중구 회현동3가",
-        "emd_cd": 11140123
+        "emd_cd": 11140123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247737,7 +247737,7 @@
         "emd_eng_nm": "Myeongnyun 4(sa)-ga",
         "emd_kor_nm": "명륜4가",
         "full_nm": "서울특별시 종로구 명륜4가",
-        "emd_cd": 11110172
+        "emd_cd": 11110172000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -248403,7 +248403,7 @@
         "emd_eng_nm": "Myeongnyun 3(sam)-ga",
         "emd_kor_nm": "명륜3가",
         "full_nm": "서울특별시 종로구 명륜3가",
-        "emd_cd": 11110173
+        "emd_cd": 11110173000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -250077,7 +250077,7 @@
         "emd_eng_nm": "Gasan-dong",
         "emd_kor_nm": "가산동",
         "full_nm": "서울특별시 금천구 가산동",
-        "emd_cd": 11545101
+        "emd_cd": 11545101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -252471,7 +252471,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 4(sa)-ga",
         "emd_kor_nm": "영등포동4가",
         "full_nm": "서울특별시 영등포구 영등포동4가",
-        "emd_cd": 11560105
+        "emd_cd": 11560105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253297,7 +253297,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 3(sam)-ga",
         "emd_kor_nm": "영등포동3가",
         "full_nm": "서울특별시 영등포구 영등포동3가",
-        "emd_cd": 11560104
+        "emd_cd": 11560104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253875,7 +253875,7 @@
         "emd_eng_nm": "Nokbeon-dong",
         "emd_kor_nm": "녹번동",
         "full_nm": "서울특별시 은평구 녹번동",
-        "emd_cd": 11380102
+        "emd_cd": 11380102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -254853,7 +254853,7 @@
         "emd_eng_nm": "Bulgwang-dong",
         "emd_kor_nm": "불광동",
         "full_nm": "서울특별시 은평구 불광동",
-        "emd_cd": 11380103
+        "emd_cd": 11380103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -256071,7 +256071,7 @@
         "emd_eng_nm": "Itaewon-dong",
         "emd_kor_nm": "이태원동",
         "full_nm": "서울특별시 용산구 이태원동",
-        "emd_cd": 11170130
+        "emd_cd": 11170130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -258189,7 +258189,7 @@
         "emd_eng_nm": "Hannam-dong",
         "emd_kor_nm": "한남동",
         "full_nm": "서울특별시 용산구 한남동",
-        "emd_cd": 11170131
+        "emd_cd": 11170131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260587,7 +260587,7 @@
         "emd_eng_nm": "Chungjeongno 2(i)-ga",
         "emd_kor_nm": "충정로2가",
         "full_nm": "서울특별시 서대문구 충정로2가",
-        "emd_cd": 11410101
+        "emd_cd": 11410101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262165,7 +262165,7 @@
         "emd_eng_nm": "Mugyo-dong",
         "emd_kor_nm": "무교동",
         "full_nm": "서울특별시 중구 무교동",
-        "emd_cd": 11140101
+        "emd_cd": 11140101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262607,7 +262607,7 @@
         "emd_eng_nm": "Myo-dong",
         "emd_kor_nm": "묘동",
         "full_nm": "서울특별시 종로구 묘동",
-        "emd_cd": 11110151
+        "emd_cd": 11110151000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -263025,7 +263025,7 @@
         "emd_eng_nm": "Hunjeong-dong",
         "emd_kor_nm": "훈정동",
         "full_nm": "서울특별시 종로구 훈정동",
-        "emd_cd": 11110150
+        "emd_cd": 11110150000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264295,7 +264295,7 @@
         "emd_eng_nm": "Gil-dong",
         "emd_kor_nm": "길동",
         "full_nm": "서울특별시 강동구 길동",
-        "emd_cd": 11740105
+        "emd_cd": 11740105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265441,7 +265441,7 @@
         "emd_eng_nm": "Euljiro 6(yuk)-ga",
         "emd_kor_nm": "을지로6가",
         "full_nm": "서울특별시 중구 을지로6가",
-        "emd_cd": 11140148
+        "emd_cd": 11140148000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -266499,7 +266499,7 @@
         "emd_eng_nm": "Euljiro 7(chil)-ga",
         "emd_kor_nm": "을지로7가",
         "full_nm": "서울특별시 중구 을지로7가",
-        "emd_cd": 11140149
+        "emd_cd": 11140149000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267117,7 +267117,7 @@
         "emd_eng_nm": "Yangpyeong-dong 2(i)-ga",
         "emd_kor_nm": "양평동2가",
         "full_nm": "서울특별시 영등포구 양평동2가",
-        "emd_cd": 11560126
+        "emd_cd": 11560126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267927,7 +267927,7 @@
         "emd_eng_nm": "Dangin-dong",
         "emd_kor_nm": "당인동",
         "full_nm": "서울특별시 마포구 당인동",
-        "emd_cd": 11440118
+        "emd_cd": 11440118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -268933,7 +268933,7 @@
         "emd_eng_nm": "Mangu-dong",
         "emd_kor_nm": "망우동",
         "full_nm": "서울특별시 중랑구 망우동",
-        "emd_cd": 11260105
+        "emd_cd": 11260105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270759,7 +270759,7 @@
         "emd_eng_nm": "Naesu-dong",
         "emd_kor_nm": "내수동",
         "full_nm": "서울특별시 종로구 내수동",
-        "emd_cd": 11110118
+        "emd_cd": 11110118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -271305,7 +271305,7 @@
         "emd_eng_nm": "Yangpyeong-dong 3(sam)-ga",
         "emd_kor_nm": "양평동3가",
         "full_nm": "서울특별시 영등포구 양평동3가",
-        "emd_cd": 11560127
+        "emd_cd": 11560127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -273331,7 +273331,7 @@
         "emd_eng_nm": "Sejongno",
         "emd_kor_nm": "세종로",
         "full_nm": "서울특별시 종로구 세종로",
-        "emd_cd": 11110119
+        "emd_cd": 11110119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -276205,7 +276205,7 @@
         "emd_eng_nm": "Muk-dong",
         "emd_kor_nm": "묵동",
         "full_nm": "서울특별시 중랑구 묵동",
-        "emd_cd": 11260104
+        "emd_cd": 11260104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -277927,7 +277927,7 @@
         "emd_eng_nm": "Sindorim-dong",
         "emd_kor_nm": "신도림동",
         "full_nm": "서울특별시 구로구 신도림동",
-        "emd_cd": 11530101
+        "emd_cd": 11530101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -280033,7 +280033,7 @@
         "emd_eng_nm": "Oksu-dong",
         "emd_kor_nm": "옥수동",
         "full_nm": "서울특별시 성동구 옥수동",
-        "emd_cd": 11200113
+        "emd_cd": 11200113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -281615,7 +281615,7 @@
         "emd_eng_nm": "Geumho-dong4(sa)-ga",
         "emd_kor_nm": "금호동4가",
         "full_nm": "서울특별시 성동구 금호동4가",
-        "emd_cd": 11200112
+        "emd_cd": 11200112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -282813,7 +282813,7 @@
         "emd_eng_nm": "Daechi-dong",
         "emd_kor_nm": "대치동",
         "full_nm": "서울특별시 강남구 대치동",
-        "emd_cd": 11680106
+        "emd_cd": 11680106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -283635,7 +283635,7 @@
         "emd_eng_nm": "Sinsa-dong",
         "emd_kor_nm": "신사동",
         "full_nm": "서울특별시 강남구 신사동",
-        "emd_cd": 11680107
+        "emd_cd": 11680107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284541,7 +284541,7 @@
         "emd_eng_nm": "Dorim-dong",
         "emd_kor_nm": "도림동",
         "full_nm": "서울특별시 영등포구 도림동",
-        "emd_cd": 11560118
+        "emd_cd": 11560118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -286807,7 +286807,7 @@
         "emd_eng_nm": "Jung-dong",
         "emd_kor_nm": "중동",
         "full_nm": "서울특별시 마포구 중동",
-        "emd_cd": 11440126
+        "emd_cd": 11440126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -287693,7 +287693,7 @@
         "emd_eng_nm": "Jongno 1(il)-ga",
         "emd_kor_nm": "종로1가",
         "full_nm": "서울특별시 종로구 종로1가",
-        "emd_cd": 11110126
+        "emd_cd": 11110126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -288199,7 +288199,7 @@
         "emd_eng_nm": "Mullae-dong 1(il)-ga",
         "emd_kor_nm": "문래동1가",
         "full_nm": "서울특별시 영등포구 문래동1가",
-        "emd_cd": 11560119
+        "emd_cd": 11560119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -289393,7 +289393,7 @@
         "emd_eng_nm": "Gongpyeong-dong",
         "emd_kor_nm": "공평동",
         "full_nm": "서울특별시 종로구 공평동",
-        "emd_cd": 11110127
+        "emd_cd": 11110127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -289843,7 +289843,7 @@
         "emd_eng_nm": "Sangam-dong",
         "emd_kor_nm": "상암동",
         "full_nm": "서울특별시 마포구 상암동",
-        "emd_cd": 11440127
+        "emd_cd": 11440127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -291625,7 +291625,7 @@
         "emd_eng_nm": "Dongsomun-dong 7(chil)-ga",
         "emd_kor_nm": "동소문동7가",
         "full_nm": "서울특별시 성북구 동소문동7가",
-        "emd_cd": 11290110
+        "emd_cd": 11290110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -292303,7 +292303,7 @@
         "emd_eng_nm": "Samseon-dong 1(il)-ga",
         "emd_kor_nm": "삼선동1가",
         "full_nm": "서울특별시 성북구 삼선동1가",
-        "emd_cd": 11290111
+        "emd_cd": 11290111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -293213,7 +293213,7 @@
         "emd_eng_nm": "Bongcheon-dong",
         "emd_kor_nm": "봉천동",
         "full_nm": "서울특별시 관악구 봉천동",
-        "emd_cd": 11620101
+        "emd_cd": 11620101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296483,7 +296483,7 @@
         "emd_eng_nm": "Sadang-dong",
         "emd_kor_nm": "사당동",
         "full_nm": "서울특별시 동작구 사당동",
-        "emd_cd": 11590107
+        "emd_cd": 11590107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -298121,7 +298121,7 @@
         "emd_eng_nm": "Anam-dong 4(sa)-ga",
         "emd_kor_nm": "안암동4가",
         "full_nm": "서울특별시 성북구 안암동4가",
-        "emd_cd": 11290124
+        "emd_cd": 11290124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -298363,7 +298363,7 @@
         "emd_eng_nm": "Dongjak-dong",
         "emd_kor_nm": "동작동",
         "full_nm": "서울특별시 동작구 동작동",
-        "emd_cd": 11590106
+        "emd_cd": 11590106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299953,7 +299953,7 @@
         "emd_eng_nm": "Anam-dong 5(o)-ga",
         "emd_kor_nm": "안암동5가",
         "full_nm": "서울특별시 성북구 안암동5가",
-        "emd_cd": 11290125
+        "emd_cd": 11290125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -301631,7 +301631,7 @@
         "emd_eng_nm": "Hyeonseok-dong",
         "emd_kor_nm": "현석동",
         "full_nm": "서울특별시 마포구 현석동",
-        "emd_cd": 11440112
+        "emd_cd": 11440112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -302289,7 +302289,7 @@
         "emd_eng_nm": "Chebu-dong",
         "emd_kor_nm": "체부동",
         "full_nm": "서울특별시 종로구 체부동",
-        "emd_cd": 11110112
+        "emd_cd": 11110112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -303167,7 +303167,7 @@
         "emd_eng_nm": "Pirun-dong",
         "emd_kor_nm": "필운동",
         "full_nm": "서울특별시 종로구 필운동",
-        "emd_cd": 11110113
+        "emd_cd": 11110113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -304249,7 +304249,7 @@
         "emd_eng_nm": "Gusu-dong",
         "emd_kor_nm": "구수동",
         "full_nm": "서울특별시 마포구 구수동",
-        "emd_cd": 11440113
+        "emd_cd": 11440113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -305019,7 +305019,7 @@
         "emd_eng_nm": "Bangbae-dong",
         "emd_kor_nm": "방배동",
         "full_nm": "서울특별시 서초구 방배동",
-        "emd_cd": 11650101
+        "emd_cd": 11650101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -307509,7 +307509,7 @@
         "emd_eng_nm": "Gyobuk-dong",
         "emd_kor_nm": "교북동",
         "full_nm": "서울특별시 종로구 교북동",
-        "emd_cd": 11110180
+        "emd_cd": 11110180000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -308159,7 +308159,7 @@
         "emd_eng_nm": "Haengchon-dong",
         "emd_kor_nm": "행촌동",
         "full_nm": "서울특별시 종로구 행촌동",
-        "emd_cd": 11110181
+        "emd_cd": 11110181000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -309509,7 +309509,7 @@
         "emd_eng_nm": "Yejang-dong",
         "emd_kor_nm": "예장동",
         "full_nm": "서울특별시 중구 예장동",
-        "emd_cd": 11140142
+        "emd_cd": 11140142000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -311547,7 +311547,7 @@
         "emd_eng_nm": "Jangchung-dong 1(il)-ga",
         "emd_kor_nm": "장충동1가",
         "full_nm": "서울특별시 중구 장충동1가",
-        "emd_cd": 11140143
+        "emd_cd": 11140143000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -312753,7 +312753,7 @@
         "emd_eng_nm": "Gayang-dong",
         "emd_kor_nm": "가양동",
         "full_nm": "서울특별시 강서구 가양동",
-        "emd_cd": 11500104
+        "emd_cd": 11500104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -313719,7 +313719,7 @@
         "emd_eng_nm": "Magok-dong",
         "emd_kor_nm": "마곡동",
         "full_nm": "서울특별시 강서구 마곡동",
-        "emd_cd": 11500105
+        "emd_cd": 11500105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -315301,7 +315301,7 @@
         "emd_eng_nm": "Dangsan-dong 2(i)-ga",
         "emd_kor_nm": "당산동2가",
         "full_nm": "서울특별시 영등포구 당산동2가",
-        "emd_cd": 11560112
+        "emd_cd": 11560112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -315707,7 +315707,7 @@
         "emd_eng_nm": "Dangsan-dong 3(sam)-ga",
         "emd_kor_nm": "당산동3가",
         "full_nm": "서울특별시 영등포구 당산동3가",
-        "emd_cd": 11560113
+        "emd_cd": 11560113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -316537,7 +316537,7 @@
         "emd_eng_nm": "Jingwan-dong",
         "emd_kor_nm": "진관동",
         "full_nm": "서울특별시 은평구 진관동",
-        "emd_cd": 11380114
+        "emd_cd": 11380114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -319211,7 +319211,7 @@
         "emd_eng_nm": "Ihwa-dong",
         "emd_kor_nm": "이화동",
         "full_nm": "서울특별시 종로구 이화동",
-        "emd_cd": 11110165
+        "emd_cd": 11110165000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -320285,7 +320285,7 @@
         "emd_eng_nm": "Jongno 6(yuk)-ga",
         "emd_kor_nm": "종로6가",
         "full_nm": "서울특별시 종로구 종로6가",
-        "emd_cd": 11110164
+        "emd_cd": 11110164000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -321443,7 +321443,7 @@
         "emd_eng_nm": "Garwol-dong",
         "emd_kor_nm": "갈월동",
         "full_nm": "서울특별시 용산구 갈월동",
-        "emd_cd": 11170104
+        "emd_cd": 11170104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -322913,7 +322913,7 @@
         "emd_eng_nm": "Namyeong-dong",
         "emd_kor_nm": "남영동",
         "full_nm": "서울특별시 용산구 남영동",
-        "emd_cd": 11170105
+        "emd_cd": 11170105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -323207,7 +323207,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "서울특별시 성동구 송정동",
-        "emd_cd": 11200118
+        "emd_cd": 11200118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -324029,7 +324029,7 @@
         "emd_eng_nm": "Yegwan-dong",
         "emd_kor_nm": "예관동",
         "full_nm": "서울특별시 중구 예관동",
-        "emd_cd": 11140135
+        "emd_cd": 11140135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -325155,7 +325155,7 @@
         "emd_eng_nm": "Inhyeon-dong 2(i)-ga",
         "emd_kor_nm": "인현동2가",
         "full_nm": "서울특별시 중구 인현동2가",
-        "emd_cd": 11140134
+        "emd_cd": 11140134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -326257,7 +326257,7 @@
         "emd_eng_nm": "Junggok-dong",
         "emd_kor_nm": "중곡동",
         "full_nm": "서울특별시 광진구 중곡동",
-        "emd_cd": 11215101
+        "emd_cd": 11215101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -327915,7 +327915,7 @@
         "emd_eng_nm": "Seokchon-dong",
         "emd_kor_nm": "석촌동",
         "full_nm": "서울특별시 송파구 석촌동",
-        "emd_cd": 11710105
+        "emd_cd": 11710105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -328273,7 +328273,7 @@
         "emd_eng_nm": "Gye-dong",
         "emd_kor_nm": "계동",
         "full_nm": "서울특별시 종로구 계동",
-        "emd_cd": 11110148
+        "emd_cd": 11110148000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -330095,7 +330095,7 @@
         "emd_eng_nm": "Songpa-dong",
         "emd_kor_nm": "송파동",
         "full_nm": "서울특별시 송파구 송파동",
-        "emd_cd": 11710104
+        "emd_cd": 11710104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -330389,7 +330389,7 @@
         "emd_eng_nm": "Wonseo-dong",
         "emd_kor_nm": "원서동",
         "full_nm": "서울특별시 종로구 원서동",
-        "emd_cd": 11110149
+        "emd_cd": 11110149000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -331755,7 +331755,7 @@
         "emd_eng_nm": "Ichon-dong",
         "emd_kor_nm": "이촌동",
         "full_nm": "서울특별시 용산구 이촌동",
-        "emd_cd": 11170129
+        "emd_cd": 11170129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -333949,7 +333949,7 @@
         "emd_eng_nm": "Hangangno 3(sam)-ga",
         "emd_kor_nm": "한강로3가",
         "full_nm": "서울특별시 용산구 한강로3가",
-        "emd_cd": 11170128
+        "emd_cd": 11170128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -336611,7 +336611,7 @@
         "emd_eng_nm": "Namdaemunno 5(o)-ga",
         "emd_kor_nm": "남대문로5가",
         "full_nm": "서울특별시 중구 남대문로5가",
-        "emd_cd": 11140118
+        "emd_cd": 11140118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -337817,7 +337817,7 @@
         "emd_eng_nm": "Dapsipni-dong",
         "emd_kor_nm": "답십리동",
         "full_nm": "서울특별시 동대문구 답십리동",
-        "emd_cd": 11230105
+        "emd_cd": 11230105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -340371,7 +340371,7 @@
         "emd_eng_nm": "Hongeun-dong",
         "emd_kor_nm": "홍은동",
         "full_nm": "서울특별시 서대문구 홍은동",
-        "emd_cd": 11410118
+        "emd_cd": 11410118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -342825,7 +342825,7 @@
         "emd_eng_nm": "Jeonnong-dong",
         "emd_kor_nm": "전농동",
         "full_nm": "서울특별시 동대문구 전농동",
-        "emd_cd": 11230104
+        "emd_cd": 11230104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -346611,7 +346611,7 @@
         "emd_eng_nm": "Bukgajwa-dong",
         "emd_kor_nm": "북가좌동",
         "full_nm": "서울특별시 서대문구 북가좌동",
-        "emd_cd": 11410119
+        "emd_cd": 11410119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -350637,7 +350637,7 @@
         "emd_eng_nm": "Bongnae-dong 1(il)-ga",
         "emd_kor_nm": "봉래동1가",
         "full_nm": "서울특별시 중구 봉래동1가",
-        "emd_cd": 11140119
+        "emd_cd": 11140119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -351475,7 +351475,7 @@
         "emd_eng_nm": "Cheongun-dong",
         "emd_kor_nm": "청운동",
         "full_nm": "서울특별시 종로구 청운동",
-        "emd_cd": 11110101
+        "emd_cd": 11110101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -353001,7 +353001,7 @@
         "emd_eng_nm": "Ahyeon-dong",
         "emd_kor_nm": "아현동",
         "full_nm": "서울특별시 마포구 아현동",
-        "emd_cd": 11440101
+        "emd_cd": 11440101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -354851,7 +354851,7 @@
         "emd_eng_nm": "Sangwolgok-dong",
         "emd_kor_nm": "상월곡동",
         "full_nm": "서울특별시 성북구 상월곡동",
-        "emd_cd": 11290137
+        "emd_cd": 11290137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -356893,7 +356893,7 @@
         "emd_eng_nm": "Hawolgok-dong",
         "emd_kor_nm": "하월곡동",
         "full_nm": "서울특별시 성북구 하월곡동",
-        "emd_cd": 11290136
+        "emd_cd": 11290136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -359371,7 +359371,7 @@
         "emd_eng_nm": "Euljiro 5(o)-ga",
         "emd_kor_nm": "을지로5가",
         "full_nm": "서울특별시 중구 을지로5가",
-        "emd_cd": 11140151
+        "emd_cd": 11140151000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -360389,7 +360389,7 @@
         "emd_eng_nm": "Euljiro 4(sa)-ga",
         "emd_kor_nm": "을지로4가",
         "full_nm": "서울특별시 중구 을지로4가",
-        "emd_cd": 11140150
+        "emd_cd": 11140150000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -361219,7 +361219,7 @@
         "emd_eng_nm": "Gyonam-dong",
         "emd_kor_nm": "교남동",
         "full_nm": "서울특별시 종로구 교남동",
-        "emd_cd": 11110176
+        "emd_cd": 11110176000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -361773,7 +361773,7 @@
         "emd_eng_nm": "Pyeong-dong",
         "emd_kor_nm": "평동",
         "full_nm": "서울특별시 종로구 평동",
-        "emd_cd": 11110177
+        "emd_cd": 11110177000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -362547,7 +362547,7 @@
         "emd_eng_nm": "Myeong-dong 1(il)-ga",
         "emd_kor_nm": "명동1가",
         "full_nm": "서울특별시 중구 명동1가",
-        "emd_cd": 11140126
+        "emd_cd": 11140126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -363133,7 +363133,7 @@
         "emd_eng_nm": "Myeong-dong 2(i)-ga",
         "emd_kor_nm": "명동2가",
         "full_nm": "서울특별시 중구 명동2가",
-        "emd_cd": 11140127
+        "emd_cd": 11140127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -364551,7 +364551,7 @@
         "emd_eng_nm": "Wonhyoro 3(sam)-ga",
         "emd_kor_nm": "원효로3가",
         "full_nm": "서울특별시 용산구 원효로3가",
-        "emd_cd": 11170117
+        "emd_cd": 11170117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -366113,7 +366113,7 @@
         "emd_eng_nm": "Cheongam-dong",
         "emd_kor_nm": "청암동",
         "full_nm": "서울특별시 용산구 청암동",
-        "emd_cd": 11170116
+        "emd_cd": 11170116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -366999,7 +366999,7 @@
         "emd_eng_nm": "Daejo-dong",
         "emd_kor_nm": "대조동",
         "full_nm": "서울특별시 은평구 대조동",
-        "emd_cd": 11380106
+        "emd_cd": 11380106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -367793,7 +367793,7 @@
         "emd_eng_nm": "Eungam-dong",
         "emd_kor_nm": "응암동",
         "full_nm": "서울특별시 은평구 응암동",
-        "emd_cd": 11380107
+        "emd_cd": 11380107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -369723,7 +369723,7 @@
         "emd_eng_nm": "Dongsomun-dong 6(yuk)-ga",
         "emd_kor_nm": "동소문동6가",
         "full_nm": "서울특별시 성북구 동소문동6가",
-        "emd_cd": 11290109
+        "emd_cd": 11290109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -370669,7 +370669,7 @@
         "emd_eng_nm": "Dongsomun-dong 5(o)-ga",
         "emd_kor_nm": "동소문동5가",
         "full_nm": "서울특별시 성북구 동소문동5가",
-        "emd_cd": 11290108
+        "emd_cd": 11290108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -371483,7 +371483,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong",
         "emd_kor_nm": "영등포동",
         "full_nm": "서울특별시 영등포구 영등포동",
-        "emd_cd": 11560101
+        "emd_cd": 11560101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -373689,7 +373689,7 @@
         "emd_eng_nm": "Yangpyeong-dong",
         "emd_kor_nm": "양평동",
         "full_nm": "서울특별시 영등포구 양평동",
-        "emd_cd": 11560134
+        "emd_cd": 11560134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -378267,7 +378267,7 @@
         "emd_eng_nm": "Namchang-dong",
         "emd_kor_nm": "남창동",
         "full_nm": "서울특별시 중구 남창동",
-        "emd_cd": 11140112
+        "emd_cd": 11140112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -379493,7 +379493,7 @@
         "emd_eng_nm": "Daehyeon-dong",
         "emd_kor_nm": "대현동",
         "full_nm": "서울특별시 서대문구 대현동",
-        "emd_cd": 11410112
+        "emd_cd": 11410112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -380631,7 +380631,7 @@
         "emd_eng_nm": "Daesin-dong",
         "emd_kor_nm": "대신동",
         "full_nm": "서울특별시 서대문구 대신동",
-        "emd_cd": 11410113
+        "emd_cd": 11410113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -381901,7 +381901,7 @@
         "emd_eng_nm": "Bukchang-dong",
         "emd_kor_nm": "북창동",
         "full_nm": "서울특별시 중구 북창동",
-        "emd_cd": 11140113
+        "emd_cd": 11140113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -382715,7 +382715,7 @@
         "emd_eng_nm": "Singye-dong",
         "emd_kor_nm": "신계동",
         "full_nm": "서울특별시 용산구 신계동",
-        "emd_cd": 11170123
+        "emd_cd": 11170123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -383737,7 +383737,7 @@
         "emd_eng_nm": "Munbae-dong",
         "emd_kor_nm": "문배동",
         "full_nm": "서울특별시 용산구 문배동",
-        "emd_cd": 11170122
+        "emd_cd": 11170122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -384707,7 +384707,7 @@
         "emd_eng_nm": "Ui-dong",
         "emd_kor_nm": "우이동",
         "full_nm": "서울특별시 강북구 우이동",
-        "emd_cd": 11305104
+        "emd_cd": 11305104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -386929,7 +386929,7 @@
         "emd_eng_nm": "Sogyeok-dong",
         "emd_kor_nm": "소격동",
         "full_nm": "서울특별시 종로구 소격동",
-        "emd_cd": 11110142
+        "emd_cd": 11110142000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -387283,7 +387283,7 @@
         "emd_eng_nm": "Hwa-dong",
         "emd_kor_nm": "화동",
         "full_nm": "서울특별시 종로구 화동",
-        "emd_cd": 11110143
+        "emd_cd": 11110143000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -388021,7 +388021,7 @@
         "emd_eng_nm": "Hwanghak-dong",
         "emd_kor_nm": "황학동",
         "full_nm": "서울특별시 중구 황학동",
-        "emd_cd": 11140165
+        "emd_cd": 11140165000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -388955,7 +388955,7 @@
         "emd_eng_nm": "Muhak-dong",
         "emd_kor_nm": "무학동",
         "full_nm": "서울특별시 중구 무학동",
-        "emd_cd": 11140164
+        "emd_cd": 11140164000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -389377,7 +389377,7 @@
         "emd_eng_nm": "Donam-dong",
         "emd_kor_nm": "돈암동",
         "full_nm": "서울특별시 성북구 돈암동",
-        "emd_cd": 11290103
+        "emd_cd": 11290103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -394563,7 +394563,7 @@
         "emd_eng_nm": "Seongbuk-dong 1(il)-ga",
         "emd_kor_nm": "성북동1가",
         "full_nm": "서울특별시 성북구 성북동1가",
-        "emd_cd": 11290102
+        "emd_cd": 11290102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -395029,7 +395029,7 @@
         "emd_eng_nm": "Gwancheol-dong",
         "emd_kor_nm": "관철동",
         "full_nm": "서울특별시 종로구 관철동",
-        "emd_cd": 11110135
+        "emd_cd": 11110135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -395803,7 +395803,7 @@
         "emd_eng_nm": "Gyeongun-dong",
         "emd_kor_nm": "경운동",
         "full_nm": "서울특별시 종로구 경운동",
-        "emd_cd": 11110134
+        "emd_cd": 11110134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -396473,7 +396473,7 @@
         "emd_eng_nm": "Suseo-dong",
         "emd_kor_nm": "수서동",
         "full_nm": "서울특별시 강남구 수서동",
-        "emd_cd": 11680115
+        "emd_cd": 11680115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -398519,7 +398519,7 @@
         "emd_eng_nm": "Irwon-dong",
         "emd_kor_nm": "일원동",
         "full_nm": "서울특별시 강남구 일원동",
-        "emd_cd": 11680114
+        "emd_cd": 11680114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -400705,7 +400705,7 @@
         "emd_eng_nm": "Sangwangsimni-dong",
         "emd_kor_nm": "상왕십리동",
         "full_nm": "서울특별시 성동구 상왕십리동",
-        "emd_cd": 11200101
+        "emd_cd": 11200101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -401479,7 +401479,7 @@
         "emd_eng_nm": "Hang-dong",
         "emd_kor_nm": "항동",
         "full_nm": "서울특별시 구로구 항동",
-        "emd_cd": 11530112
+        "emd_cd": 11530112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -403229,7 +403229,7 @@
         "emd_eng_nm": "Gwanghui-dong 2(i)-ga",
         "emd_kor_nm": "광희동2가",
         "full_nm": "서울특별시 중구 광희동2가",
-        "emd_cd": 11140146
+        "emd_cd": 11140146000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -404107,7 +404107,7 @@
         "emd_eng_nm": "Ssangnim-dong",
         "emd_kor_nm": "쌍림동",
         "full_nm": "서울특별시 중구 쌍림동",
-        "emd_cd": 11140147
+        "emd_cd": 11140147000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -405293,7 +405293,7 @@
         "emd_eng_nm": "Wonji-dong",
         "emd_kor_nm": "원지동",
         "full_nm": "서울특별시 서초구 원지동",
-        "emd_cd": 11650104
+        "emd_cd": 11650104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -407947,7 +407947,7 @@
         "emd_eng_nm": "Buam-dong",
         "emd_kor_nm": "부암동",
         "full_nm": "서울특별시 종로구 부암동",
-        "emd_cd": 11110184
+        "emd_cd": 11110184000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -409825,7 +409825,7 @@
         "emd_eng_nm": "Hongji-dong",
         "emd_kor_nm": "홍지동",
         "full_nm": "서울특별시 종로구 홍지동",
-        "emd_cd": 11110185
+        "emd_cd": 11110185000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -411379,7 +411379,7 @@
         "emd_eng_nm": "Dongseon-dong 5(o)-ga",
         "emd_kor_nm": "동선동5가",
         "full_nm": "서울특별시 성북구 동선동5가",
-        "emd_cd": 11290120
+        "emd_cd": 11290120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -411949,7 +411949,7 @@
         "emd_eng_nm": "Sangdo 1(il)-dong",
         "emd_kor_nm": "상도1동",
         "full_nm": "서울특별시 동작구 상도1동",
-        "emd_cd": 11590103
+        "emd_cd": 11590103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -414293,7 +414293,7 @@
         "emd_eng_nm": "Anam-dong 1(il)-ga",
         "emd_kor_nm": "안암동1가",
         "full_nm": "서울특별시 성북구 안암동1가",
-        "emd_cd": 11290121
+        "emd_cd": 11290121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -414927,7 +414927,7 @@
         "emd_eng_nm": "Sangdo-dong",
         "emd_kor_nm": "상도동",
         "full_nm": "서울특별시 동작구 상도동",
-        "emd_cd": 11590102
+        "emd_cd": 11590102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -420877,7 +420877,7 @@
         "emd_eng_nm": "Doryeom-dong",
         "emd_kor_nm": "도렴동",
         "full_nm": "서울특별시 종로구 도렴동",
-        "emd_cd": 11110116
+        "emd_cd": 11110116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -421339,7 +421339,7 @@
         "emd_eng_nm": "Hajung-dong",
         "emd_kor_nm": "하중동",
         "full_nm": "서울특별시 마포구 하중동",
-        "emd_cd": 11440116
+        "emd_cd": 11440116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -421925,7 +421925,7 @@
         "emd_eng_nm": "Yangpyeong-dong 4(sa)-ga",
         "emd_kor_nm": "양평동4가",
         "full_nm": "서울특별시 영등포구 양평동4가",
-        "emd_cd": 11560128
+        "emd_cd": 11560128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -422939,7 +422939,7 @@
         "emd_eng_nm": "Sinjeong-dong",
         "emd_kor_nm": "신정동",
         "full_nm": "서울특별시 마포구 신정동",
-        "emd_cd": 11440117
+        "emd_cd": 11440117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -423517,7 +423517,7 @@
         "emd_eng_nm": "Dangju-dong",
         "emd_kor_nm": "당주동",
         "full_nm": "서울특별시 종로구 당주동",
-        "emd_cd": 11110117
+        "emd_cd": 11110117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -424207,7 +424207,7 @@
         "emd_eng_nm": "Yangpyeong-dong 5(o)-ga",
         "emd_kor_nm": "양평동5가",
         "full_nm": "서울특별시 영등포구 양평동5가",
-        "emd_cd": 11560129
+        "emd_cd": 11560129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -425405,7 +425405,7 @@
         "emd_eng_nm": "Yongdap-dong",
         "emd_kor_nm": "용답동",
         "full_nm": "서울특별시 성동구 용답동",
-        "emd_cd": 11200122
+        "emd_cd": 11200122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -427099,7 +427099,7 @@
         "emd_eng_nm": "Yeomchang-dong",
         "emd_kor_nm": "염창동",
         "full_nm": "서울특별시 강서구 염창동",
-        "emd_cd": 11500101
+        "emd_cd": 11500101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -428653,7 +428653,7 @@
         "emd_eng_nm": "Ogeum-dong",
         "emd_kor_nm": "오금동",
         "full_nm": "서울특별시 송파구 오금동",
-        "emd_cd": 11710112
+        "emd_cd": 11710112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -429363,7 +429363,7 @@
         "emd_eng_nm": "Geoyeo-dong",
         "emd_kor_nm": "거여동",
         "full_nm": "서울특별시 송파구 거여동",
-        "emd_cd": 11710113
+        "emd_cd": 11710113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -431145,7 +431145,7 @@
         "emd_eng_nm": "Jeungsan-dong",
         "emd_kor_nm": "증산동",
         "full_nm": "서울특별시 은평구 증산동",
-        "emd_cd": 11380110
+        "emd_cd": 11380110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -432651,7 +432651,7 @@
         "emd_eng_nm": "Gwanhun-dong",
         "emd_kor_nm": "관훈동",
         "full_nm": "서울특별시 종로구 관훈동",
-        "emd_cd": 11110128
+        "emd_cd": 11110128000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -433741,7 +433741,7 @@
         "emd_eng_nm": "Dangsan-dong 6(yuk)-ga",
         "emd_kor_nm": "당산동6가",
         "full_nm": "서울특별시 영등포구 당산동6가",
-        "emd_cd": 11560116
+        "emd_cd": 11560116000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -434419,7 +434419,7 @@
         "emd_eng_nm": "Gyeonji-dong",
         "emd_kor_nm": "견지동",
         "full_nm": "서울특별시 종로구 견지동",
-        "emd_cd": 11110129
+        "emd_cd": 11110129000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -435609,7 +435609,7 @@
         "emd_eng_nm": "Dangsan-dong",
         "emd_kor_nm": "당산동",
         "full_nm": "서울특별시 영등포구 당산동",
-        "emd_cd": 11560117
+        "emd_cd": 11560117000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -438391,7 +438391,7 @@
         "emd_eng_nm": "Jeo-dong 1(il)-ga",
         "emd_kor_nm": "저동1가",
         "full_nm": "서울특별시 중구 저동1가",
-        "emd_cd": 11140131
+        "emd_cd": 11140131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -439117,7 +439117,7 @@
         "emd_eng_nm": "Namsan-dong 3(sam)-ga",
         "emd_kor_nm": "남산동3가",
         "full_nm": "서울특별시 중구 남산동3가",
-        "emd_cd": 11140130
+        "emd_cd": 11140130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -439515,7 +439515,7 @@
         "emd_eng_nm": "Huam-dong",
         "emd_kor_nm": "후암동",
         "full_nm": "서울특별시 용산구 후암동",
-        "emd_cd": 11170101
+        "emd_cd": 11170101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -441605,7 +441605,7 @@
         "emd_eng_nm": "Nonhyeon-dong",
         "emd_kor_nm": "논현동",
         "full_nm": "서울특별시 강남구 논현동",
-        "emd_cd": 11680108
+        "emd_cd": 11680108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -441811,7 +441811,7 @@
         "emd_eng_nm": "Jongno 4(sa)-ga",
         "emd_kor_nm": "종로4가",
         "full_nm": "서울특별시 종로구 종로4가",
-        "emd_cd": 11110161
+        "emd_cd": 11110161000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -442413,7 +442413,7 @@
         "emd_eng_nm": "Yeonji-dong",
         "emd_kor_nm": "연지동",
         "full_nm": "서울특별시 종로구 연지동",
-        "emd_cd": 11110160
+        "emd_cd": 11110160000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -443443,7 +443443,7 @@
         "emd_eng_nm": "Gwansu-dong",
         "emd_kor_nm": "관수동",
         "full_nm": "서울특별시 종로구 관수동",
-        "emd_cd": 11110155
+        "emd_cd": 11110155000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -443937,7 +443937,7 @@
         "emd_eng_nm": "Jangsa-dong",
         "emd_kor_nm": "장사동",
         "full_nm": "서울특별시 종로구 장사동",
-        "emd_cd": 11110154
+        "emd_cd": 11110154000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -444507,7 +444507,7 @@
         "emd_eng_nm": "Euljiro 2(i)-ga",
         "emd_kor_nm": "을지로2가",
         "full_nm": "서울특별시 중구 을지로2가",
-        "emd_cd": 11140105
+        "emd_cd": 11140105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -445801,7 +445801,7 @@
         "emd_eng_nm": "Naengcheon-dong",
         "emd_kor_nm": "냉천동",
         "full_nm": "서울특별시 서대문구 냉천동",
-        "emd_cd": 11410105
+        "emd_cd": 11410105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -447567,7 +447567,7 @@
         "emd_eng_nm": "Migeun-dong",
         "emd_kor_nm": "미근동",
         "full_nm": "서울특별시 서대문구 미근동",
-        "emd_cd": 11410104
+        "emd_cd": 11410104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -448589,7 +448589,7 @@
         "emd_eng_nm": "Euljiro 1(il)-ga",
         "emd_kor_nm": "을지로1가",
         "full_nm": "서울특별시 중구 을지로1가",
-        "emd_cd": 11140104
+        "emd_cd": 11140104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -449539,7 +449539,7 @@
         "emd_eng_nm": "Juseong-dong",
         "emd_kor_nm": "주성동",
         "full_nm": "서울특별시 용산구 주성동",
-        "emd_cd": 11170134
+        "emd_cd": 11170134000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -450301,7 +450301,7 @@
         "emd_eng_nm": "Yongsan-dong 6(yuk)-ga",
         "emd_kor_nm": "용산동6가",
         "full_nm": "서울특별시 용산구 용산동6가",
-        "emd_cd": 11170135
+        "emd_cd": 11170135000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -451967,7 +451967,7 @@
         "emd_eng_nm": "Sindaebang-dong",
         "emd_kor_nm": "신대방동",
         "full_nm": "서울특별시 동작구 신대방동",
-        "emd_cd": 11590109
+        "emd_cd": 11590109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -454409,7 +454409,7 @@
         "emd_eng_nm": "Daebang-dong",
         "emd_kor_nm": "대방동",
         "full_nm": "서울특별시 동작구 대방동",
-        "emd_cd": 11590108
+        "emd_cd": 11590108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -456531,7 +456531,7 @@
         "emd_eng_nm": "Myeonmok-dong",
         "emd_kor_nm": "면목동",
         "full_nm": "서울특별시 중랑구 면목동",
-        "emd_cd": 11260101
+        "emd_cd": 11260101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -459017,7 +459017,7 @@
         "emd_eng_nm": "Mullae-dong 4(sa)-ga",
         "emd_kor_nm": "문래동4가",
         "full_nm": "서울특별시 영등포구 문래동4가",
-        "emd_cd": 11560122
+        "emd_cd": 11560122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -459879,7 +459879,7 @@
         "emd_eng_nm": "Mullae-dong 5(o)-ga",
         "emd_kor_nm": "문래동5가",
         "full_nm": "서울특별시 영등포구 문래동5가",
-        "emd_cd": 11560123
+        "emd_cd": 11560123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -460381,7 +460381,7 @@
         "emd_eng_nm": "Myeongil-dong",
         "emd_kor_nm": "명일동",
         "full_nm": "서울특별시 강동구 명일동",
-        "emd_cd": 11740101
+        "emd_cd": 11740101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -461439,7 +461439,7 @@
         "emd_eng_nm": "Gaepo-dong",
         "emd_kor_nm": "개포동",
         "full_nm": "서울특별시 강남구 개포동",
-        "emd_cd": 11680103
+        "emd_cd": 11680103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -462781,7 +462781,7 @@
         "emd_eng_nm": "Cheongjin-dong",
         "emd_kor_nm": "청진동",
         "full_nm": "서울특별시 종로구 청진동",
-        "emd_cd": 11110122
+        "emd_cd": 11110122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -463267,7 +463267,7 @@
         "emd_eng_nm": "Hapjeong-dong",
         "emd_kor_nm": "합정동",
         "full_nm": "서울특별시 마포구 합정동",
-        "emd_cd": 11440122
+        "emd_cd": 11440122000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -464505,7 +464505,7 @@
         "emd_eng_nm": "Mangwon-dong",
         "emd_kor_nm": "망원동",
         "full_nm": "서울특별시 마포구 망원동",
-        "emd_cd": 11440123
+        "emd_cd": 11440123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -465147,7 +465147,7 @@
         "emd_eng_nm": "Seorin-dong",
         "emd_kor_nm": "서린동",
         "full_nm": "서울특별시 종로구 서린동",
-        "emd_cd": 11110123
+        "emd_cd": 11110123000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -465697,7 +465697,7 @@
         "emd_eng_nm": "Samseon-dong 4(sa)-ga",
         "emd_kor_nm": "삼선동4가",
         "full_nm": "서울특별시 성북구 삼선동4가",
-        "emd_cd": 11290114
+        "emd_cd": 11290114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -466455,7 +466455,7 @@
         "emd_eng_nm": "Samseon-dong 5(o)-ga",
         "emd_kor_nm": "삼선동5가",
         "full_nm": "서울특별시 성북구 삼선동5가",
-        "emd_cd": 11290115
+        "emd_cd": 11290115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -466981,7 +466981,7 @@
         "emd_eng_nm": "Uijuro 2(i)-ga",
         "emd_kor_nm": "의주로2가",
         "full_nm": "서울특별시 중구 의주로2가",
-        "emd_cd": 11140172
+        "emd_cd": 11140172000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -467699,7 +467699,7 @@
         "emd_eng_nm": "Malli-dong 1(il)-ga",
         "emd_kor_nm": "만리동1가",
         "full_nm": "서울특별시 중구 만리동1가",
-        "emd_cd": 11140173
+        "emd_cd": 11140173000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -468793,7 +468793,7 @@
         "emd_eng_nm": "Bomun-dong 5(o)-ga",
         "emd_kor_nm": "보문동5가",
         "full_nm": "서울특별시 성북구 보문동5가",
-        "emd_cd": 11290127
+        "emd_cd": 11290127000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -468987,7 +468987,7 @@
         "emd_eng_nm": "Bon-dong",
         "emd_kor_nm": "본동",
         "full_nm": "서울특별시 동작구 본동",
-        "emd_cd": 11590104
+        "emd_cd": 11590104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -470645,7 +470645,7 @@
         "emd_eng_nm": "Bomun-dong 4(sa)-ga",
         "emd_kor_nm": "보문동4가",
         "full_nm": "서울특별시 성북구 보문동4가",
-        "emd_cd": 11290126
+        "emd_cd": 11290126000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -470819,7 +470819,7 @@
         "emd_eng_nm": "Heukseok-dong",
         "emd_kor_nm": "흑석동",
         "full_nm": "서울특별시 동작구 흑석동",
-        "emd_cd": 11590105
+        "emd_cd": 11590105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -472373,7 +472373,7 @@
         "emd_eng_nm": "Sinsu-dong",
         "emd_kor_nm": "신수동",
         "full_nm": "서울특별시 마포구 신수동",
-        "emd_cd": 11440111
+        "emd_cd": 11440111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -473663,7 +473663,7 @@
         "emd_eng_nm": "Ogin-dong",
         "emd_kor_nm": "옥인동",
         "full_nm": "서울특별시 종로구 옥인동",
-        "emd_cd": 11110111
+        "emd_cd": 11110111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -474909,7 +474909,7 @@
         "emd_eng_nm": "Nuha-dong",
         "emd_kor_nm": "누하동",
         "full_nm": "서울특별시 종로구 누하동",
-        "emd_cd": 11110110
+        "emd_cd": 11110110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -475827,7 +475827,7 @@
         "emd_eng_nm": "Nogosan-dong",
         "emd_kor_nm": "노고산동",
         "full_nm": "서울특별시 마포구 노고산동",
-        "emd_cd": 11440110
+        "emd_cd": 11440110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -476781,7 +476781,7 @@
         "emd_eng_nm": "Namhyeon-dong",
         "emd_kor_nm": "남현동",
         "full_nm": "서울특별시 관악구 남현동",
-        "emd_cd": 11620103
+        "emd_cd": 11620103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -477979,7 +477979,7 @@
         "emd_eng_nm": "Sillim-dong",
         "emd_kor_nm": "신림동",
         "full_nm": "서울특별시 관악구 신림동",
-        "emd_cd": 11620102
+        "emd_cd": 11620102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -482789,7 +482789,7 @@
         "emd_eng_nm": "Juja-dong",
         "emd_kor_nm": "주자동",
         "full_nm": "서울특별시 중구 주자동",
-        "emd_cd": 11140141
+        "emd_cd": 11140141000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -483039,7 +483039,7 @@
         "emd_eng_nm": "Namhak-dong",
         "emd_kor_nm": "남학동",
         "full_nm": "서울특별시 중구 남학동",
-        "emd_cd": 11140140
+        "emd_cd": 11140140000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -483537,7 +483537,7 @@
         "emd_eng_nm": "Umyeon-dong",
         "emd_kor_nm": "우면동",
         "full_nm": "서울특별시 서초구 우면동",
-        "emd_cd": 11650103
+        "emd_cd": 11650103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -485175,7 +485175,7 @@
         "emd_eng_nm": "Yangjae-dong",
         "emd_kor_nm": "양재동",
         "full_nm": "서울특별시 서초구 양재동",
-        "emd_cd": 11650102
+        "emd_cd": 11650102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -487321,7 +487321,7 @@
         "emd_eng_nm": "Pyeongchang-dong",
         "emd_kor_nm": "평창동",
         "full_nm": "서울특별시 종로구 평창동",
-        "emd_cd": 11110183
+        "emd_cd": 11110183000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -488863,7 +488863,7 @@
         "emd_eng_nm": "Gugi-dong",
         "emd_kor_nm": "구기동",
         "full_nm": "서울특별시 종로구 구기동",
-        "emd_cd": 11110182
+        "emd_cd": 11110182000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -490681,7 +490681,7 @@
         "emd_eng_nm": "Yeji -dong",
         "emd_kor_nm": "예지동",
         "full_nm": "서울특별시 종로구 예지동",
-        "emd_cd": 11110158
+        "emd_cd": 11110158000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -491175,7 +491175,7 @@
         "emd_eng_nm": "Macheon-dong",
         "emd_kor_nm": "마천동",
         "full_nm": "서울특별시 송파구 마천동",
-        "emd_cd": 11710114
+        "emd_cd": 11710114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -492377,7 +492377,7 @@
         "emd_eng_nm": "Wonnam-dong",
         "emd_kor_nm": "원남동",
         "full_nm": "서울특별시 종로구 원남동",
-        "emd_cd": 11110159
+        "emd_cd": 11110159000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -493287,7 +493287,7 @@
         "emd_eng_nm": "Oebalsan-dong",
         "emd_kor_nm": "외발산동",
         "full_nm": "서울특별시 강서구 외발산동",
-        "emd_cd": 11500107
+        "emd_cd": 11500107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -494969,7 +494969,7 @@
         "emd_eng_nm": "Naebalsan-dong",
         "emd_kor_nm": "내발산동",
         "full_nm": "서울특별시 강서구 내발산동",
-        "emd_cd": 11500106
+        "emd_cd": 11500106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -496483,7 +496483,7 @@
         "emd_eng_nm": "Yeongcheon-dong",
         "emd_kor_nm": "영천동",
         "full_nm": "서울특별시 서대문구 영천동",
-        "emd_cd": 11410108
+        "emd_cd": 11410108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -497405,7 +497405,7 @@
         "emd_eng_nm": "Suha-dong",
         "emd_kor_nm": "수하동",
         "full_nm": "서울특별시 중구 수하동",
-        "emd_cd": 11140108
+        "emd_cd": 11140108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -497919,7 +497919,7 @@
         "emd_eng_nm": "Janggyo-dong",
         "emd_kor_nm": "장교동",
         "full_nm": "서울특별시 중구 장교동",
-        "emd_cd": 11140109
+        "emd_cd": 11140109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -498357,7 +498357,7 @@
         "emd_eng_nm": "Hyeonjeo-dong",
         "emd_kor_nm": "현저동",
         "full_nm": "서울특별시 서대문구 현저동",
-        "emd_cd": 11410109
+        "emd_cd": 11410109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -499531,7 +499531,7 @@
         "emd_eng_nm": "Dangsan-dong 1(il)-ga",
         "emd_kor_nm": "당산동1가",
         "full_nm": "서울특별시 영등포구 당산동1가",
-        "emd_cd": 11560111
+        "emd_cd": 11560111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -500237,7 +500237,7 @@
         "emd_eng_nm": "Yeouido-dong",
         "emd_kor_nm": "여의도동",
         "full_nm": "서울특별시 영등포구 여의도동",
-        "emd_cd": 11560110
+        "emd_cd": 11560110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -501591,7 +501591,7 @@
         "emd_eng_nm": "Dongseon-dong 4(sa)-ga",
         "emd_kor_nm": "동선동4가",
         "full_nm": "서울특별시 성북구 동선동4가",
-        "emd_cd": 11290119
+        "emd_cd": 11290119000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -502333,7 +502333,7 @@
         "emd_eng_nm": "Dongseon-dong 3(sam)-ga",
         "emd_kor_nm": "동선동3가",
         "full_nm": "서울특별시 성북구 동선동3가",
-        "emd_cd": 11290118
+        "emd_cd": 11290118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -502983,7 +502983,7 @@
         "emd_eng_nm": "Yeongeon-dong",
         "emd_kor_nm": "연건동",
         "full_nm": "서울특별시 종로구 연건동",
-        "emd_cd": 11110166
+        "emd_cd": 11110166000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -504073,7 +504073,7 @@
         "emd_eng_nm": "Chungsin-dong",
         "emd_kor_nm": "충신동",
         "full_nm": "서울특별시 종로구 충신동",
-        "emd_cd": 11110167
+        "emd_cd": 11110167000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -505071,7 +505071,7 @@
         "emd_eng_nm": "Oryu-dong",
         "emd_kor_nm": "오류동",
         "full_nm": "서울특별시 구로구 오류동",
-        "emd_cd": 11530108
+        "emd_cd": 11530108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -507557,7 +507557,7 @@
         "emd_eng_nm": "Mukjeong-dong",
         "emd_kor_nm": "묵정동",
         "full_nm": "서울특별시 중구 묵정동",
-        "emd_cd": 11140136
+        "emd_cd": 11140136000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -508211,7 +508211,7 @@
         "emd_eng_nm": "Gung-dong",
         "emd_kor_nm": "궁동",
         "full_nm": "서울특별시 구로구 궁동",
-        "emd_cd": 11530109
+        "emd_cd": 11530109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -509609,7 +509609,7 @@
         "emd_eng_nm": "Pil-dong 1(il)-ga",
         "emd_kor_nm": "필동1가",
         "full_nm": "서울특별시 중구 필동1가",
-        "emd_cd": 11140137
+        "emd_cd": 11140137000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -510255,7 +510255,7 @@
         "emd_eng_nm": "Dongja-dong",
         "emd_kor_nm": "동자동",
         "full_nm": "서울특별시 용산구 동자동",
-        "emd_cd": 11170107
+        "emd_cd": 11170107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -511709,7 +511709,7 @@
         "emd_eng_nm": "Yongsan-dong 1(il)-ga",
         "emd_kor_nm": "용산동1가",
         "full_nm": "서울특별시 용산구 용산동1가",
-        "emd_cd": 11170106
+        "emd_cd": 11170106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -512915,7 +512915,7 @@
         "emd_eng_nm": "Chungjeongno 3(sam)-ga",
         "emd_kor_nm": "충정로3가",
         "full_nm": "서울특별시 서대문구 충정로3가",
-        "emd_cd": 11410102
+        "emd_cd": 11410102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -514737,7 +514737,7 @@
         "emd_eng_nm": "Da-dong",
         "emd_kor_nm": "다동",
         "full_nm": "서울특별시 중구 다동",
-        "emd_cd": 11140102
+        "emd_cd": 11140102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -515203,7 +515203,7 @@
         "emd_eng_nm": "Taepyeongno 1(il)-ga",
         "emd_kor_nm": "태평로1가",
         "full_nm": "서울특별시 중구 태평로1가",
-        "emd_cd": 11140103
+        "emd_cd": 11140103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -516069,7 +516069,7 @@
         "emd_eng_nm": "Hap-dong",
         "emd_kor_nm": "합동",
         "full_nm": "서울특별시 서대문구 합동",
-        "emd_cd": 11410103
+        "emd_cd": 11410103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -516919,7 +516919,7 @@
         "emd_eng_nm": "Seobinggo-dong",
         "emd_kor_nm": "서빙고동",
         "full_nm": "서울특별시 용산구 서빙고동",
-        "emd_cd": 11170133
+        "emd_cd": 11170133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -517893,7 +517893,7 @@
         "emd_eng_nm": "Dongbinggo-dong",
         "emd_kor_nm": "동빙고동",
         "full_nm": "서울특별시 용산구 동빙고동",
-        "emd_cd": 11170132
+        "emd_cd": 11170132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -519479,7 +519479,7 @@
         "emd_eng_nm": "Bongik-dong",
         "emd_kor_nm": "봉익동",
         "full_nm": "서울특별시 종로구 봉익동",
-        "emd_cd": 11110152
+        "emd_cd": 11110152000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -520145,7 +520145,7 @@
         "emd_eng_nm": "Donui-dong",
         "emd_kor_nm": "돈의동",
         "full_nm": "서울특별시 종로구 돈의동",
-        "emd_cd": 11110153
+        "emd_cd": 11110153000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -520543,7 +520543,7 @@
         "emd_eng_nm": "Naegok-dong",
         "emd_kor_nm": "내곡동",
         "full_nm": "서울특별시 서초구 내곡동",
-        "emd_cd": 11650109
+        "emd_cd": 11650109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -522069,7 +522069,7 @@
         "emd_eng_nm": "Seocho-dong",
         "emd_kor_nm": "서초동",
         "full_nm": "서울특별시 서초구 서초동",
-        "emd_cd": 11650108
+        "emd_cd": 11650108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -523479,7 +523479,7 @@
         "emd_eng_nm": "Dunchon-dong",
         "emd_kor_nm": "둔촌동",
         "full_nm": "서울특별시 강동구 둔촌동",
-        "emd_cd": 11740106
+        "emd_cd": 11740106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -525141,7 +525141,7 @@
         "emd_eng_nm": "Amsa-dong",
         "emd_kor_nm": "암사동",
         "full_nm": "서울특별시 강동구 암사동",
-        "emd_cd": 11740107
+        "emd_cd": 11740107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -526495,7 +526495,7 @@
         "emd_eng_nm": "Sinnae-dong",
         "emd_kor_nm": "신내동",
         "full_nm": "서울특별시 중랑구 신내동",
-        "emd_cd": 11260106
+        "emd_cd": 11260106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -530101,7 +530101,7 @@
         "emd_eng_nm": "Yangpyeong-dong 1(il)-ga",
         "emd_kor_nm": "양평동1가",
         "full_nm": "서울특별시 영등포구 양평동1가",
-        "emd_cd": 11560125
+        "emd_cd": 11560125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -530611,7 +530611,7 @@
         "emd_eng_nm": "Mullae-dong 6(yuk)-ga",
         "emd_kor_nm": "문래동6가",
         "full_nm": "서울특별시 영등포구 문래동6가",
-        "emd_cd": 11560124
+        "emd_cd": 11560124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -531385,7 +531385,7 @@
         "emd_eng_nm": "Geumho-dong2(i)-ga",
         "emd_kor_nm": "금호동2가",
         "full_nm": "서울특별시 성동구 금호동2가",
-        "emd_cd": 11200110
+        "emd_cd": 11200110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -532827,7 +532827,7 @@
         "emd_eng_nm": "Geumho-dong3(sam)-ga",
         "emd_kor_nm": "금호동3가",
         "full_nm": "서울특별시 성동구 금호동3가",
-        "emd_cd": 11200111
+        "emd_cd": 11200111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -534069,7 +534069,7 @@
         "emd_eng_nm": "Samseong-dong",
         "emd_kor_nm": "삼성동",
         "full_nm": "서울특별시 강남구 삼성동",
-        "emd_cd": 11680105
+        "emd_cd": 11680105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -534755,7 +534755,7 @@
         "emd_eng_nm": "Cheongdam-dong",
         "emd_kor_nm": "청담동",
         "full_nm": "서울특별시 강남구 청담동",
-        "emd_cd": 11680104
+        "emd_cd": 11680104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -535281,7 +535281,7 @@
         "emd_eng_nm": "Guro-dong",
         "emd_kor_nm": "구로동",
         "full_nm": "서울특별시 구로구 구로동",
-        "emd_cd": 11530102
+        "emd_cd": 11530102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -540175,7 +540175,7 @@
         "emd_eng_nm": "Garibong-dong",
         "emd_kor_nm": "가리봉동",
         "full_nm": "서울특별시 구로구 가리봉동",
-        "emd_cd": 11530103
+        "emd_cd": 11530103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -541989,7 +541989,7 @@
         "emd_eng_nm": "Malli-dong 2(i)-ga",
         "emd_kor_nm": "만리동2가",
         "full_nm": "서울특별시 중구 만리동2가",
-        "emd_cd": 11140174
+        "emd_cd": 11140174000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -542859,7 +542859,7 @@
         "emd_eng_nm": "Seongsan-dong",
         "emd_kor_nm": "성산동",
         "full_nm": "서울특별시 마포구 성산동",
-        "emd_cd": 11440125
+        "emd_cd": 11440125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -545681,7 +545681,7 @@
         "emd_eng_nm": "Junghak-dong",
         "emd_kor_nm": "중학동",
         "full_nm": "서울특별시 종로구 중학동",
-        "emd_cd": 11110125
+        "emd_cd": 11110125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -546063,7 +546063,7 @@
         "emd_eng_nm": "Susong-dong",
         "emd_kor_nm": "수송동",
         "full_nm": "서울특별시 종로구 수송동",
-        "emd_cd": 11110124
+        "emd_cd": 11110124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -546973,7 +546973,7 @@
         "emd_eng_nm": "Yeonnam-dong",
         "emd_kor_nm": "연남동",
         "full_nm": "서울특별시 마포구 연남동",
-        "emd_cd": 11440124
+        "emd_cd": 11440124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -548411,7 +548411,7 @@
         "emd_eng_nm": "Samseon-dong 3(sam)-ga",
         "emd_kor_nm": "삼선동3가",
         "full_nm": "서울특별시 성북구 삼선동3가",
-        "emd_cd": 11290113
+        "emd_cd": 11290113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -549265,7 +549265,7 @@
         "emd_eng_nm": "Samseon-dong 2(i)-ga",
         "emd_kor_nm": "삼선동2가",
         "full_nm": "서울특별시 성북구 삼선동2가",
-        "emd_cd": 11290112
+        "emd_cd": 11290112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -550619,7 +550619,7 @@
         "emd_eng_nm": "Gaehwa-dong",
         "emd_kor_nm": "개화동",
         "full_nm": "서울특별시 강서구 개화동",
-        "emd_cd": 11500110
+        "emd_cd": 11500110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -555281,7 +555281,7 @@
         "emd_eng_nm": "Gwahae-dong",
         "emd_kor_nm": "과해동",
         "full_nm": "서울특별시 강서구 과해동",
-        "emd_cd": 11500111
+        "emd_cd": 11500111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -558059,7 +558059,7 @@
         "emd_eng_nm": "Yongdu-dong",
         "emd_kor_nm": "용두동",
         "full_nm": "서울특별시 동대문구 용두동",
-        "emd_cd": 11230102
+        "emd_cd": 11230102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -559729,7 +559729,7 @@
         "emd_eng_nm": "Jegi-dong",
         "emd_kor_nm": "제기동",
         "full_nm": "서울특별시 동대문구 제기동",
-        "emd_cd": 11230103
+        "emd_cd": 11230103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -562127,7 +562127,7 @@
         "emd_eng_nm": "Hwayang-dong",
         "emd_kor_nm": "화양동",
         "full_nm": "서울특별시 광진구 화양동",
-        "emd_cd": 11215107
+        "emd_cd": 11215107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -563309,7 +563309,7 @@
         "emd_eng_nm": "Sincheon-dong",
         "emd_kor_nm": "신천동",
         "full_nm": "서울특별시 송파구 신천동",
-        "emd_cd": 11710102
+        "emd_cd": 11710102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -564579,7 +564579,7 @@
         "emd_eng_nm": "Pungnap-dong",
         "emd_kor_nm": "풍납동",
         "full_nm": "서울특별시 송파구 풍납동",
-        "emd_cd": 11710103
+        "emd_cd": 11710103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -565409,7 +565409,7 @@
         "emd_eng_nm": "Ipjeong-dong",
         "emd_kor_nm": "입정동",
         "full_nm": "서울특별시 중구 입정동",
-        "emd_cd": 11140156
+        "emd_cd": 11140156000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -566119,7 +566119,7 @@
         "emd_eng_nm": "Sallim-dong",
         "emd_kor_nm": "산림동",
         "full_nm": "서울특별시 중구 산림동",
-        "emd_cd": 11140157
+        "emd_cd": 11140157000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -566557,7 +566557,7 @@
         "emd_eng_nm": "Tojeong-dong",
         "emd_kor_nm": "토정동",
         "full_nm": "서울특별시 마포구 토정동",
-        "emd_cd": 11440106
+        "emd_cd": 11440106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -566803,7 +566803,7 @@
         "emd_eng_nm": "Tongui-dong",
         "emd_kor_nm": "통의동",
         "full_nm": "서울특별시 종로구 통의동",
-        "emd_cd": 11110106
+        "emd_cd": 11110106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -567425,7 +567425,7 @@
         "emd_eng_nm": "Jeokseon-dong",
         "emd_kor_nm": "적선동",
         "full_nm": "서울특별시 종로구 적선동",
-        "emd_cd": 11110107
+        "emd_cd": 11110107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -567799,7 +567799,7 @@
         "emd_eng_nm": "Mapo-dong",
         "emd_kor_nm": "마포동",
         "full_nm": "서울특별시 마포구 마포동",
-        "emd_cd": 11440107
+        "emd_cd": 11440107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -568409,7 +568409,7 @@
         "emd_eng_nm": "Bomun-dong 1(il)-ga",
         "emd_kor_nm": "보문동1가",
         "full_nm": "서울특별시 성북구 보문동1가",
-        "emd_cd": 11290130
+        "emd_cd": 11290130000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -568591,7 +568591,7 @@
         "emd_eng_nm": "Bomun-dong 2(i)-ga",
         "emd_kor_nm": "보문동2가",
         "full_nm": "서울특별시 성북구 보문동2가",
-        "emd_cd": 11290131
+        "emd_cd": 11290131000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -568793,7 +568793,7 @@
         "emd_eng_nm": "Hoehyeon-dong 1(il)-ga",
         "emd_kor_nm": "회현동1가",
         "full_nm": "서울특별시 중구 회현동1가",
-        "emd_cd": 11140121
+        "emd_cd": 11140121000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -570839,7 +570839,7 @@
         "emd_eng_nm": "Bongnae-dong 2(i)-ga",
         "emd_kor_nm": "봉래동2가",
         "full_nm": "서울특별시 중구 봉래동2가",
-        "emd_cd": 11140120
+        "emd_cd": 11140120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -571705,7 +571705,7 @@
         "emd_eng_nm": "Namgajwa-dong",
         "emd_kor_nm": "남가좌동",
         "full_nm": "서울특별시 서대문구 남가좌동",
-        "emd_cd": 11410120
+        "emd_cd": 11410120000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -574879,7 +574879,7 @@
         "emd_eng_nm": "Dogok-dong",
         "emd_kor_nm": "도곡동",
         "full_nm": "서울특별시 강남구 도곡동",
-        "emd_cd": 11680118
+        "emd_cd": 11680118000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -575481,7 +575481,7 @@
         "emd_eng_nm": "Cheongpa-dong 2(i)-ga",
         "emd_kor_nm": "청파동2가",
         "full_nm": "서울특별시 용산구 청파동2가",
-        "emd_cd": 11170110
+        "emd_cd": 11170110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -577735,7 +577735,7 @@
         "emd_eng_nm": "Cheongpa-dong 3(sam)-ga",
         "emd_kor_nm": "청파동3가",
         "full_nm": "서울특별시 용산구 청파동3가",
-        "emd_cd": 11170111
+        "emd_cd": 11170111000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -580171,7 +580171,7 @@
         "emd_eng_nm": "Myeongnyun 2(i)-ga",
         "emd_kor_nm": "명륜2가",
         "full_nm": "서울특별시 종로구 명륜2가",
-        "emd_cd": 11110171
+        "emd_cd": 11110171000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -580741,7 +580741,7 @@
         "emd_eng_nm": "Myeongnyun 1(il)-ga",
         "emd_kor_nm": "명륜1가",
         "full_nm": "서울특별시 종로구 명륜1가",
-        "emd_cd": 11110170
+        "emd_cd": 11110170000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -581831,7 +581831,7 @@
         "emd_eng_nm": "Doksan-dong",
         "emd_kor_nm": "독산동",
         "full_nm": "서울특별시 금천구 독산동",
-        "emd_cd": 11545102
+        "emd_cd": 11545102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -585289,7 +585289,7 @@
         "emd_eng_nm": "Siheung-dong",
         "emd_kor_nm": "시흥동",
         "full_nm": "서울특별시 금천구 시흥동",
-        "emd_cd": 11545103
+        "emd_cd": 11545103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -588143,7 +588143,7 @@
         "emd_eng_nm": "Sunhwa-dong",
         "emd_kor_nm": "순화동",
         "full_nm": "서울특별시 중구 순화동",
-        "emd_cd": 11140168
+        "emd_cd": 11140168000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -589577,7 +589577,7 @@
         "emd_eng_nm": "Uijuro 1(il)-ga",
         "emd_kor_nm": "의주로1가",
         "full_nm": "서울특별시 중구 의주로1가",
-        "emd_cd": 11140169
+        "emd_cd": 11140169000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -590279,7 +590279,7 @@
         "emd_eng_nm": "Susaek-dong",
         "emd_kor_nm": "수색동",
         "full_nm": "서울특별시 은평구 수색동",
-        "emd_cd": 11380101
+        "emd_cd": 11380101000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -591689,7 +591689,7 @@
         "emd_eng_nm": "Jongno 2(i)-ga",
         "emd_kor_nm": "종로2가",
         "full_nm": "서울특별시 종로구 종로2가",
-        "emd_cd": 11110138
+        "emd_cd": 11110138000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -592343,7 +592343,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 5(o)-ga",
         "emd_kor_nm": "영등포동5가",
         "full_nm": "서울특별시 영등포구 영등포동5가",
-        "emd_cd": 11560106
+        "emd_cd": 11560106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -592861,7 +592861,7 @@
         "emd_eng_nm": "Palpan-dong",
         "emd_kor_nm": "팔판동",
         "full_nm": "서울특별시 종로구 팔판동",
-        "emd_cd": 11110139
+        "emd_cd": 11110139000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -593427,7 +593427,7 @@
         "emd_eng_nm": "Yeongdeungpo-dong 6(yuk)-ga",
         "emd_kor_nm": "영등포동6가",
         "full_nm": "서울특별시 영등포구 영등포동6가",
-        "emd_cd": 11560107
+        "emd_cd": 11560107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -594317,7 +594317,7 @@
         "emd_eng_nm": "Singil-dong",
         "emd_kor_nm": "신길동",
         "full_nm": "서울특별시 영등포구 신길동",
-        "emd_cd": 11560132
+        "emd_cd": 11560132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -597243,7 +597243,7 @@
         "emd_eng_nm": "Daerim-dong",
         "emd_kor_nm": "대림동",
         "full_nm": "서울특별시 영등포구 대림동",
-        "emd_cd": 11560133
+        "emd_cd": 11560133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -599609,7 +599609,7 @@
         "emd_eng_nm": "Gangil-dong",
         "emd_kor_nm": "강일동",
         "full_nm": "서울특별시 강동구 강일동",
-        "emd_cd": 11740110
+        "emd_cd": 11740110000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -602043,7 +602043,7 @@
         "emd_eng_nm": "Suyu-dong",
         "emd_kor_nm": "수유동",
         "full_nm": "서울특별시 강북구 수유동",
-        "emd_cd": 11305103
+        "emd_cd": 11305103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -604789,7 +604789,7 @@
         "emd_eng_nm": "Beon-dong",
         "emd_kor_nm": "번동",
         "full_nm": "서울특별시 강북구 번동",
-        "emd_cd": 11305102
+        "emd_cd": 11305102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -607347,7 +607347,7 @@
         "emd_eng_nm": "Munjeong-dong",
         "emd_kor_nm": "문정동",
         "full_nm": "서울특별시 송파구 문정동",
-        "emd_cd": 11710108
+        "emd_cd": 11710108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -608977,7 +608977,7 @@
         "emd_eng_nm": "Songhyeon-dong",
         "emd_kor_nm": "송현동",
         "full_nm": "서울특별시 종로구 송현동",
-        "emd_cd": 11110145
+        "emd_cd": 11110145000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -609335,7 +609335,7 @@
         "emd_eng_nm": "Jangji-dong",
         "emd_kor_nm": "장지동",
         "full_nm": "서울특별시 송파구 장지동",
-        "emd_cd": 11710109
+        "emd_cd": 11710109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -612233,7 +612233,7 @@
         "emd_eng_nm": "Sagan-dong",
         "emd_kor_nm": "사간동",
         "full_nm": "서울특별시 종로구 사간동",
-        "emd_cd": 11110144
+        "emd_cd": 11110144000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -612567,7 +612567,7 @@
         "emd_eng_nm": "Junggye-dong",
         "emd_kor_nm": "중계동",
         "full_nm": "서울특별시 노원구 중계동",
-        "emd_cd": 11350106
+        "emd_cd": 11350106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -613909,7 +613909,7 @@
         "emd_eng_nm": "Hoegi-dong",
         "emd_kor_nm": "회기동",
         "full_nm": "서울특별시 동대문구 회기동",
-        "emd_cd": 11230108
+        "emd_cd": 11230108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -615927,7 +615927,7 @@
         "emd_eng_nm": "Bongwon-dong",
         "emd_kor_nm": "봉원동",
         "full_nm": "서울특별시 서대문구 봉원동",
-        "emd_cd": 11410115
+        "emd_cd": 11410115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -616493,7 +616493,7 @@
         "emd_eng_nm": "Namdaemunno 2(i)-ga",
         "emd_kor_nm": "남대문로2가",
         "full_nm": "서울특별시 중구 남대문로2가",
-        "emd_cd": 11140115
+        "emd_cd": 11140115000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -617391,7 +617391,7 @@
         "emd_eng_nm": "Taepyeongno 2(i)-ga",
         "emd_kor_nm": "태평로2가",
         "full_nm": "서울특별시 중구 태평로2가",
-        "emd_cd": 11140114
+        "emd_cd": 11140114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -618273,7 +618273,7 @@
         "emd_eng_nm": "Hwigyeong-dong",
         "emd_kor_nm": "휘경동",
         "full_nm": "서울특별시 동대문구 휘경동",
-        "emd_cd": 11230109
+        "emd_cd": 11230109000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -622327,7 +622327,7 @@
         "emd_eng_nm": "Sinchon-dong",
         "emd_kor_nm": "신촌동",
         "full_nm": "서울특별시 서대문구 신촌동",
-        "emd_cd": 11410114
+        "emd_cd": 11410114000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -624049,7 +624049,7 @@
         "emd_eng_nm": "Hangangno 1(il)-ga",
         "emd_kor_nm": "한강로1가",
         "full_nm": "서울특별시 용산구 한강로1가",
-        "emd_cd": 11170124
+        "emd_cd": 11170124000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -625459,7 +625459,7 @@
         "emd_eng_nm": "Chang-dong",
         "emd_kor_nm": "창동",
         "full_nm": "서울특별시 도봉구 창동",
-        "emd_cd": 11320107
+        "emd_cd": 11320107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -629173,7 +629173,7 @@
         "emd_eng_nm": "Hangangno 2(i)-ga",
         "emd_kor_nm": "한강로2가",
         "full_nm": "서울특별시 용산구 한강로2가",
-        "emd_cd": 11170125
+        "emd_cd": 11170125000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -631091,7 +631091,7 @@
         "emd_eng_nm": "Banghak-dong",
         "emd_kor_nm": "방학동",
         "full_nm": "서울특별시 도봉구 방학동",
-        "emd_cd": 11320106
+        "emd_cd": 11320106000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -632837,7 +632837,7 @@
         "emd_eng_nm": "Dongsomun-dong 1(il)-ga",
         "emd_kor_nm": "동소문동1가",
         "full_nm": "서울특별시 성북구 동소문동1가",
-        "emd_cd": 11290104
+        "emd_cd": 11290104000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -633379,7 +633379,7 @@
         "emd_eng_nm": "Dongsomun-dong 2(i)-ga",
         "emd_kor_nm": "동소문동2가",
         "full_nm": "서울특별시 성북구 동소문동2가",
-        "emd_cd": 11290105
+        "emd_cd": 11290105000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -633657,7 +633657,7 @@
         "emd_eng_nm": "Unni-dong",
         "emd_kor_nm": "운니동",
         "full_nm": "서울특별시 종로구 운니동",
-        "emd_cd": 11110132
+        "emd_cd": 11110132000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -634071,7 +634071,7 @@
         "emd_eng_nm": "Ikseon-dong",
         "emd_kor_nm": "익선동",
         "full_nm": "서울특별시 종로구 익선동",
-        "emd_cd": 11110133
+        "emd_cd": 11110133000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -634685,7 +634685,7 @@
         "emd_eng_nm": "Sinwol-dong",
         "emd_kor_nm": "신월동",
         "full_nm": "서울특별시 양천구 신월동",
-        "emd_cd": 11470103
+        "emd_cd": 11470103000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -636455,7 +636455,7 @@
         "emd_eng_nm": "Mok-dong",
         "emd_kor_nm": "목동",
         "full_nm": "서울특별시 양천구 목동",
-        "emd_cd": 11470102
+        "emd_cd": 11470102000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -638961,7 +638961,7 @@
         "emd_eng_nm": "Sindang-dong",
         "emd_kor_nm": "신당동",
         "full_nm": "서울특별시 중구 신당동",
-        "emd_cd": 11140162
+        "emd_cd": 11140162000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -643003,7 +643003,7 @@
         "emd_eng_nm": "Heungin-dong",
         "emd_kor_nm": "흥인동",
         "full_nm": "서울특별시 중구 흥인동",
-        "emd_cd": 11140163
+        "emd_cd": 11140163000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -643617,7 +643617,7 @@
         "emd_eng_nm": "Jagok-dong",
         "emd_kor_nm": "자곡동",
         "full_nm": "서울특별시 강남구 자곡동",
-        "emd_cd": 11680112
+        "emd_cd": 11680112000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -645695,7 +645695,7 @@
         "emd_eng_nm": "Yulhyeon-dong",
         "emd_kor_nm": "율현동",
         "full_nm": "서울특별시 강남구 율현동",
-        "emd_cd": 11680113
+        "emd_cd": 11680113000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -647385,7 +647385,7 @@
         "emd_eng_nm": "Haengdang-dong",
         "emd_kor_nm": "행당동",
         "full_nm": "서울특별시 성동구 행당동",
-        "emd_cd": 11200107
+        "emd_cd": 11200107000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -650151,7 +650151,7 @@
         "emd_eng_nm": "Sageun-dong",
         "emd_kor_nm": "사근동",
         "full_nm": "서울특별시 성동구 사근동",
-        "emd_cd": 11200106
+        "emd_cd": 11200106000
       },
       "geometry": {
         "type": "MultiPolygon",
