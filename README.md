@@ -9,6 +9,13 @@
 
 ## 스크립트 실행 방법
 
+```python
+geojson_merge_script.py
+dong_polygon_generate_script.py
+emd/final_geojson/법정동_polygon_20XX-XX-XX_기준.json
+
+```
+
 ## 📁 Repository 구조
 
 ```text
