@@ -4,8 +4,13 @@
 대한민국의 모든 시도, 시군구, 읍면동 폴리곤을 VWorld API로 추출하고 합치는 모델와 스크립트.
 
 ## 🤖 API
+`"https://api.vworld.kr/req/data"`
 
-## 👨🏻‍💻 중오한 모델/스크립트/파일
+API는 국토교통부의 V-World 디지털트윈국토에서 제공됐습니다. API에서 추출되는 JSON파일은 MultiPolygon 정보를 갖고 있으므로 GeoJSON팡이로 전환하는게 간단합니다.
+**API레퍼런스**: [https://www.vworld.kr/dev/v4apiRefer.do](https://www.vworld.kr/dev/v4apiRefer.do)
+API를 쓰기 위해 V-World API-KEY를 만들어야 합니다.
+
+## 👨🏻‍💻 핵심 모델/스크립트/파일
 
 ### 🌐 파일
 - `legal_dong_code_mstr.csv`: 시도/시군구/읍면동/리 코드, 이름, 그외에 전국 지역에 대한 정보를 가지고 있는 테이블. 시도에 속하는 모든 시군구와 읍면동 코드를 추출하기 위해 pandas로 이 csv파일을 분석합니다.
