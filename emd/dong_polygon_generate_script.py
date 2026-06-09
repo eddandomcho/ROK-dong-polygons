@@ -1,9 +1,9 @@
 import requests
 import pandas as pd
 import json
-import emd.models.csv_transform as ct
-import emd.models.geojson_polygon as gp
-import emd.models.polygon as p
+import models.csv_transform as ct
+import models.geojson_polygon as gp
+import models.polygon as p
 
 df = pd.read_csv("legal_dong_code_mstr.csv")
 df = df[df.status == "존재"]

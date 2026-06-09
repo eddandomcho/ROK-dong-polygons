@@ -31429,7 +31429,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "44210",
+        "sig_cd": 44210,
         "sig_eng_nm": "Seosan-si",
         "full_nm": "충청남도 서산시",
         "sig_kor_nm": "서산시"

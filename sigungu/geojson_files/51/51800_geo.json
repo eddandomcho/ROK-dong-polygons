@@ -12329,7 +12329,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "51800",
+        "sig_cd": 51800,
         "sig_eng_nm": "Yanggu-gun",
         "full_nm": "강원특별자치도 양구군",
         "sig_kor_nm": "양구군"

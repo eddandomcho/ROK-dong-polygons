@@ -114612,7 +114612,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Jeju-do",
-        "ctprvn_cd": "50",
+        "ctprvn_cd": 50,
         "ctp_kor_nm": "제주특별자치도"
       }
     }

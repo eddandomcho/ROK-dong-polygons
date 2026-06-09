@@ -7,7 +7,7 @@
         "emd_eng_nm": "Bullo-dong",
         "emd_kor_nm": "불로동",
         "full_nm": "광주광역시 동구 불로동",
-        "emd_cd": "29110116"
+        "emd_cd": 29110116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -701,7 +701,7 @@
         "emd_eng_nm": "Hwanggeum-dong",
         "emd_kor_nm": "황금동",
         "full_nm": "광주광역시 동구 황금동",
-        "emd_cd": "29110117"
+        "emd_cd": 29110117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1611,7 +1611,7 @@
         "emd_eng_nm": "Jangdeok-dong",
         "emd_kor_nm": "장덕동",
         "full_nm": "광주광역시 광산구 장덕동",
-        "emd_cd": "29200123"
+        "emd_cd": 29200123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3281,7 +3281,7 @@
         "emd_eng_nm": "Jingok-dong",
         "emd_kor_nm": "진곡동",
         "full_nm": "광주광역시 광산구 진곡동",
-        "emd_cd": "29200122"
+        "emd_cd": 29200122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4655,7 +4655,7 @@
         "emd_eng_nm": "Chungjangno 2(i)-ga",
         "emd_kor_nm": "충장로2가",
         "full_nm": "광주광역시 동구 충장로2가",
-        "emd_cd": "29110128"
+        "emd_cd": 29110128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5113,7 +5113,7 @@
         "emd_eng_nm": "Chungjangno 3(sam)-ga",
         "emd_kor_nm": "충장로3가",
         "full_nm": "광주광역시 동구 충장로3가",
-        "emd_cd": "29110129"
+        "emd_cd": 29110129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5531,7 +5531,7 @@
         "emd_eng_nm": "Dongsan-dong",
         "emd_kor_nm": "동산동",
         "full_nm": "광주광역시 광산구 동산동",
-        "emd_cd": "29200154"
+        "emd_cd": 29200154
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7917,7 +7917,7 @@
         "emd_eng_nm": "Yeonsan-dong",
         "emd_kor_nm": "연산동",
         "full_nm": "광주광역시 광산구 연산동",
-        "emd_cd": "29200155"
+        "emd_cd": 29200155
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9891,7 +9891,7 @@
         "emd_eng_nm": "Wolsan-dong",
         "emd_kor_nm": "월산동",
         "full_nm": "광주광역시 남구 월산동",
-        "emd_cd": "29155104"
+        "emd_cd": 29155104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10993,7 +10993,7 @@
         "emd_eng_nm": "Baegun-dong",
         "emd_kor_nm": "백운동",
         "full_nm": "광주광역시 남구 백운동",
-        "emd_cd": "29155105"
+        "emd_cd": 29155105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12243,7 +12243,7 @@
         "emd_eng_nm": "Mareuk-dong",
         "emd_kor_nm": "마륵동",
         "full_nm": "광주광역시 서구 마륵동",
-        "emd_cd": "29140131"
+        "emd_cd": 29140131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14565,7 +14565,7 @@
         "emd_eng_nm": "Geumho-dong",
         "emd_kor_nm": "금호동",
         "full_nm": "광주광역시 서구 금호동",
-        "emd_cd": "29140130"
+        "emd_cd": 29140130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16299,7 +16299,7 @@
         "emd_eng_nm": "Jungheung-dong",
         "emd_kor_nm": "중흥동",
         "full_nm": "광주광역시 북구 중흥동",
-        "emd_cd": "29170101"
+        "emd_cd": 29170101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17689,7 +17689,7 @@
         "emd_eng_nm": "Yang-dong",
         "emd_kor_nm": "양동",
         "full_nm": "광주광역시 서구 양동",
-        "emd_cd": "29140104"
+        "emd_cd": 29140104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19239,7 +19239,7 @@
         "emd_eng_nm": "Deungim-dong",
         "emd_kor_nm": "등임동",
         "full_nm": "광주광역시 광산구 등임동",
-        "emd_cd": "29200129"
+        "emd_cd": 29200129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20917,7 +20917,7 @@
         "emd_eng_nm": "Sugok-dong",
         "emd_kor_nm": "수곡동",
         "full_nm": "광주광역시 북구 수곡동",
-        "emd_cd": "29170134"
+        "emd_cd": 29170134
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22483,7 +22483,7 @@
         "emd_eng_nm": "Hyoryeong-dong",
         "emd_kor_nm": "효령동",
         "full_nm": "광주광역시 북구 효령동",
-        "emd_cd": "29170135"
+        "emd_cd": 29170135
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24189,7 +24189,7 @@
         "emd_eng_nm": "Wolgok-dong",
         "emd_kor_nm": "월곡동",
         "full_nm": "광주광역시 광산구 월곡동",
-        "emd_cd": "29200128"
+        "emd_cd": 29200128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25083,7 +25083,7 @@
         "emd_eng_nm": "Wolseong-dong",
         "emd_kor_nm": "월성동",
         "full_nm": "광주광역시 남구 월성동",
-        "emd_cd": "29155130"
+        "emd_cd": 29155130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26593,7 +26593,7 @@
         "emd_eng_nm": "Samgeo-dong",
         "emd_kor_nm": "삼거동",
         "full_nm": "광주광역시 광산구 삼거동",
-        "emd_cd": "29200160"
+        "emd_cd": 29200160
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28323,7 +28323,7 @@
         "emd_eng_nm": "Yang-dong",
         "emd_kor_nm": "양동",
         "full_nm": "광주광역시 광산구 양동",
-        "emd_cd": "29200161"
+        "emd_cd": 29200161
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29445,7 +29445,7 @@
         "emd_eng_nm": "Sanwol-dong",
         "emd_kor_nm": "산월동",
         "full_nm": "광주광역시 광산구 산월동",
-        "emd_cd": "29200117"
+        "emd_cd": 29200117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30363,7 +30363,7 @@
         "emd_eng_nm": "Ssangam-dong",
         "emd_kor_nm": "쌍암동",
         "full_nm": "광주광역시 광산구 쌍암동",
-        "emd_cd": "29200116"
+        "emd_cd": 29200116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31053,7 +31053,7 @@
         "emd_eng_nm": "Hak-dong",
         "emd_kor_nm": "학동",
         "full_nm": "광주광역시 동구 학동",
-        "emd_cd": "29110122"
+        "emd_cd": 29110122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33375,7 +33375,7 @@
         "emd_eng_nm": "Wollam-dong",
         "emd_kor_nm": "월남동",
         "full_nm": "광주광역시 동구 월남동",
-        "emd_cd": "29110123"
+        "emd_cd": 29110123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34873,7 +34873,7 @@
         "emd_eng_nm": "Imgok-dong",
         "emd_kor_nm": "임곡동",
         "full_nm": "광주광역시 광산구 임곡동",
-        "emd_cd": "29200134"
+        "emd_cd": 29200134
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36043,7 +36043,7 @@
         "emd_eng_nm": "Yeonje-dong",
         "emd_kor_nm": "연제동",
         "full_nm": "광주광역시 북구 연제동",
-        "emd_cd": "29170129"
+        "emd_cd": 29170129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37833,7 +37833,7 @@
         "emd_eng_nm": "Yangsan-dong",
         "emd_kor_nm": "양산동",
         "full_nm": "광주광역시 북구 양산동",
-        "emd_cd": "29170128"
+        "emd_cd": 29170128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40023,7 +40023,7 @@
         "emd_eng_nm": "Gwangsan-dong",
         "emd_kor_nm": "광산동",
         "full_nm": "광주광역시 광산구 광산동",
-        "emd_cd": "29200135"
+        "emd_cd": 29200135
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41401,7 +41401,7 @@
         "emd_eng_nm": "Ssangchon-dong",
         "emd_kor_nm": "쌍촌동",
         "full_nm": "광주광역시 서구 쌍촌동",
-        "emd_cd": "29140118"
+        "emd_cd": 29140118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44999,7 +44999,7 @@
         "emd_eng_nm": "Hwajeong-dong",
         "emd_kor_nm": "화정동",
         "full_nm": "광주광역시 서구 화정동",
-        "emd_cd": "29140119"
+        "emd_cd": 29140119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47361,7 +47361,7 @@
         "emd_eng_nm": "Daein-dong",
         "emd_kor_nm": "대인동",
         "full_nm": "광주광역시 동구 대인동",
-        "emd_cd": "29110101"
+        "emd_cd": 29110101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48619,7 +48619,7 @@
         "emd_eng_nm": "Seha-dong",
         "emd_kor_nm": "세하동",
         "full_nm": "광주광역시 서구 세하동",
-        "emd_cd": "29140126"
+        "emd_cd": 29140126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50805,7 +50805,7 @@
         "emd_eng_nm": "Yongdu-dong",
         "emd_kor_nm": "용두동",
         "full_nm": "광주광역시 서구 용두동",
-        "emd_cd": "29140127"
+        "emd_cd": 29140127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52375,7 +52375,7 @@
         "emd_eng_nm": "Maegok-dong",
         "emd_kor_nm": "매곡동",
         "full_nm": "광주광역시 북구 매곡동",
-        "emd_cd": "29170117"
+        "emd_cd": 29170117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53785,7 +53785,7 @@
         "emd_eng_nm": "Samgak-dong",
         "emd_kor_nm": "삼각동",
         "full_nm": "광주광역시 북구 삼각동",
-        "emd_cd": "29170116"
+        "emd_cd": 29170116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55427,7 +55427,7 @@
         "emd_eng_nm": "Yangnim-dong",
         "emd_kor_nm": "양림동",
         "full_nm": "광주광역시 남구 양림동",
-        "emd_cd": "29155113"
+        "emd_cd": 29155113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56225,7 +56225,7 @@
         "emd_eng_nm": "Songha-dong",
         "emd_kor_nm": "송하동",
         "full_nm": "광주광역시 남구 송하동",
-        "emd_cd": "29155112"
+        "emd_cd": 29155112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57731,7 +57731,7 @@
         "emd_eng_nm": "Bongnyong-dong",
         "emd_kor_nm": "복룡동",
         "full_nm": "광주광역시 광산구 복룡동",
-        "emd_cd": "29200143"
+        "emd_cd": 29200143
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58907,7 +58907,7 @@
         "emd_eng_nm": "Yogi-dong",
         "emd_kor_nm": "요기동",
         "full_nm": "광주광역시 광산구 요기동",
-        "emd_cd": "29200142"
+        "emd_cd": 29200142
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60869,7 +60869,7 @@
         "emd_eng_nm": "Yangsan-dong",
         "emd_kor_nm": "양산동",
         "full_nm": "광주광역시 광산구 양산동",
-        "emd_cd": "29200177"
+        "emd_cd": 29200177
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61875,7 +61875,7 @@
         "emd_eng_nm": "Deongnim-dong",
         "emd_kor_nm": "덕림동",
         "full_nm": "광주광역시 광산구 덕림동",
-        "emd_cd": "29200176"
+        "emd_cd": 29200176
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63883,7 +63883,7 @@
         "emd_eng_nm": "Ijang-dong",
         "emd_kor_nm": "이장동",
         "full_nm": "광주광역시 남구 이장동",
-        "emd_cd": "29155127"
+        "emd_cd": 29155127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65661,7 +65661,7 @@
         "emd_eng_nm": "Yanggwa-dong",
         "emd_kor_nm": "양과동",
         "full_nm": "광주광역시 남구 양과동",
-        "emd_cd": "29155126"
+        "emd_cd": 29155126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68223,7 +68223,7 @@
         "emd_eng_nm": "Hwaam-dong",
         "emd_kor_nm": "화암동",
         "full_nm": "광주광역시 북구 화암동",
-        "emd_cd": "29170123"
+        "emd_cd": 29170123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69381,7 +69381,7 @@
         "emd_eng_nm": "Cheongpung-dong",
         "emd_kor_nm": "청풍동",
         "full_nm": "광주광역시 북구 청풍동",
-        "emd_cd": "29170122"
+        "emd_cd": 29170122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71095,7 +71095,7 @@
         "emd_eng_nm": "Geumnamno 4(sa)-ga",
         "emd_kor_nm": "금남로4가",
         "full_nm": "광주광역시 동구 금남로4가",
-        "emd_cd": "29110134"
+        "emd_cd": 29110134
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71657,7 +71657,7 @@
         "emd_eng_nm": "Jijuk-dong",
         "emd_kor_nm": "지죽동",
         "full_nm": "광주광역시 광산구 지죽동",
-        "emd_cd": "29200149"
+        "emd_cd": 29200149
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72595,7 +72595,7 @@
         "emd_eng_nm": "Songchon-dong",
         "emd_kor_nm": "송촌동",
         "full_nm": "광주광역시 광산구 송촌동",
-        "emd_cd": "29200148"
+        "emd_cd": 29200148
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73493,7 +73493,7 @@
         "emd_eng_nm": "Seungchon-dong",
         "emd_kor_nm": "승촌동",
         "full_nm": "광주광역시 남구 승촌동",
-        "emd_cd": "29155119"
+        "emd_cd": 29155119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75015,7 +75015,7 @@
         "emd_eng_nm": "Dogeum-dong",
         "emd_kor_nm": "도금동",
         "full_nm": "광주광역시 남구 도금동",
-        "emd_cd": "29155118"
+        "emd_cd": 29155118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76017,7 +76017,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "광주광역시 광산구 송정동",
-        "emd_cd": "29200101"
+        "emd_cd": 29200101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78391,7 +78391,7 @@
         "emd_eng_nm": "Dujeong-dong",
         "emd_kor_nm": "두정동",
         "full_nm": "광주광역시 광산구 두정동",
-        "emd_cd": "29200133"
+        "emd_cd": 29200133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79681,7 +79681,7 @@
         "emd_eng_nm": "Sillyong-dong",
         "emd_kor_nm": "신룡동",
         "full_nm": "광주광역시 광산구 신룡동",
-        "emd_cd": "29200132"
+        "emd_cd": 29200132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81559,7 +81559,7 @@
         "emd_eng_nm": "Gung-dong",
         "emd_kor_nm": "궁동",
         "full_nm": "광주광역시 동구 궁동",
-        "emd_cd": "29110106"
+        "emd_cd": 29110106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82569,7 +82569,7 @@
         "emd_eng_nm": "Jang-dong",
         "emd_kor_nm": "장동",
         "full_nm": "광주광역시 동구 장동",
-        "emd_cd": "29110107"
+        "emd_cd": 29110107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83751,7 +83751,7 @@
         "emd_eng_nm": "Bangnim-dong",
         "emd_kor_nm": "방림동",
         "full_nm": "광주광역시 남구 방림동",
-        "emd_cd": "29155114"
+        "emd_cd": 29155114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84757,7 +84757,7 @@
         "emd_eng_nm": "Bongseon-dong",
         "emd_kor_nm": "봉선동",
         "full_nm": "광주광역시 남구 봉선동",
-        "emd_cd": "29155115"
+        "emd_cd": 29155115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86207,7 +86207,7 @@
         "emd_eng_nm": "Naebang-dong",
         "emd_kor_nm": "내방동",
         "full_nm": "광주광역시 서구 내방동",
-        "emd_cd": "29140121"
+        "emd_cd": 29140121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88325,7 +88325,7 @@
         "emd_eng_nm": "Chipyeong-dong",
         "emd_kor_nm": "치평동",
         "full_nm": "광주광역시 서구 치평동",
-        "emd_cd": "29140120"
+        "emd_cd": 29140120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91563,7 +91563,7 @@
         "emd_eng_nm": "Usan-dong",
         "emd_kor_nm": "우산동",
         "full_nm": "광주광역시 북구 우산동",
-        "emd_cd": "29170110"
+        "emd_cd": 29170110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92857,7 +92857,7 @@
         "emd_eng_nm": "Punghyang-dong",
         "emd_kor_nm": "풍향동",
         "full_nm": "광주광역시 북구 풍향동",
-        "emd_cd": "29170111"
+        "emd_cd": 29170111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93827,7 +93827,7 @@
         "emd_eng_nm": "Songdae-dong",
         "emd_kor_nm": "송대동",
         "full_nm": "광주광역시 광산구 송대동",
-        "emd_cd": "29200144"
+        "emd_cd": 29200144
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95145,7 +95145,7 @@
         "emd_eng_nm": "Ok-dong",
         "emd_kor_nm": "옥동",
         "full_nm": "광주광역시 광산구 옥동",
-        "emd_cd": "29200145"
+        "emd_cd": 29200145
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96451,7 +96451,7 @@
         "emd_eng_nm": "Seon-dong",
         "emd_kor_nm": "선동",
         "full_nm": "광주광역시 광산구 선동",
-        "emd_cd": "29200170"
+        "emd_cd": 29200170
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97725,7 +97725,7 @@
         "emd_eng_nm": "Jisan-dong",
         "emd_kor_nm": "지산동",
         "full_nm": "광주광역시 광산구 지산동",
-        "emd_cd": "29200171"
+        "emd_cd": 29200171
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98747,7 +98747,7 @@
         "emd_eng_nm": "Gwangcheon-dong",
         "emd_kor_nm": "광천동",
         "full_nm": "광주광역시 서구 광천동",
-        "emd_cd": "29140115"
+        "emd_cd": 29140115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100649,7 +100649,7 @@
         "emd_eng_nm": "Jangdeung-dong",
         "emd_kor_nm": "장등동",
         "full_nm": "광주광역시 북구 장등동",
-        "emd_cd": "29170124"
+        "emd_cd": 29170124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102283,7 +102283,7 @@
         "emd_eng_nm": "Yugye-dong",
         "emd_kor_nm": "유계동",
         "full_nm": "광주광역시 광산구 유계동",
-        "emd_cd": "29200139"
+        "emd_cd": 29200139
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103845,7 +103845,7 @@
         "emd_eng_nm": "Hasan-dong",
         "emd_kor_nm": "하산동",
         "full_nm": "광주광역시 광산구 하산동",
-        "emd_cd": "29200138"
+        "emd_cd": 29200138
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105423,7 +105423,7 @@
         "emd_eng_nm": "Unjeong-dong",
         "emd_kor_nm": "운정동",
         "full_nm": "광주광역시 북구 운정동",
-        "emd_cd": "29170125"
+        "emd_cd": 29170125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106585,7 +106585,7 @@
         "emd_eng_nm": "Jiseok-dong",
         "emd_kor_nm": "지석동",
         "full_nm": "광주광역시 남구 지석동",
-        "emd_cd": "29155120"
+        "emd_cd": 29155120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108023,7 +108023,7 @@
         "emd_eng_nm": "Apchon-dong",
         "emd_kor_nm": "압촌동",
         "full_nm": "광주광역시 남구 압촌동",
-        "emd_cd": "29155121"
+        "emd_cd": 29155121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109501,7 +109501,7 @@
         "emd_eng_nm": "Geumnamno 2(i)-ga",
         "emd_kor_nm": "금남로2가",
         "full_nm": "광주광역시 동구 금남로2가",
-        "emd_cd": "29110132"
+        "emd_cd": 29110132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109967,7 +109967,7 @@
         "emd_eng_nm": "Geumnamno 3(sam)-ga",
         "emd_kor_nm": "금남로3가",
         "full_nm": "광주광역시 동구 금남로3가",
-        "emd_cd": "29110133"
+        "emd_cd": 29110133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110401,7 +110401,7 @@
         "emd_eng_nm": "Seonam-dong",
         "emd_kor_nm": "선암동",
         "full_nm": "광주광역시 광산구 선암동",
-        "emd_cd": "29200107"
+        "emd_cd": 29200107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112147,7 +112147,7 @@
         "emd_eng_nm": "Unsu-dong",
         "emd_kor_nm": "운수동",
         "full_nm": "광주광역시 광산구 운수동",
-        "emd_cd": "29200106"
+        "emd_cd": 29200106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114057,7 +114057,7 @@
         "emd_eng_nm": "Jisan-dong",
         "emd_kor_nm": "지산동",
         "full_nm": "광주광역시 동구 지산동",
-        "emd_cd": "29110111"
+        "emd_cd": 29110111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116379,7 +116379,7 @@
         "emd_eng_nm": "Sansu-dong",
         "emd_kor_nm": "산수동",
         "full_nm": "광주광역시 동구 산수동",
-        "emd_cd": "29110110"
+        "emd_cd": 29110110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117973,7 +117973,7 @@
         "emd_eng_nm": "Oseon-dong",
         "emd_kor_nm": "오선동",
         "full_nm": "광주광역시 광산구 오선동",
-        "emd_cd": "29200202"
+        "emd_cd": 29200202
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119207,7 +119207,7 @@
         "emd_eng_nm": "Wolchul-dong",
         "emd_kor_nm": "월출동",
         "full_nm": "광주광역시 북구 월출동",
-        "emd_cd": "29170139"
+        "emd_cd": 29170139
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122117,7 +122117,7 @@
         "emd_eng_nm": "Heukseok-dong",
         "emd_kor_nm": "흑석동",
         "full_nm": "광주광역시 광산구 흑석동",
-        "emd_cd": "29200124"
+        "emd_cd": 29200124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122931,7 +122931,7 @@
         "emd_eng_nm": "Hanam-dong",
         "emd_kor_nm": "하남동",
         "full_nm": "광주광역시 광산구 하남동",
-        "emd_cd": "29200125"
+        "emd_cd": 29200125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -125129,7 +125129,7 @@
         "emd_eng_nm": "Saengyong-dong",
         "emd_kor_nm": "생용동",
         "full_nm": "광주광역시 북구 생용동",
-        "emd_cd": "29170138"
+        "emd_cd": 29170138
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126643,7 +126643,7 @@
         "emd_eng_nm": "Myeonghwa-dong",
         "emd_kor_nm": "명화동",
         "full_nm": "광주광역시 광산구 명화동",
-        "emd_cd": "29200153"
+        "emd_cd": 29200153
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128109,7 +128109,7 @@
         "emd_eng_nm": "Jijeong-dong",
         "emd_kor_nm": "지정동",
         "full_nm": "광주광역시 광산구 지정동",
-        "emd_cd": "29200152"
+        "emd_cd": 29200152
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129759,7 +129759,7 @@
         "emd_eng_nm": "Yongbong-dong",
         "emd_kor_nm": "용봉동",
         "full_nm": "광주광역시 북구 용봉동",
-        "emd_cd": "29170107"
+        "emd_cd": 29170107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -132437,7 +132437,7 @@
         "emd_eng_nm": "Sinan-dong",
         "emd_kor_nm": "신안동",
         "full_nm": "광주광역시 북구 신안동",
-        "emd_cd": "29170106"
+        "emd_cd": 29170106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134439,7 +134439,7 @@
         "emd_eng_nm": "Seo-dong",
         "emd_kor_nm": "서동",
         "full_nm": "광주광역시 남구 서동",
-        "emd_cd": "29155103"
+        "emd_cd": 29155103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135897,7 +135897,7 @@
         "emd_eng_nm": "Gu-dong",
         "emd_kor_nm": "구동",
         "full_nm": "광주광역시 남구 구동",
-        "emd_cd": "29155102"
+        "emd_cd": 29155102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136707,7 +136707,7 @@
         "emd_eng_nm": "Taeryeong-dong",
         "emd_kor_nm": "태령동",
         "full_nm": "광주광역시 북구 태령동",
-        "emd_cd": "29170133"
+        "emd_cd": 29170133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138085,7 +138085,7 @@
         "emd_eng_nm": "Jiya-dong",
         "emd_kor_nm": "지야동",
         "full_nm": "광주광역시 북구 지야동",
-        "emd_cd": "29170132"
+        "emd_cd": 29170132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140051,7 +140051,7 @@
         "emd_eng_nm": "Namsan-dong",
         "emd_kor_nm": "남산동",
         "full_nm": "광주광역시 광산구 남산동",
-        "emd_cd": "29200167"
+        "emd_cd": 29200167
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142001,7 +142001,7 @@
         "emd_eng_nm": "Samdo-dong",
         "emd_kor_nm": "삼도동",
         "full_nm": "광주광역시 광산구 삼도동",
-        "emd_cd": "29200166"
+        "emd_cd": 29200166
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143447,7 +143447,7 @@
         "emd_eng_nm": "Deongnam-dong",
         "emd_kor_nm": "덕남동",
         "full_nm": "광주광역시 남구 덕남동",
-        "emd_cd": "29155109"
+        "emd_cd": 29155109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -144825,7 +144825,7 @@
         "emd_eng_nm": "Jinwol-dong",
         "emd_kor_nm": "진월동",
         "full_nm": "광주광역시 남구 진월동",
-        "emd_cd": "29155108"
+        "emd_cd": 29155108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147343,7 +147343,7 @@
         "emd_eng_nm": "Hwangnyong-dong",
         "emd_kor_nm": "황룡동",
         "full_nm": "광주광역시 광산구 황룡동",
-        "emd_cd": "29200110"
+        "emd_cd": 29200110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148521,7 +148521,7 @@
         "emd_eng_nm": "Bakho-dong",
         "emd_kor_nm": "박호동",
         "full_nm": "광주광역시 광산구 박호동",
-        "emd_cd": "29200111"
+        "emd_cd": 29200111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149859,7 +149859,7 @@
         "emd_eng_nm": "Naenam-dong",
         "emd_kor_nm": "내남동",
         "full_nm": "광주광역시 동구 내남동",
-        "emd_cd": "29110125"
+        "emd_cd": 29110125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151089,7 +151089,7 @@
         "emd_eng_nm": "Seongyo-dong",
         "emd_kor_nm": "선교동",
         "full_nm": "광주광역시 동구 선교동",
-        "emd_cd": "29110124"
+        "emd_cd": 29110124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152095,7 +152095,7 @@
         "emd_eng_nm": "Oun-dong",
         "emd_kor_nm": "오운동",
         "full_nm": "광주광역시 광산구 오운동",
-        "emd_cd": "29200159"
+        "emd_cd": 29200159
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -153837,7 +153837,7 @@
         "emd_eng_nm": "Jipyeong-dong",
         "emd_kor_nm": "지평동",
         "full_nm": "광주광역시 광산구 지평동",
-        "emd_cd": "29200158"
+        "emd_cd": 29200158
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155407,7 +155407,7 @@
         "emd_eng_nm": "Dongmyeong-dong",
         "emd_kor_nm": "동명동",
         "full_nm": "광주광역시 동구 동명동",
-        "emd_cd": "29110108"
+        "emd_cd": 29110108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157177,7 +157177,7 @@
         "emd_eng_nm": "Gyerim-dong",
         "emd_kor_nm": "계림동",
         "full_nm": "광주광역시 동구 계림동",
-        "emd_cd": "29110109"
+        "emd_cd": 29110109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158603,7 +158603,7 @@
         "emd_eng_nm": "Myeongdo-dong",
         "emd_kor_nm": "명도동",
         "full_nm": "광주광역시 광산구 명도동",
-        "emd_cd": "29200174"
+        "emd_cd": 29200174
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160077,7 +160077,7 @@
         "emd_eng_nm": "Dongho-dong",
         "emd_kor_nm": "동호동",
         "full_nm": "광주광역시 광산구 동호동",
-        "emd_cd": "29200175"
+        "emd_cd": 29200175
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -161335,7 +161335,7 @@
         "emd_eng_nm": "Seokjeong-dong",
         "emd_kor_nm": "석정동",
         "full_nm": "광주광역시 남구 석정동",
-        "emd_cd": "29155124"
+        "emd_cd": 29155124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -163009,7 +163009,7 @@
         "emd_eng_nm": "Sinjang-dong",
         "emd_kor_nm": "신장동",
         "full_nm": "광주광역시 남구 신장동",
-        "emd_cd": "29155125"
+        "emd_cd": 29155125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164435,7 +164435,7 @@
         "emd_eng_nm": "Geumgok-dong",
         "emd_kor_nm": "금곡동",
         "full_nm": "광주광역시 북구 금곡동",
-        "emd_cd": "29170120"
+        "emd_cd": 29170120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -165989,7 +165989,7 @@
         "emd_eng_nm": "Mangwol-dong",
         "emd_kor_nm": "망월동",
         "full_nm": "광주광역시 북구 망월동",
-        "emd_cd": "29170121"
+        "emd_cd": 29170121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167783,7 +167783,7 @@
         "emd_eng_nm": "Doho-dong",
         "emd_kor_nm": "도호동",
         "full_nm": "광주광역시 광산구 도호동",
-        "emd_cd": "29200103"
+        "emd_cd": 29200103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -170021,7 +170021,7 @@
         "emd_eng_nm": "Dosan-dong",
         "emd_kor_nm": "도산동",
         "full_nm": "광주광역시 광산구 도산동",
-        "emd_cd": "29200102"
+        "emd_cd": 29200102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173483,7 +173483,7 @@
         "emd_eng_nm": "Saho-dong",
         "emd_kor_nm": "사호동",
         "full_nm": "광주광역시 광산구 사호동",
-        "emd_cd": "29200137"
+        "emd_cd": 29200137
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174325,7 +174325,7 @@
         "emd_eng_nm": "Osan-dong",
         "emd_kor_nm": "오산동",
         "full_nm": "광주광역시 광산구 오산동",
-        "emd_cd": "29200136"
+        "emd_cd": 29200136
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -175851,7 +175851,7 @@
         "emd_eng_nm": "Geumnamno 5(o)-ga",
         "emd_kor_nm": "금남로5가",
         "full_nm": "광주광역시 동구 금남로5가",
-        "emd_cd": "29110102"
+        "emd_cd": 29110102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -177313,7 +177313,7 @@
         "emd_eng_nm": "Chungjangno 5(o)-ga",
         "emd_kor_nm": "충장로5가",
         "full_nm": "광주광역시 동구 충장로5가",
-        "emd_cd": "29110103"
+        "emd_cd": 29110103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -178919,7 +178919,7 @@
         "emd_eng_nm": "Usan-dong",
         "emd_kor_nm": "우산동",
         "full_nm": "광주광역시 광산구 우산동",
-        "emd_cd": "29200109"
+        "emd_cd": 29200109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180699,7 +180699,7 @@
         "emd_eng_nm": "Duam-dong",
         "emd_kor_nm": "두암동",
         "full_nm": "광주광역시 북구 두암동",
-        "emd_cd": "29170114"
+        "emd_cd": 29170114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -182461,7 +182461,7 @@
         "emd_eng_nm": "Ochi-dong",
         "emd_kor_nm": "오치동",
         "full_nm": "광주광역시 북구 오치동",
-        "emd_cd": "29170115"
+        "emd_cd": 29170115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -184559,7 +184559,7 @@
         "emd_eng_nm": "Sochon-dong",
         "emd_kor_nm": "소촌동",
         "full_nm": "광주광역시 광산구 소촌동",
-        "emd_cd": "29200108"
+        "emd_cd": 29200108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -187061,7 +187061,7 @@
         "emd_eng_nm": "Seochang-dong",
         "emd_kor_nm": "서창동",
         "full_nm": "광주광역시 서구 서창동",
-        "emd_cd": "29140125"
+        "emd_cd": 29140125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189547,7 +189547,7 @@
         "emd_eng_nm": "Haengam-dong",
         "emd_kor_nm": "행암동",
         "full_nm": "광주광역시 남구 행암동",
-        "emd_cd": "29155110"
+        "emd_cd": 29155110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191581,7 +191581,7 @@
         "emd_eng_nm": "Imam-dong",
         "emd_kor_nm": "임암동",
         "full_nm": "광주광역시 남구 임암동",
-        "emd_cd": "29155111"
+        "emd_cd": 29155111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -193087,7 +193087,7 @@
         "emd_eng_nm": "Bondeok-dong",
         "emd_kor_nm": "본덕동",
         "full_nm": "광주광역시 광산구 본덕동",
-        "emd_cd": "29200140"
+        "emd_cd": 29200140
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194685,7 +194685,7 @@
         "emd_eng_nm": "Yongbong-dong",
         "emd_kor_nm": "용봉동",
         "full_nm": "광주광역시 광산구 용봉동",
-        "emd_cd": "29200141"
+        "emd_cd": 29200141
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195683,7 +195683,7 @@
         "emd_eng_nm": "Yonggang-dong",
         "emd_kor_nm": "용강동",
         "full_nm": "광주광역시 북구 용강동",
-        "emd_cd": "29170137"
+        "emd_cd": 29170137
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -197637,7 +197637,7 @@
         "emd_eng_nm": "Yongjeon-dong",
         "emd_kor_nm": "용전동",
         "full_nm": "광주광역시 북구 용전동",
-        "emd_cd": "29170136"
+        "emd_cd": 29170136
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200263,7 +200263,7 @@
         "emd_eng_nm": "Nongseong-dong",
         "emd_kor_nm": "농성동",
         "full_nm": "광주광역시 서구 농성동",
-        "emd_cd": "29140106"
+        "emd_cd": 29140106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201833,7 +201833,7 @@
         "emd_eng_nm": "Daesan-dong",
         "emd_kor_nm": "대산동",
         "full_nm": "광주광역시 광산구 대산동",
-        "emd_cd": "29200163"
+        "emd_cd": 29200163
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203115,7 +203115,7 @@
         "emd_eng_nm": "Naesan-dong",
         "emd_kor_nm": "내산동",
         "full_nm": "광주광역시 광산구 내산동",
-        "emd_cd": "29200162"
+        "emd_cd": 29200162
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204461,7 +204461,7 @@
         "emd_eng_nm": "Suwan-dong",
         "emd_kor_nm": "수완동",
         "full_nm": "광주광역시 광산구 수완동",
-        "emd_cd": "29200114"
+        "emd_cd": 29200114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206707,7 +206707,7 @@
         "emd_eng_nm": "Unam-dong",
         "emd_kor_nm": "운암동",
         "full_nm": "광주광역시 북구 운암동",
-        "emd_cd": "29170109"
+        "emd_cd": 29170109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -209789,7 +209789,7 @@
         "emd_eng_nm": "Dongnim-dong",
         "emd_kor_nm": "동림동",
         "full_nm": "광주광역시 북구 동림동",
-        "emd_cd": "29170108"
+        "emd_cd": 29170108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -212135,7 +212135,7 @@
         "emd_eng_nm": "Wolgye-dong",
         "emd_kor_nm": "월계동",
         "full_nm": "광주광역시 광산구 월계동",
-        "emd_cd": "29200115"
+        "emd_cd": 29200115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213489,7 +213489,7 @@
         "emd_eng_nm": "Daechon-dong",
         "emd_kor_nm": "대촌동",
         "full_nm": "광주광역시 북구 대촌동",
-        "emd_cd": "29170140"
+        "emd_cd": 29170140
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215279,7 +215279,7 @@
         "emd_eng_nm": "Oryong-dong",
         "emd_kor_nm": "오룡동",
         "full_nm": "광주광역시 북구 오룡동",
-        "emd_cd": "29170141"
+        "emd_cd": 29170141
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -217633,7 +217633,7 @@
         "emd_eng_nm": "Ullim-dong",
         "emd_kor_nm": "운림동",
         "full_nm": "광주광역시 동구 운림동",
-        "emd_cd": "29110121"
+        "emd_cd": 29110121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219083,7 +219083,7 @@
         "emd_eng_nm": "Yongyeon-dong",
         "emd_kor_nm": "용연동",
         "full_nm": "광주광역시 동구 용연동",
-        "emd_cd": "29110120"
+        "emd_cd": 29110120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220461,7 +220461,7 @@
         "emd_eng_nm": "Honam-dong",
         "emd_kor_nm": "호남동",
         "full_nm": "광주광역시 동구 호남동",
-        "emd_cd": "29110115"
+        "emd_cd": 29110115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -221123,7 +221123,7 @@
         "emd_eng_nm": "Geum-dong",
         "emd_kor_nm": "금동",
         "full_nm": "광주광역시 동구 금동",
-        "emd_cd": "29110114"
+        "emd_cd": 29110114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222037,7 +222037,7 @@
         "emd_eng_nm": "Sansu-dong",
         "emd_kor_nm": "산수동",
         "full_nm": "광주광역시 광산구 산수동",
-        "emd_cd": "29200169"
+        "emd_cd": 29200169
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -223039,7 +223039,7 @@
         "emd_eng_nm": "Songchi-dong",
         "emd_kor_nm": "송치동",
         "full_nm": "광주광역시 광산구 송치동",
-        "emd_cd": "29200168"
+        "emd_cd": 29200168
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224265,7 +224265,7 @@
         "emd_eng_nm": "Unnam-dong",
         "emd_kor_nm": "운남동",
         "full_nm": "광주광역시 광산구 운남동",
-        "emd_cd": "29200120"
+        "emd_cd": 29200120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -225799,7 +225799,7 @@
         "emd_eng_nm": "Ancheong-dong",
         "emd_kor_nm": "안청동",
         "full_nm": "광주광역시 광산구 안청동",
-        "emd_cd": "29200121"
+        "emd_cd": 29200121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -227185,7 +227185,7 @@
         "emd_eng_nm": "Songsan-dong",
         "emd_kor_nm": "송산동",
         "full_nm": "광주광역시 광산구 송산동",
-        "emd_cd": "29200157"
+        "emd_cd": 29200157
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229775,7 +229775,7 @@
         "emd_eng_nm": "Dodeok-dong",
         "emd_kor_nm": "도덕동",
         "full_nm": "광주광역시 광산구 도덕동",
-        "emd_cd": "29200156"
+        "emd_cd": 29200156
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231901,7 +231901,7 @@
         "emd_eng_nm": "Nodae-dong",
         "emd_kor_nm": "노대동",
         "full_nm": "광주광역시 남구 노대동",
-        "emd_cd": "29155107"
+        "emd_cd": 29155107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -233567,7 +233567,7 @@
         "emd_eng_nm": "Juwol-dong",
         "emd_kor_nm": "주월동",
         "full_nm": "광주광역시 남구 주월동",
-        "emd_cd": "29155106"
+        "emd_cd": 29155106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235353,7 +235353,7 @@
         "emd_eng_nm": "Numun-dong",
         "emd_kor_nm": "누문동",
         "full_nm": "광주광역시 북구 누문동",
-        "emd_cd": "29170103"
+        "emd_cd": 29170103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -236203,7 +236203,7 @@
         "emd_eng_nm": "Yu-dong",
         "emd_kor_nm": "유동",
         "full_nm": "광주광역시 북구 유동",
-        "emd_cd": "29170102"
+        "emd_cd": 29170102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -237093,7 +237093,7 @@
         "emd_eng_nm": "Maewol-dong",
         "emd_kor_nm": "매월동",
         "full_nm": "광주광역시 서구 매월동",
-        "emd_cd": "29140132"
+        "emd_cd": 29140132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -238763,7 +238763,7 @@
         "emd_eng_nm": "Dongcheon-dong",
         "emd_kor_nm": "동천동",
         "full_nm": "광주광역시 서구 동천동",
-        "emd_cd": "29140133"
+        "emd_cd": 29140133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -239605,7 +239605,7 @@
         "emd_eng_nm": "Sinyong-dong",
         "emd_kor_nm": "신용동",
         "full_nm": "광주광역시 북구 신용동",
-        "emd_cd": "29170130"
+        "emd_cd": 29170130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -240839,7 +240839,7 @@
         "emd_eng_nm": "Yongdu-dong",
         "emd_kor_nm": "용두동",
         "full_nm": "광주광역시 북구 용두동",
-        "emd_cd": "29170131"
+        "emd_cd": 29170131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -242973,7 +242973,7 @@
         "emd_eng_nm": "Seoseok-dong",
         "emd_kor_nm": "서석동",
         "full_nm": "광주광역시 동구 서석동",
-        "emd_cd": "29110118"
+        "emd_cd": 29110118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -245559,7 +245559,7 @@
         "emd_eng_nm": "Sotae-dong",
         "emd_kor_nm": "소태동",
         "full_nm": "광주광역시 동구 소태동",
-        "emd_cd": "29110119"
+        "emd_cd": 29110119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247089,7 +247089,7 @@
         "emd_eng_nm": "Songhak-dong",
         "emd_kor_nm": "송학동",
         "full_nm": "광주광역시 광산구 송학동",
-        "emd_cd": "29200164"
+        "emd_cd": 29200164
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -248539,7 +248539,7 @@
         "emd_eng_nm": "Sin-dong",
         "emd_kor_nm": "신동",
         "full_nm": "광주광역시 광산구 신동",
-        "emd_cd": "29200165"
+        "emd_cd": 29200165
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -250389,7 +250389,7 @@
         "emd_eng_nm": "Docheon-dong",
         "emd_kor_nm": "도천동",
         "full_nm": "광주광역시 광산구 도천동",
-        "emd_cd": "29200113"
+        "emd_cd": 29200113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -251811,7 +251811,7 @@
         "emd_eng_nm": "Bia-dong",
         "emd_kor_nm": "비아동",
         "full_nm": "광주광역시 광산구 비아동",
-        "emd_cd": "29200112"
+        "emd_cd": 29200112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253877,7 +253877,7 @@
         "emd_eng_nm": "Yongsan-dong",
         "emd_kor_nm": "용산동",
         "full_nm": "광주광역시 동구 용산동",
-        "emd_cd": "29110126"
+        "emd_cd": 29110126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255347,7 +255347,7 @@
         "emd_eng_nm": "Chungjangno 1(il)-ga",
         "emd_kor_nm": "충장로1가",
         "full_nm": "광주광역시 동구 충장로1가",
-        "emd_cd": "29110127"
+        "emd_cd": 29110127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255773,7 +255773,7 @@
         "emd_eng_nm": "Nam-dong",
         "emd_kor_nm": "남동",
         "full_nm": "광주광역시 동구 남동",
-        "emd_cd": "29110112"
+        "emd_cd": 29110112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -256459,7 +256459,7 @@
         "emd_eng_nm": "Gwangsan-dong",
         "emd_kor_nm": "광산동",
         "full_nm": "광주광역시 동구 광산동",
-        "emd_cd": "29110113"
+        "emd_cd": 29110113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -257177,7 +257177,7 @@
         "emd_eng_nm": "Sanjeong-dong",
         "emd_kor_nm": "산정동",
         "full_nm": "광주광역시 광산구 산정동",
-        "emd_cd": "29200127"
+        "emd_cd": 29200127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -259279,7 +259279,7 @@
         "emd_eng_nm": "Jangsu-dong",
         "emd_kor_nm": "장수동",
         "full_nm": "광주광역시 광산구 장수동",
-        "emd_cd": "29200126"
+        "emd_cd": 29200126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260597,7 +260597,7 @@
         "emd_eng_nm": "Yong-dong",
         "emd_kor_nm": "용동",
         "full_nm": "광주광역시 광산구 용동",
-        "emd_cd": "29200150"
+        "emd_cd": 29200150
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -261843,7 +261843,7 @@
         "emd_eng_nm": "Yonggok-dong",
         "emd_kor_nm": "용곡동",
         "full_nm": "광주광역시 광산구 용곡동",
-        "emd_cd": "29200151"
+        "emd_cd": 29200151
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -263925,7 +263925,7 @@
         "emd_eng_nm": "Buk-dong",
         "emd_kor_nm": "북동",
         "full_nm": "광주광역시 북구 북동",
-        "emd_cd": "29170104"
+        "emd_cd": 29170104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265027,7 +265027,7 @@
         "emd_eng_nm": "Singa-dong",
         "emd_kor_nm": "신가동",
         "full_nm": "광주광역시 광산구 신가동",
-        "emd_cd": "29200119"
+        "emd_cd": 29200119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267185,7 +267185,7 @@
         "emd_eng_nm": "Sinchang-dong",
         "emd_kor_nm": "신창동",
         "full_nm": "광주광역시 광산구 신창동",
-        "emd_cd": "29200118"
+        "emd_cd": 29200118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -269067,7 +269067,7 @@
         "emd_eng_nm": "Im-dong",
         "emd_kor_nm": "임동",
         "full_nm": "광주광역시 북구 임동",
-        "emd_cd": "29170105"
+        "emd_cd": 29170105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270301,7 +270301,7 @@
         "emd_eng_nm": "Sa-dong",
         "emd_kor_nm": "사동",
         "full_nm": "광주광역시 남구 사동",
-        "emd_cd": "29155101"
+        "emd_cd": 29155101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270791,7 +270791,7 @@
         "emd_eng_nm": "Buksan-dong",
         "emd_kor_nm": "북산동",
         "full_nm": "광주광역시 광산구 북산동",
-        "emd_cd": "29200173"
+        "emd_cd": 29200173
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -272169,7 +272169,7 @@
         "emd_eng_nm": "Wang-dong",
         "emd_kor_nm": "왕동",
         "full_nm": "광주광역시 광산구 왕동",
-        "emd_cd": "29200172"
+        "emd_cd": 29200172
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -273083,7 +273083,7 @@
         "emd_eng_nm": "Ilgok-dong",
         "emd_kor_nm": "일곡동",
         "full_nm": "광주광역시 북구 일곡동",
-        "emd_cd": "29170127"
+        "emd_cd": 29170127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -275069,7 +275069,7 @@
         "emd_eng_nm": "Bonchon-dong",
         "emd_kor_nm": "본촌동",
         "full_nm": "광주광역시 북구 본촌동",
-        "emd_cd": "29170126"
+        "emd_cd": 29170126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -276611,7 +276611,7 @@
         "emd_eng_nm": "Yuchon-dong",
         "emd_kor_nm": "유촌동",
         "full_nm": "광주광역시 서구 유촌동",
-        "emd_cd": "29140116"
+        "emd_cd": 29140116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -277945,7 +277945,7 @@
         "emd_eng_nm": "Deokheung-dong",
         "emd_kor_nm": "덕흥동",
         "full_nm": "광주광역시 서구 덕흥동",
-        "emd_cd": "29140117"
+        "emd_cd": 29140117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -279367,7 +279367,7 @@
         "emd_eng_nm": "Chilseok-dong",
         "emd_kor_nm": "칠석동",
         "full_nm": "광주광역시 남구 칠석동",
-        "emd_cd": "29155123"
+        "emd_cd": 29155123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -281305,7 +281305,7 @@
         "emd_eng_nm": "Hwajang-dong",
         "emd_kor_nm": "화장동",
         "full_nm": "광주광역시 남구 화장동",
-        "emd_cd": "29155122"
+        "emd_cd": 29155122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284339,7 +284339,7 @@
         "emd_eng_nm": "Geumnamno 1(il)-ga",
         "emd_kor_nm": "금남로1가",
         "full_nm": "광주광역시 동구 금남로1가",
-        "emd_cd": "29110131"
+        "emd_cd": 29110131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284873,7 +284873,7 @@
         "emd_eng_nm": "Chungjangno 4(sa)-ga",
         "emd_kor_nm": "충장로4가",
         "full_nm": "광주광역시 동구 충장로4가",
-        "emd_cd": "29110130"
+        "emd_cd": 29110130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -285463,7 +285463,7 @@
         "emd_eng_nm": "Pungam-dong",
         "emd_kor_nm": "풍암동",
         "full_nm": "광주광역시 서구 풍암동",
-        "emd_cd": "29140128"
+        "emd_cd": 29140128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -287629,7 +287629,7 @@
         "emd_eng_nm": "Byeokjin-dong",
         "emd_kor_nm": "벽진동",
         "full_nm": "광주광역시 서구 벽진동",
-        "emd_cd": "29140129"
+        "emd_cd": 29140129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -289831,7 +289831,7 @@
         "emd_eng_nm": "Deogui-dong",
         "emd_kor_nm": "덕의동",
         "full_nm": "광주광역시 북구 덕의동",
-        "emd_cd": "29170119"
+        "emd_cd": 29170119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -291109,7 +291109,7 @@
         "emd_eng_nm": "Sinchon-dong",
         "emd_kor_nm": "신촌동",
         "full_nm": "광주광역시 광산구 신촌동",
-        "emd_cd": "29200104"
+        "emd_cd": 29200104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -293087,7 +293087,7 @@
         "emd_eng_nm": "Seobong-dong",
         "emd_kor_nm": "서봉동",
         "full_nm": "광주광역시 광산구 서봉동",
-        "emd_cd": "29200105"
+        "emd_cd": 29200105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -294137,7 +294137,7 @@
         "emd_eng_nm": "Chunghyo-dong",
         "emd_kor_nm": "충효동",
         "full_nm": "광주광역시 북구 충효동",
-        "emd_cd": "29170118"
+        "emd_cd": 29170118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296227,7 +296227,7 @@
         "emd_eng_nm": "Wonsan-dong",
         "emd_kor_nm": "원산동",
         "full_nm": "광주광역시 남구 원산동",
-        "emd_cd": "29155129"
+        "emd_cd": 29155129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -297977,7 +297977,7 @@
         "emd_eng_nm": "Daeji-dong",
         "emd_kor_nm": "대지동",
         "full_nm": "광주광역시 남구 대지동",
-        "emd_cd": "29155128"
+        "emd_cd": 29155128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299447,7 +299447,7 @@
         "emd_eng_nm": "Sanmak-dong",
         "emd_kor_nm": "산막동",
         "full_nm": "광주광역시 광산구 산막동",
-        "emd_cd": "29200130"
+        "emd_cd": 29200130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -301045,7 +301045,7 @@
         "emd_eng_nm": "Goryong-dong",
         "emd_kor_nm": "고룡동",
         "full_nm": "광주광역시 광산구 고룡동",
-        "emd_cd": "29200131"
+        "emd_cd": 29200131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -302891,7 +302891,7 @@
         "emd_eng_nm": "Daeui-dong",
         "emd_kor_nm": "대의동",
         "full_nm": "광주광역시 동구 대의동",
-        "emd_cd": "29110105"
+        "emd_cd": 29110105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -303909,7 +303909,7 @@
         "emd_eng_nm": "Sugi-dong",
         "emd_kor_nm": "수기동",
         "full_nm": "광주광역시 동구 수기동",
-        "emd_cd": "29110104"
+        "emd_cd": 29110104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -304895,7 +304895,7 @@
         "emd_eng_nm": "Dongnim-dong",
         "emd_kor_nm": "동림동",
         "full_nm": "광주광역시 광산구 동림동",
-        "emd_cd": "29200178"
+        "emd_cd": 29200178
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -306145,7 +306145,7 @@
         "emd_eng_nm": "Yangchon-dong",
         "emd_kor_nm": "양촌동",
         "full_nm": "광주광역시 남구 양촌동",
-        "emd_cd": "29155117"
+        "emd_cd": 29155117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -307675,7 +307675,7 @@
         "emd_eng_nm": "Guso-dong",
         "emd_kor_nm": "구소동",
         "full_nm": "광주광역시 남구 구소동",
-        "emd_cd": "29155116"
+        "emd_cd": 29155116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -309729,7 +309729,7 @@
         "emd_eng_nm": "Gakhwa-dong",
         "emd_kor_nm": "각화동",
         "full_nm": "광주광역시 북구 각화동",
-        "emd_cd": "29170113"
+        "emd_cd": 29170113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -310987,7 +310987,7 @@
         "emd_eng_nm": "Munheung-dong",
         "emd_kor_nm": "문흥동",
         "full_nm": "광주광역시 북구 문흥동",
-        "emd_cd": "29170112"
+        "emd_cd": 29170112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -313273,7 +313273,7 @@
         "emd_eng_nm": "Jangnok-dong",
         "emd_kor_nm": "장록동",
         "full_nm": "광주광역시 광산구 장록동",
-        "emd_cd": "29200147"
+        "emd_cd": 29200147
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -314443,7 +314443,7 @@
         "emd_eng_nm": "Woljeon-dong",
         "emd_kor_nm": "월전동",
         "full_nm": "광주광역시 광산구 월전동",
-        "emd_cd": "29200146"
+        "emd_cd": 29200146
       },
       "geometry": {
         "type": "MultiPolygon",

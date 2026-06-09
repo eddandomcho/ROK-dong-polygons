@@ -21335,7 +21335,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "44800",
+        "sig_cd": 44800,
         "sig_eng_nm": "Hongseong-gun",
         "full_nm": "충청남도 홍성군",
         "sig_kor_nm": "홍성군"

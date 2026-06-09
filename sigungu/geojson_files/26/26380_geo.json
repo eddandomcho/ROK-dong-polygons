@@ -10565,7 +10565,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "26380",
+        "sig_cd": 26380,
         "sig_eng_nm": "Saha-gu",
         "full_nm": "부산광역시 사하구",
         "sig_kor_nm": "사하구"

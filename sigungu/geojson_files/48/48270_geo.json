@@ -8577,7 +8577,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "48270",
+        "sig_cd": 48270,
         "sig_eng_nm": "Miryang-si",
         "full_nm": "경상남도 밀양시",
         "sig_kor_nm": "밀양시"

@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "31110",
+        "sig_cd": 31110,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "울산광역시 중구",
         "sig_kor_nm": "중구"
@@ -8954,7 +8954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "31170",
+        "sig_cd": 31170,
         "sig_eng_nm": "Dong-gu",
         "full_nm": "울산광역시 동구",
         "sig_kor_nm": "동구"
@@ -16860,7 +16860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "31710",
+        "sig_cd": 31710,
         "sig_eng_nm": "Ulju-gun",
         "full_nm": "울산광역시 울주군",
         "sig_kor_nm": "울주군"
@@ -42722,7 +42722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "31140",
+        "sig_cd": 31140,
         "sig_eng_nm": "Nam-gu",
         "full_nm": "울산광역시 남구",
         "sig_kor_nm": "남구"
@@ -55216,7 +55216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "31200",
+        "sig_cd": 31200,
         "sig_eng_nm": "Buk-gu",
         "full_nm": "울산광역시 북구",
         "sig_kor_nm": "북구"

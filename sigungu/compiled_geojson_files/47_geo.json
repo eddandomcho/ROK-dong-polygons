@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47111",
+        "sig_cd": 47111,
         "sig_eng_nm": "Nam-gu, Pohang-si",
         "full_nm": "경상북도 포항시 남구",
         "sig_kor_nm": "포항시 남구"
@@ -27770,7 +27770,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47830",
+        "sig_cd": 47830,
         "sig_eng_nm": "Goryeong-gun",
         "full_nm": "경상북도 고령군",
         "sig_kor_nm": "고령군"
@@ -41172,7 +41172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47290",
+        "sig_cd": 47290,
         "sig_eng_nm": "Gyeongsan-si",
         "full_nm": "경상북도 경산시",
         "sig_kor_nm": "경산시"
@@ -55886,7 +55886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47850",
+        "sig_cd": 47850,
         "sig_eng_nm": "Chilgok-gun",
         "full_nm": "경상북도 칠곡군",
         "sig_kor_nm": "칠곡군"
@@ -69048,7 +69048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47170",
+        "sig_cd": 47170,
         "sig_eng_nm": "Andong-si",
         "full_nm": "경상북도 안동시",
         "sig_kor_nm": "안동시"
@@ -98470,7 +98470,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47820",
+        "sig_cd": 47820,
         "sig_eng_nm": "Cheongdo-gun",
         "full_nm": "경상북도 청도군",
         "sig_kor_nm": "청도군"
@@ -109028,7 +109028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47250",
+        "sig_cd": 47250,
         "sig_eng_nm": "Sangju-si",
         "full_nm": "경상북도 상주시",
         "sig_kor_nm": "상주시"
@@ -131338,7 +131338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47730",
+        "sig_cd": 47730,
         "sig_eng_nm": "Uiseong-gun",
         "full_nm": "경상북도 의성군",
         "sig_kor_nm": "의성군"
@@ -148652,7 +148652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47280",
+        "sig_cd": 47280,
         "sig_eng_nm": "Mungyeong-si",
         "full_nm": "경상북도 문경시",
         "sig_kor_nm": "문경시"
@@ -169854,7 +169854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47840",
+        "sig_cd": 47840,
         "sig_eng_nm": "Seongju-gun",
         "full_nm": "경상북도 성주군",
         "sig_kor_nm": "성주군"
@@ -182252,7 +182252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47230",
+        "sig_cd": 47230,
         "sig_eng_nm": "Yeongcheon-si",
         "full_nm": "경상북도 영천시",
         "sig_kor_nm": "영천시"
@@ -196894,7 +196894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47900",
+        "sig_cd": 47900,
         "sig_eng_nm": "Yecheon-gun",
         "full_nm": "경상북도 예천군",
         "sig_kor_nm": "예천군"
@@ -219320,7 +219320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47750",
+        "sig_cd": 47750,
         "sig_eng_nm": "Cheongsong-gun",
         "full_nm": "경상북도 청송군",
         "sig_kor_nm": "청송군"
@@ -232394,7 +232394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47130",
+        "sig_cd": 47130,
         "sig_eng_nm": "Gyeongju-si",
         "full_nm": "경상북도 경주시",
         "sig_kor_nm": "경주시"
@@ -262720,7 +262720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47150",
+        "sig_cd": 47150,
         "sig_eng_nm": "Gimcheon-si",
         "full_nm": "경상북도 김천시",
         "sig_kor_nm": "김천시"
@@ -285198,7 +285198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47930",
+        "sig_cd": 47930,
         "sig_eng_nm": "Uljin-gun",
         "full_nm": "경상북도 울진군",
         "sig_kor_nm": "울진군"
@@ -311716,7 +311716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47113",
+        "sig_cd": 47113,
         "sig_eng_nm": "Buk-gu, Pohang-si",
         "full_nm": "경상북도 포항시 북구",
         "sig_kor_nm": "포항시 북구"
@@ -331836,7 +331836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47760",
+        "sig_cd": 47760,
         "sig_eng_nm": "Yeongyang-gun",
         "full_nm": "경상북도 영양군",
         "sig_kor_nm": "영양군"
@@ -342662,7 +342662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47940",
+        "sig_cd": 47940,
         "sig_eng_nm": "Ulleung-gun",
         "full_nm": "경상북도 울릉군",
         "sig_kor_nm": "울릉군"
@@ -375148,7 +375148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47210",
+        "sig_cd": 47210,
         "sig_eng_nm": "Yeongju-si",
         "full_nm": "경상북도 영주시",
         "sig_kor_nm": "영주시"
@@ -397162,7 +397162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47920",
+        "sig_cd": 47920,
         "sig_eng_nm": "Bonghwa-gun",
         "full_nm": "경상북도 봉화군",
         "sig_kor_nm": "봉화군"
@@ -422660,7 +422660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47770",
+        "sig_cd": 47770,
         "sig_eng_nm": "Yeongdeok-gun",
         "full_nm": "경상북도 영덕군",
         "sig_kor_nm": "영덕군"
@@ -446022,7 +446022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "47190",
+        "sig_cd": 47190,
         "sig_eng_nm": "Gumi-si",
         "full_nm": "경상북도 구미시",
         "sig_kor_nm": "구미시"

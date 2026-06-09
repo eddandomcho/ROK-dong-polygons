@@ -15305,7 +15305,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "43150",
+        "sig_cd": 43150,
         "sig_eng_nm": "Jecheon-si",
         "full_nm": "충청북도 제천시",
         "sig_kor_nm": "제천시"

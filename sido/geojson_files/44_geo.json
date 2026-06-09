@@ -215224,7 +215224,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Chungcheongnam-do",
-        "ctprvn_cd": "44",
+        "ctprvn_cd": 44,
         "ctp_kor_nm": "충청남도"
       }
     }

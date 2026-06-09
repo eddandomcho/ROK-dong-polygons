@@ -13585,7 +13585,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "31200",
+        "sig_cd": 31200,
         "sig_eng_nm": "Buk-gu",
         "full_nm": "울산광역시 북구",
         "sig_kor_nm": "북구"

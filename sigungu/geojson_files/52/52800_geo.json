@@ -36361,7 +36361,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "52800",
+        "sig_cd": 52800,
         "sig_eng_nm": "Buan-gun",
         "full_nm": "전북특별자치도 부안군",
         "sig_kor_nm": "부안군"

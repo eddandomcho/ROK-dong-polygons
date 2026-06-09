@@ -71756,7 +71756,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Busan",
-        "ctprvn_cd": "26",
+        "ctprvn_cd": 26,
         "ctp_kor_nm": "부산광역시"
       }
     }

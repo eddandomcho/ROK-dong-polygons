@@ -53,6 +53,8 @@ def transform_to_geojson_list(input_folder_path, output_folder_path):
             ]
         }
 
+        geojs["features"][0]["properties"]["sig_cd"] = int(geojs["features"][0]["properties"]["sig_cd"])
+
         out_file_path = output_dir / f"{sig_cd}_geo.json"
 
         with open(out_file_path, "w", encoding = "utf-8") as f:

@@ -18435,7 +18435,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "28110",
+        "sig_cd": 28110,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "인천광역시 중구",
         "sig_kor_nm": "중구"

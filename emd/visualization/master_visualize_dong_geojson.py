@@ -20,3 +20,5 @@ def view_master_dong():
     )
 
     plt.show()
+
+view_master_dong()

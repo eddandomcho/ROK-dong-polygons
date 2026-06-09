@@ -23,6 +23,8 @@ def transform_to_geojson(input_file_path, output_folder_path):
         ]
     }
 
+    geojs["properties"]["emd_cd"] = int(geojs["properties"]["emd_cd"])
+
     with open(f"{output_folder_path}/{emd_cd}_geo.json", "w", encoding = "utf-8") as f:
         json.dump(geojs, f, indent = 2, ensure_ascii = False)
         print(f"Saved data to {output_folder_path}/{emd_cd}_geo.json!")
@@ -53,6 +55,8 @@ def transform_to_geojson_list(input_folder_path, output_folder_path):
                 } for d in vworld_features 
             ]
         }
+
+        geojs["features"][0]["properties"]["emd_cd"] = int(geojs["features"][0]["properties"]["emd_cd"])
 
         out_file_path = output_dir / f"{emd_cd}_geo.json"
 

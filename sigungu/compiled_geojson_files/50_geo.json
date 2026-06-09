@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "50130",
+        "sig_cd": 50130,
         "sig_eng_nm": "Seogwipo-si",
         "full_nm": "제주특별자치도 서귀포시",
         "sig_kor_nm": "서귀포시"
@@ -53176,7 +53176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "50110",
+        "sig_cd": 50110,
         "sig_eng_nm": "Jeju-si",
         "full_nm": "제주특별자치도 제주시",
         "sig_kor_nm": "제주시"

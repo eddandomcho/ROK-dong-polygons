@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26260",
+        "sig_cd": 26260,
         "sig_eng_nm": "Dongnae-gu",
         "full_nm": "부산광역시 동래구",
         "sig_kor_nm": "동래구"
@@ -3602,7 +3602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26320",
+        "sig_cd": 26320,
         "sig_eng_nm": "Buk-gu",
         "full_nm": "부산광역시 북구",
         "sig_kor_nm": "북구"
@@ -6216,7 +6216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26200",
+        "sig_cd": 26200,
         "sig_eng_nm": "Yeongdo-gu",
         "full_nm": "부산광역시 영도구",
         "sig_kor_nm": "영도구"
@@ -12006,7 +12006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26440",
+        "sig_cd": 26440,
         "sig_eng_nm": "Gangseo-gu",
         "full_nm": "부산광역시 강서구",
         "sig_kor_nm": "강서구"
@@ -37362,7 +37362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26500",
+        "sig_cd": 26500,
         "sig_eng_nm": "Suyeong-gu",
         "full_nm": "부산광역시 수영구",
         "sig_kor_nm": "수영구"
@@ -40528,7 +40528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26710",
+        "sig_cd": 26710,
         "sig_eng_nm": "Gijang-gun",
         "full_nm": "부산광역시 기장군",
         "sig_kor_nm": "기장군"
@@ -62130,7 +62130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26380",
+        "sig_cd": 26380,
         "sig_eng_nm": "Saha-gu",
         "full_nm": "부산광역시 사하구",
         "sig_kor_nm": "사하구"
@@ -72700,7 +72700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26140",
+        "sig_cd": 26140,
         "sig_eng_nm": "Seo-gu",
         "full_nm": "부산광역시 서구",
         "sig_kor_nm": "서구"
@@ -78522,7 +78522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26350",
+        "sig_cd": 26350,
         "sig_eng_nm": "Haeundae-gu",
         "full_nm": "부산광역시 해운대구",
         "sig_kor_nm": "해운대구"
@@ -85456,7 +85456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26290",
+        "sig_cd": 26290,
         "sig_eng_nm": "Nam-gu",
         "full_nm": "부산광역시 남구",
         "sig_kor_nm": "남구"
@@ -90504,7 +90504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26530",
+        "sig_cd": 26530,
         "sig_eng_nm": "Sasang-gu",
         "full_nm": "부산광역시 사상구",
         "sig_kor_nm": "사상구"
@@ -93550,7 +93550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26470",
+        "sig_cd": 26470,
         "sig_eng_nm": "Yeonje-gu",
         "full_nm": "부산광역시 연제구",
         "sig_kor_nm": "연제구"
@@ -96804,7 +96804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26110",
+        "sig_cd": 26110,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "부산광역시 중구",
         "sig_kor_nm": "중구"
@@ -100142,7 +100142,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26410",
+        "sig_cd": 26410,
         "sig_eng_nm": "Geumjeong-gu",
         "full_nm": "부산광역시 금정구",
         "sig_kor_nm": "금정구"
@@ -105420,7 +105420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26170",
+        "sig_cd": 26170,
         "sig_eng_nm": "Dong-gu",
         "full_nm": "부산광역시 동구",
         "sig_kor_nm": "동구"
@@ -108298,7 +108298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "26230",
+        "sig_cd": 26230,
         "sig_eng_nm": "Busanjin-gu",
         "full_nm": "부산광역시 부산진구",
         "sig_kor_nm": "부산진구"

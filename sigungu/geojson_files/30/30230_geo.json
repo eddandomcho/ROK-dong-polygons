@@ -6749,7 +6749,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "30230",
+        "sig_cd": 30230,
         "sig_eng_nm": "Daedeok-gu",
         "full_nm": "대전광역시 대덕구",
         "sig_kor_nm": "대덕구"

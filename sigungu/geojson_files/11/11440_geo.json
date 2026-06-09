@@ -4449,7 +4449,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "11440",
+        "sig_cd": 11440,
         "sig_eng_nm": "Mapo-gu",
         "full_nm": "서울특별시 마포구",
         "sig_kor_nm": "마포구"

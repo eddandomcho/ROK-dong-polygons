@@ -28114,7 +28114,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Gwangju",
-        "ctprvn_cd": "29",
+        "ctprvn_cd": 29,
         "ctp_kor_nm": "광주광역시"
       }
     }

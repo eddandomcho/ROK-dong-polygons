@@ -5721,7 +5721,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "11350",
+        "sig_cd": 11350,
         "sig_eng_nm": "Nowon-gu",
         "full_nm": "서울특별시 노원구",
         "sig_kor_nm": "노원구"

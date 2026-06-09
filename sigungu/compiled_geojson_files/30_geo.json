@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "30140",
+        "sig_cd": 30140,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "대전광역시 중구",
         "sig_kor_nm": "중구"
@@ -5086,7 +5086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "30200",
+        "sig_cd": 30200,
         "sig_eng_nm": "Yuseong-gu",
         "full_nm": "대전광역시 유성구",
         "sig_kor_nm": "유성구"
@@ -13004,7 +13004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "30230",
+        "sig_cd": 30230,
         "sig_eng_nm": "Daedeok-gu",
         "full_nm": "대전광역시 대덕구",
         "sig_kor_nm": "대덕구"
@@ -19758,7 +19758,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "30170",
+        "sig_cd": 30170,
         "sig_eng_nm": "Seo-gu",
         "full_nm": "대전광역시 서구",
         "sig_kor_nm": "서구"
@@ -27212,7 +27212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "30110",
+        "sig_cd": 30110,
         "sig_eng_nm": "Dong-gu",
         "full_nm": "대전광역시 동구",
         "sig_kor_nm": "동구"

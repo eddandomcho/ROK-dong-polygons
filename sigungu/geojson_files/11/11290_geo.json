@@ -8321,7 +8321,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "11290",
+        "sig_cd": 11290,
         "sig_eng_nm": "Seongbuk-gu",
         "full_nm": "서울특별시 성북구",
         "sig_kor_nm": "성북구"

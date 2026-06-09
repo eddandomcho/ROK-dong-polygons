@@ -5813,7 +5813,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "41250",
+        "sig_cd": 41250,
         "sig_eng_nm": "Dongducheon-si",
         "full_nm": "경기도 동두천시",
         "sig_kor_nm": "동두천시"

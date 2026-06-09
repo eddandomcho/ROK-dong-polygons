@@ -145516,7 +145516,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Incheon",
-        "ctprvn_cd": "28",
+        "ctprvn_cd": 28,
         "ctp_kor_nm": "인천광역시"
       }
     }

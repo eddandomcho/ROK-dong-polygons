@@ -20,8 +20,6 @@ def code_list_sido(sido_code):
     print(f"Returning code list for sido_code = {sido_code}")
     return code_col
 
-print(code_list_sido(11))
-
 def code_list_sigungu(sido_code, sigungu_code):
     if sigungu_code > 999:
         print("시도 코드가 범위 이상입니다!")

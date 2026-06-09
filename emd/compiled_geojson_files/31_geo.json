@@ -7,7 +7,7 @@
         "emd_eng_nm": "Dongbu-dong",
         "emd_kor_nm": "동부동",
         "full_nm": "울산광역시 동구 동부동",
-        "emd_cd": "31170107"
+        "emd_cd": 31170107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1829,7 +1829,7 @@
         "emd_eng_nm": "Jujeon-dong",
         "emd_kor_nm": "주전동",
         "full_nm": "울산광역시 동구 주전동",
-        "emd_cd": "31170106"
+        "emd_cd": 31170106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3667,7 +3667,7 @@
         "emd_eng_nm": "Taehwa-dong",
         "emd_kor_nm": "태화동",
         "full_nm": "울산광역시 중구 태화동",
-        "emd_cd": "31110111"
+        "emd_cd": 31110111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6281,7 +6281,7 @@
         "emd_eng_nm": "Yugok-dong",
         "emd_kor_nm": "유곡동",
         "full_nm": "울산광역시 중구 유곡동",
-        "emd_cd": "31110110"
+        "emd_cd": 31110110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8195,7 +8195,7 @@
         "emd_eng_nm": "Yaeum-dong",
         "emd_kor_nm": "야음동",
         "full_nm": "울산광역시 남구 야음동",
-        "emd_cd": "31140108"
+        "emd_cd": 31140108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11033,7 +11033,7 @@
         "emd_eng_nm": "Seonam-dong",
         "emd_kor_nm": "선암동",
         "full_nm": "울산광역시 남구 선암동",
-        "emd_cd": "31140109"
+        "emd_cd": 31140109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13957,7 +13957,7 @@
         "emd_eng_nm": "Yangjeong-dong",
         "emd_kor_nm": "양정동",
         "full_nm": "울산광역시 북구 양정동",
-        "emd_cd": "31200124"
+        "emd_cd": 31200124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17011,7 +17011,7 @@
         "emd_eng_nm": "Hwabong-dong",
         "emd_kor_nm": "화봉동",
         "full_nm": "울산광역시 북구 화봉동",
-        "emd_cd": "31200125"
+        "emd_cd": 31200125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19713,7 +19713,7 @@
         "emd_eng_nm": "Sirye-dong",
         "emd_kor_nm": "시례동",
         "full_nm": "울산광역시 북구 시례동",
-        "emd_cd": "31200110"
+        "emd_cd": 31200110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21715,7 +21715,7 @@
         "emd_eng_nm": "Muryong-dong",
         "emd_kor_nm": "무룡동",
         "full_nm": "울산광역시 북구 무룡동",
-        "emd_cd": "31200111"
+        "emd_cd": 31200111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24529,7 +24529,7 @@
         "emd_eng_nm": "Ok-dong",
         "emd_kor_nm": "옥동",
         "full_nm": "울산광역시 남구 옥동",
-        "emd_cd": "31140102"
+        "emd_cd": 31140102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27791,7 +27791,7 @@
         "emd_eng_nm": "Duwang-dong",
         "emd_kor_nm": "두왕동",
         "full_nm": "울산광역시 남구 두왕동",
-        "emd_cd": "31140103"
+        "emd_cd": 31140103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29965,7 +29965,7 @@
         "emd_eng_nm": "Eonyang-eup",
         "emd_kor_nm": "언양읍",
         "full_nm": "울산광역시 울주군 언양읍",
-        "emd_cd": "31710253"
+        "emd_cd": 31710253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36371,7 +36371,7 @@
         "emd_eng_nm": "Sangbuk-myeon",
         "emd_kor_nm": "상북면",
         "full_nm": "울산광역시 울주군 상북면",
-        "emd_cd": "31710380"
+        "emd_cd": 31710380
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40993,7 +40993,7 @@
         "emd_eng_nm": "Seongnam-dong",
         "emd_kor_nm": "성남동",
         "full_nm": "울산광역시 중구 성남동",
-        "emd_cd": "31110106"
+        "emd_cd": 31110106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42427,7 +42427,7 @@
         "emd_eng_nm": "Gyo-dong",
         "emd_kor_nm": "교동",
         "full_nm": "울산광역시 중구 교동",
-        "emd_cd": "31110107"
+        "emd_cd": 31110107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43877,7 +43877,7 @@
         "emd_eng_nm": "Beomseo-eup",
         "emd_kor_nm": "범서읍",
         "full_nm": "울산광역시 울주군 범서읍",
-        "emd_cd": "31710259"
+        "emd_cd": 31710259
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51439,7 +51439,7 @@
         "emd_eng_nm": "Sangan-dong",
         "emd_kor_nm": "상안동",
         "full_nm": "울산광역시 북구 상안동",
-        "emd_cd": "31200107"
+        "emd_cd": 31200107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53797,7 +53797,7 @@
         "emd_eng_nm": "Jungsan-dong",
         "emd_kor_nm": "중산동",
         "full_nm": "울산광역시 북구 중산동",
-        "emd_cd": "31200106"
+        "emd_cd": 31200106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55959,7 +55959,7 @@
         "emd_eng_nm": "Yongyeon-dong",
         "emd_kor_nm": "용연동",
         "full_nm": "울산광역시 남구 용연동",
-        "emd_cd": "31140115"
+        "emd_cd": 31140115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57961,7 +57961,7 @@
         "emd_eng_nm": "Hwangseong-dong",
         "emd_kor_nm": "황성동",
         "full_nm": "울산광역시 남구 황성동",
-        "emd_cd": "31140114"
+        "emd_cd": 31140114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59771,7 +59771,7 @@
         "emd_eng_nm": "Jangsaengpo-dong",
         "emd_kor_nm": "장생포동",
         "full_nm": "울산광역시 남구 장생포동",
-        "emd_cd": "31140118"
+        "emd_cd": 31140118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60805,7 +60805,7 @@
         "emd_eng_nm": "Maeam-dong",
         "emd_kor_nm": "매암동",
         "full_nm": "울산광역시 남구 매암동",
-        "emd_cd": "31140119"
+        "emd_cd": 31140119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63415,7 +63415,7 @@
         "emd_eng_nm": "Hakseong-dong",
         "emd_kor_nm": "학성동",
         "full_nm": "울산광역시 중구 학성동",
-        "emd_cd": "31110101"
+        "emd_cd": 31110101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65281,7 +65281,7 @@
         "emd_eng_nm": "Changpyeong-dong",
         "emd_kor_nm": "창평동",
         "full_nm": "울산광역시 북구 창평동",
-        "emd_cd": "31200101"
+        "emd_cd": 31200101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67315,7 +67315,7 @@
         "emd_eng_nm": "Gosa-dong",
         "emd_kor_nm": "고사동",
         "full_nm": "울산광역시 남구 고사동",
-        "emd_cd": "31140112"
+        "emd_cd": 31140112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69501,7 +69501,7 @@
         "emd_eng_nm": "Seongam-dong",
         "emd_kor_nm": "성암동",
         "full_nm": "울산광역시 남구 성암동",
-        "emd_cd": "31140113"
+        "emd_cd": 31140113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71331,7 +71331,7 @@
         "emd_eng_nm": "Bangeo-dong",
         "emd_kor_nm": "방어동",
         "full_nm": "울산광역시 동구 방어동",
-        "emd_cd": "31170101"
+        "emd_cd": 31170101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75021,7 +75021,7 @@
         "emd_eng_nm": "Janghyeon-dong",
         "emd_kor_nm": "장현동",
         "full_nm": "울산광역시 중구 장현동",
-        "emd_cd": "31110116"
+        "emd_cd": 31110116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76787,7 +76787,7 @@
         "emd_eng_nm": "Yaksa-dong",
         "emd_kor_nm": "약사동",
         "full_nm": "울산광역시 중구 약사동",
-        "emd_cd": "31110117"
+        "emd_cd": 31110117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79985,7 +79985,7 @@
         "emd_eng_nm": "Hyomun-dong",
         "emd_kor_nm": "효문동",
         "full_nm": "울산광역시 북구 효문동",
-        "emd_cd": "31200123"
+        "emd_cd": 31200123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83299,7 +83299,7 @@
         "emd_eng_nm": "Yeonam-dong",
         "emd_kor_nm": "연암동",
         "full_nm": "울산광역시 북구 연암동",
-        "emd_cd": "31200122"
+        "emd_cd": 31200122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86149,7 +86149,7 @@
         "emd_eng_nm": "Ungchon-myeon",
         "emd_kor_nm": "웅촌면",
         "full_nm": "울산광역시 울주군 웅촌면",
-        "emd_cd": "31710340"
+        "emd_cd": 31710340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90235,7 +90235,7 @@
         "emd_eng_nm": "Sinhyeon-dong",
         "emd_kor_nm": "신현동",
         "full_nm": "울산광역시 북구 신현동",
-        "emd_cd": "31200117"
+        "emd_cd": 31200117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92433,7 +92433,7 @@
         "emd_eng_nm": "Dangsa-dong",
         "emd_kor_nm": "당사동",
         "full_nm": "울산광역시 북구 당사동",
-        "emd_cd": "31200116"
+        "emd_cd": 31200116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94587,7 +94587,7 @@
         "emd_eng_nm": "Dal-dong",
         "emd_kor_nm": "달동",
         "full_nm": "울산광역시 남구 달동",
-        "emd_cd": "31140105"
+        "emd_cd": 31140105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96133,7 +96133,7 @@
         "emd_eng_nm": "Sinjeong-dong",
         "emd_kor_nm": "신정동",
         "full_nm": "울산광역시 남구 신정동",
-        "emd_cd": "31140104"
+        "emd_cd": 31140104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100911,7 +100911,7 @@
         "emd_eng_nm": "Gadae-dong",
         "emd_kor_nm": "가대동",
         "full_nm": "울산광역시 북구 가대동",
-        "emd_cd": "31200104"
+        "emd_cd": 31200104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103041,7 +103041,7 @@
         "emd_eng_nm": "Sincheon-dong",
         "emd_kor_nm": "신천동",
         "full_nm": "울산광역시 북구 신천동",
-        "emd_cd": "31200105"
+        "emd_cd": 31200105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105355,7 +105355,7 @@
         "emd_eng_nm": "Samnam-eup",
         "emd_kor_nm": "삼남읍",
         "full_nm": "울산광역시 울주군 삼남읍",
-        "emd_cd": "31710265"
+        "emd_cd": 31710265
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108269,7 +108269,7 @@
         "emd_eng_nm": "Namhwa-dong",
         "emd_kor_nm": "남화동",
         "full_nm": "울산광역시 남구 남화동",
-        "emd_cd": "31140116"
+        "emd_cd": 31140116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109735,7 +109735,7 @@
         "emd_eng_nm": "Yongjam-dong",
         "emd_kor_nm": "용잠동",
         "full_nm": "울산광역시 남구 용잠동",
-        "emd_cd": "31140117"
+        "emd_cd": 31140117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111585,7 +111585,7 @@
         "emd_eng_nm": "Onsan-eup",
         "emd_kor_nm": "온산읍",
         "full_nm": "울산광역시 울주군 온산읍",
-        "emd_cd": "31710250"
+        "emd_cd": 31710250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116047,7 +116047,7 @@
         "emd_eng_nm": "Seosaeng-myeon",
         "emd_kor_nm": "서생면",
         "full_nm": "울산광역시 울주군 서생면",
-        "emd_cd": "31710310"
+        "emd_cd": 31710310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122601,7 +122601,7 @@
         "emd_eng_nm": "Okgyo-dong",
         "emd_kor_nm": "옥교동",
         "full_nm": "울산광역시 중구 옥교동",
-        "emd_cd": "31110105"
+        "emd_cd": 31110105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -123607,7 +123607,7 @@
         "emd_eng_nm": "Bukjeong-dong",
         "emd_kor_nm": "북정동",
         "full_nm": "울산광역시 중구 북정동",
-        "emd_cd": "31110104"
+        "emd_cd": 31110104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -124405,7 +124405,7 @@
         "emd_eng_nm": "Jeongja-dong",
         "emd_kor_nm": "정자동",
         "full_nm": "울산광역시 북구 정자동",
-        "emd_cd": "31200113"
+        "emd_cd": 31200113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -125703,7 +125703,7 @@
         "emd_eng_nm": "Guyu-dong",
         "emd_kor_nm": "구유동",
         "full_nm": "울산광역시 북구 구유동",
-        "emd_cd": "31200112"
+        "emd_cd": 31200112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -127553,7 +127553,7 @@
         "emd_eng_nm": "Mugeo-dong",
         "emd_kor_nm": "무거동",
         "full_nm": "울산광역시 남구 무거동",
-        "emd_cd": "31140101"
+        "emd_cd": 31140101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131291,7 +131291,7 @@
         "emd_eng_nm": "Samdong-myeon",
         "emd_kor_nm": "삼동면",
         "full_nm": "울산광역시 울주군 삼동면",
-        "emd_cd": "31710400"
+        "emd_cd": 31710400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135469,7 +135469,7 @@
         "emd_eng_nm": "Bangu-dong",
         "emd_kor_nm": "반구동",
         "full_nm": "울산광역시 중구 반구동",
-        "emd_cd": "31110118"
+        "emd_cd": 31110118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138727,7 +138727,7 @@
         "emd_eng_nm": "Eomul-dong",
         "emd_kor_nm": "어물동",
         "full_nm": "울산광역시 북구 어물동",
-        "emd_cd": "31200119"
+        "emd_cd": 31200119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141381,7 +141381,7 @@
         "emd_eng_nm": "Jeonha-dong",
         "emd_kor_nm": "전하동",
         "full_nm": "울산광역시 동구 전하동",
-        "emd_cd": "31170104"
+        "emd_cd": 31170104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143079,7 +143079,7 @@
         "emd_eng_nm": "Mipo-dong",
         "emd_kor_nm": "미포동",
         "full_nm": "울산광역시 동구 미포동",
-        "emd_cd": "31170105"
+        "emd_cd": 31170105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -144237,7 +144237,7 @@
         "emd_eng_nm": "Sanha-dong",
         "emd_kor_nm": "산하동",
         "full_nm": "울산광역시 북구 산하동",
-        "emd_cd": "31200118"
+        "emd_cd": 31200118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -146071,7 +146071,7 @@
         "emd_eng_nm": "Daun-dong",
         "emd_kor_nm": "다운동",
         "full_nm": "울산광역시 중구 다운동",
-        "emd_cd": "31110112"
+        "emd_cd": 31110112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148993,7 +148993,7 @@
         "emd_eng_nm": "Dong-dong",
         "emd_kor_nm": "동동",
         "full_nm": "울산광역시 중구 동동",
-        "emd_cd": "31110113"
+        "emd_cd": 31110113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -150495,7 +150495,7 @@
         "emd_eng_nm": "Duseo-myeon",
         "emd_kor_nm": "두서면",
         "full_nm": "울산광역시 울주군 두서면",
-        "emd_cd": "31710370"
+        "emd_cd": 31710370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156401,7 +156401,7 @@
         "emd_eng_nm": "Yeompo-dong",
         "emd_kor_nm": "염포동",
         "full_nm": "울산광역시 북구 염포동",
-        "emd_cd": "31200127"
+        "emd_cd": 31200127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158407,7 +158407,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "울산광역시 북구 송정동",
-        "emd_cd": "31200126"
+        "emd_cd": 31200126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160709,7 +160709,7 @@
         "emd_eng_nm": "Sinmyeong-dong",
         "emd_kor_nm": "신명동",
         "full_nm": "울산광역시 북구 신명동",
-        "emd_cd": "31200114"
+        "emd_cd": 31200114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162015,7 +162015,7 @@
         "emd_eng_nm": "Daean-dong",
         "emd_kor_nm": "대안동",
         "full_nm": "울산광역시 북구 대안동",
-        "emd_cd": "31200115"
+        "emd_cd": 31200115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164585,7 +164585,7 @@
         "emd_eng_nm": "Seobu-dong",
         "emd_kor_nm": "서부동",
         "full_nm": "울산광역시 동구 서부동",
-        "emd_cd": "31170108"
+        "emd_cd": 31170108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166183,7 +166183,7 @@
         "emd_eng_nm": "Samsan-dong",
         "emd_kor_nm": "삼산동",
         "full_nm": "울산광역시 남구 삼산동",
-        "emd_cd": "31140106"
+        "emd_cd": 31140106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -168165,7 +168165,7 @@
         "emd_eng_nm": "Yeocheon-dong",
         "emd_kor_nm": "여천동",
         "full_nm": "울산광역시 남구 여천동",
-        "emd_cd": "31140107"
+        "emd_cd": 31140107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171467,7 +171467,7 @@
         "emd_eng_nm": "Ilsan-dong",
         "emd_kor_nm": "일산동",
         "full_nm": "울산광역시 동구 일산동",
-        "emd_cd": "31170103"
+        "emd_cd": 31170103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174253,7 +174253,7 @@
         "emd_eng_nm": "Hwajeong-dong",
         "emd_kor_nm": "화정동",
         "full_nm": "울산광역시 동구 화정동",
-        "emd_cd": "31170102"
+        "emd_cd": 31170102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176095,7 +176095,7 @@
         "emd_eng_nm": "Namoe-dong",
         "emd_kor_nm": "남외동",
         "full_nm": "울산광역시 중구 남외동",
-        "emd_cd": "31110115"
+        "emd_cd": 31110115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -178377,7 +178377,7 @@
         "emd_eng_nm": "Seo-dong",
         "emd_kor_nm": "서동",
         "full_nm": "울산광역시 중구 서동",
-        "emd_cd": "31110114"
+        "emd_cd": 31110114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180355,7 +180355,7 @@
         "emd_eng_nm": "Myeongchon-dong",
         "emd_kor_nm": "명촌동",
         "full_nm": "울산광역시 북구 명촌동",
-        "emd_cd": "31200120"
+        "emd_cd": 31200120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183761,7 +183761,7 @@
         "emd_eng_nm": "Jinjang-dong",
         "emd_kor_nm": "진장동",
         "full_nm": "울산광역시 북구 진장동",
-        "emd_cd": "31200121"
+        "emd_cd": 31200121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -187235,7 +187235,7 @@
         "emd_eng_nm": "Maegok-dong",
         "emd_kor_nm": "매곡동",
         "full_nm": "울산광역시 북구 매곡동",
-        "emd_cd": "31200103"
+        "emd_cd": 31200103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189705,7 +189705,7 @@
         "emd_eng_nm": "Hogye-dong",
         "emd_kor_nm": "호계동",
         "full_nm": "울산광역시 북구 호계동",
-        "emd_cd": "31200102"
+        "emd_cd": 31200102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191323,7 +191323,7 @@
         "emd_eng_nm": "Ujeong-dong",
         "emd_kor_nm": "우정동",
         "full_nm": "울산광역시 중구 우정동",
-        "emd_cd": "31110108"
+        "emd_cd": 31110108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -193297,7 +193297,7 @@
         "emd_eng_nm": "Seongan-dong",
         "emd_kor_nm": "성안동",
         "full_nm": "울산광역시 중구 성안동",
-        "emd_cd": "31110109"
+        "emd_cd": 31110109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196647,7 +196647,7 @@
         "emd_eng_nm": "Cheongnyang-eup",
         "emd_kor_nm": "청량읍",
         "full_nm": "울산광역시 울주군 청량읍",
-        "emd_cd": "31710262"
+        "emd_cd": 31710262
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202653,7 +202653,7 @@
         "emd_eng_nm": "Bugok-dong",
         "emd_kor_nm": "부곡동",
         "full_nm": "울산광역시 남구 부곡동",
-        "emd_cd": "31140111"
+        "emd_cd": 31140111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204587,7 +204587,7 @@
         "emd_eng_nm": "Sanggae-dong",
         "emd_kor_nm": "상개동",
         "full_nm": "울산광역시 남구 상개동",
-        "emd_cd": "31140110"
+        "emd_cd": 31140110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206913,7 +206913,7 @@
         "emd_eng_nm": "Onyang-eup",
         "emd_kor_nm": "온양읍",
         "full_nm": "울산광역시 울주군 온양읍",
-        "emd_cd": "31710256"
+        "emd_cd": 31710256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -211243,7 +211243,7 @@
         "emd_eng_nm": "Dalcheon-dong",
         "emd_kor_nm": "달천동",
         "full_nm": "울산광역시 북구 달천동",
-        "emd_cd": "31200109"
+        "emd_cd": 31200109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213205,7 +213205,7 @@
         "emd_eng_nm": "Cheongok-dong",
         "emd_kor_nm": "천곡동",
         "full_nm": "울산광역시 북구 천곡동",
-        "emd_cd": "31200108"
+        "emd_cd": 31200108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -216083,7 +216083,7 @@
         "emd_eng_nm": "Dudong-myeon",
         "emd_kor_nm": "두동면",
         "full_nm": "울산광역시 울주군 두동면",
-        "emd_cd": "31710360"
+        "emd_cd": 31710360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222189,7 +222189,7 @@
         "emd_eng_nm": "Haksan-dong",
         "emd_kor_nm": "학산동",
         "full_nm": "울산광역시 중구 학산동",
-        "emd_cd": "31110102"
+        "emd_cd": 31110102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -223275,7 +223275,7 @@
         "emd_eng_nm": "Boksan-dong",
         "emd_kor_nm": "복산동",
         "full_nm": "울산광역시 중구 복산동",
-        "emd_cd": "31110103"
+        "emd_cd": 31110103
       },
       "geometry": {
         "type": "MultiPolygon",

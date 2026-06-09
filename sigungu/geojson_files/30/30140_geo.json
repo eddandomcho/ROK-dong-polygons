@@ -5077,7 +5077,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "30140",
+        "sig_cd": 30140,
         "sig_eng_nm": "Jung-gu",
         "full_nm": "대전광역시 중구",
         "sig_kor_nm": "중구"

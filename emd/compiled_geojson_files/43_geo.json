@@ -7,7 +7,7 @@
         "emd_eng_nm": "Yeonsu-dong",
         "emd_kor_nm": "연수동",
         "full_nm": "충청북도 충주시 연수동",
-        "emd_cd": "43130118"
+        "emd_cd": 43130118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1629,7 +1629,7 @@
         "emd_eng_nm": "Mokhaeng-dong",
         "emd_kor_nm": "목행동",
         "full_nm": "충청북도 충주시 목행동",
-        "emd_cd": "43130119"
+        "emd_cd": 43130119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2991,7 +2991,7 @@
         "emd_eng_nm": "Hyeondo-myeon",
         "emd_kor_nm": "현도면",
         "full_nm": "충청북도 청주시 서원구 현도면",
-        "emd_cd": "43112320"
+        "emd_cd": 43112320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6797,7 +6797,7 @@
         "emd_eng_nm": "Simcheon-myeon",
         "emd_kor_nm": "심천면",
         "full_nm": "충청북도 영동군 심천면",
-        "emd_cd": "43740400"
+        "emd_cd": 43740400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11327,7 +11327,7 @@
         "emd_eng_nm": "Wonpyeong-dong",
         "emd_kor_nm": "원평동",
         "full_nm": "충청북도 청주시 흥덕구 원평동",
-        "emd_cd": "43113132"
+        "emd_cd": 43113132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12573,7 +12573,7 @@
         "emd_eng_nm": "Danseong-myeon",
         "emd_kor_nm": "단성면",
         "full_nm": "충청북도 단양군 단성면",
-        "emd_cd": "43800360"
+        "emd_cd": 43800360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16371,7 +16371,7 @@
         "emd_eng_nm": "Munam-dong",
         "emd_kor_nm": "문암동",
         "full_nm": "충청북도 청주시 흥덕구 문암동",
-        "emd_cd": "43113133"
+        "emd_cd": 43113133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17561,7 +17561,7 @@
         "emd_eng_nm": "Munhwa-dong",
         "emd_kor_nm": "문화동",
         "full_nm": "충청북도 충주시 문화동",
-        "emd_cd": "43130127"
+        "emd_cd": 43130127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19467,7 +19467,7 @@
         "emd_eng_nm": "Cheongpung-myeon",
         "emd_kor_nm": "청풍면",
         "full_nm": "충청북도 제천시 청풍면",
-        "emd_cd": "43150320"
+        "emd_cd": 43150320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24617,7 +24617,7 @@
         "emd_eng_nm": "Jeungpyeong-eup",
         "emd_kor_nm": "증평읍",
         "full_nm": "충청북도 증평군 증평읍",
-        "emd_cd": "43745250"
+        "emd_cd": 43745250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30299,7 +30299,7 @@
         "emd_eng_nm": "Doan-myeon",
         "emd_kor_nm": "도안면",
         "full_nm": "충청북도 증평군 도안면",
-        "emd_cd": "43745310"
+        "emd_cd": 43745310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34873,7 +34873,7 @@
         "emd_eng_nm": "Jangan-myeon",
         "emd_kor_nm": "장안면",
         "full_nm": "충청북도 보은군 장안면",
-        "emd_cd": "43720325"
+        "emd_cd": 43720325
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38135,7 +38135,7 @@
         "emd_eng_nm": "Bungmunno 2(i)-ga",
         "emd_kor_nm": "북문로2가",
         "full_nm": "충청북도 청주시 상당구 북문로2가",
-        "emd_cd": "43111103"
+        "emd_cd": 43111103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39005,7 +39005,7 @@
         "emd_eng_nm": "Bungmunno 1(il)-ga",
         "emd_kor_nm": "북문로1가",
         "full_nm": "충청북도 청주시 상당구 북문로1가",
-        "emd_cd": "43111102"
+        "emd_cd": 43111102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39359,7 +39359,7 @@
         "emd_eng_nm": "Yonghwa-myeon",
         "emd_kor_nm": "용화면",
         "full_nm": "충청북도 영동군 용화면",
-        "emd_cd": "43740370"
+        "emd_cd": 43740370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43641,7 +43641,7 @@
         "emd_eng_nm": "Jangyeon-myeon",
         "emd_kor_nm": "장연면",
         "full_nm": "충청북도 괴산군 장연면",
-        "emd_cd": "43760320"
+        "emd_cd": 43760320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47919,7 +47919,7 @@
         "emd_eng_nm": "Sannam-dong",
         "emd_kor_nm": "산남동",
         "full_nm": "충청북도 청주시 서원구 산남동",
-        "emd_cd": "43112104"
+        "emd_cd": 43112104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49149,7 +49149,7 @@
         "emd_eng_nm": "Mipyeong-dong",
         "emd_kor_nm": "미평동",
         "full_nm": "충청북도 청주시 서원구 미평동",
-        "emd_cd": "43112105"
+        "emd_cd": 43112105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51055,7 +51055,7 @@
         "emd_eng_nm": "Munui-myeon",
         "emd_kor_nm": "문의면",
         "full_nm": "충청북도 청주시 상당구 문의면",
-        "emd_cd": "43111350"
+        "emd_cd": 43111350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58461,7 +58461,7 @@
         "emd_eng_nm": "Gunseo-myeon",
         "emd_kor_nm": "군서면",
         "full_nm": "충청북도 옥천군 군서면",
-        "emd_cd": "43730370"
+        "emd_cd": 43730370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62019,7 +62019,7 @@
         "emd_eng_nm": "Biha-dong",
         "emd_kor_nm": "비하동",
         "full_nm": "충청북도 청주시 흥덕구 비하동",
-        "emd_cd": "43113138"
+        "emd_cd": 43113138
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63505,7 +63505,7 @@
         "emd_eng_nm": "Seokso-dong",
         "emd_kor_nm": "석소동",
         "full_nm": "충청북도 청주시 흥덕구 석소동",
-        "emd_cd": "43113139"
+        "emd_cd": 43113139
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64651,7 +64651,7 @@
         "emd_eng_nm": "Boeun-eup",
         "emd_kor_nm": "보은읍",
         "full_nm": "충청북도 보은군 보은읍",
-        "emd_cd": "43720250"
+        "emd_cd": 43720250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70757,7 +70757,7 @@
         "emd_eng_nm": "Jincheon-eup",
         "emd_kor_nm": "진천읍",
         "full_nm": "충청북도 진천군 진천읍",
-        "emd_cd": "43750250"
+        "emd_cd": 43750250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78647,7 +78647,7 @@
         "emd_eng_nm": "Yonggwan-dong",
         "emd_kor_nm": "용관동",
         "full_nm": "충청북도 충주시 용관동",
-        "emd_cd": "43130112"
+        "emd_cd": 43130112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79953,7 +79953,7 @@
         "emd_eng_nm": "Yongdu-dong",
         "emd_kor_nm": "용두동",
         "full_nm": "충청북도 충주시 용두동",
-        "emd_cd": "43130113"
+        "emd_cd": 43130113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80987,7 +80987,7 @@
         "emd_eng_nm": "Seomun-dong",
         "emd_kor_nm": "서문동",
         "full_nm": "충청북도 청주시 상당구 서문동",
-        "emd_cd": "43111109"
+        "emd_cd": 43111109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81449,7 +81449,7 @@
         "emd_eng_nm": "Geumga-myeon",
         "emd_kor_nm": "금가면",
         "full_nm": "충청북도 충주시 금가면",
-        "emd_cd": "43130390"
+        "emd_cd": 43130390
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85175,7 +85175,7 @@
         "emd_eng_nm": "Seoun-dong",
         "emd_kor_nm": "서운동",
         "full_nm": "충청북도 청주시 상당구 서운동",
-        "emd_cd": "43111108"
+        "emd_cd": 43111108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85569,7 +85569,7 @@
         "emd_eng_nm": "Namcheon-dong",
         "emd_kor_nm": "남천동",
         "full_nm": "충청북도 제천시 남천동",
-        "emd_cd": "43150104"
+        "emd_cd": 43150104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86719,7 +86719,7 @@
         "emd_eng_nm": "Gyo-dong",
         "emd_kor_nm": "교동",
         "full_nm": "충청북도 제천시 교동",
-        "emd_cd": "43150105"
+        "emd_cd": 43150105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87577,7 +87577,7 @@
         "emd_eng_nm": "Sotae-myeon",
         "emd_kor_nm": "소태면",
         "full_nm": "충청북도 충주시 소태면",
-        "emd_cd": "43130430"
+        "emd_cd": 43130430
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91635,7 +91635,7 @@
         "emd_eng_nm": "Jajak-dong",
         "emd_kor_nm": "자작동",
         "full_nm": "충청북도 제천시 자작동",
-        "emd_cd": "43150127"
+        "emd_cd": 43150127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92457,7 +92457,7 @@
         "emd_eng_nm": "Deoksan-myeon",
         "emd_kor_nm": "덕산면",
         "full_nm": "충청북도 제천시 덕산면",
-        "emd_cd": "43150340"
+        "emd_cd": 43150340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95747,7 +95747,7 @@
         "emd_eng_nm": "Sin-dong",
         "emd_kor_nm": "신동",
         "full_nm": "충청북도 제천시 신동",
-        "emd_cd": "43150126"
+        "emd_cd": 43150126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97793,7 +97793,7 @@
         "emd_eng_nm": "Seochon-dong",
         "emd_kor_nm": "서촌동",
         "full_nm": "충청북도 청주시 흥덕구 서촌동",
-        "emd_cd": "43113125"
+        "emd_cd": 43113125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99975,7 +99975,7 @@
         "emd_eng_nm": "Jidong-dong",
         "emd_kor_nm": "지동동",
         "full_nm": "충청북도 청주시 흥덕구 지동동",
-        "emd_cd": "43113124"
+        "emd_cd": 43113124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101561,7 +101561,7 @@
         "emd_eng_nm": "Gomyeong-dong",
         "emd_kor_nm": "고명동",
         "full_nm": "충청북도 제천시 고명동",
-        "emd_cd": "43150119"
+        "emd_cd": 43150119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103527,7 +103527,7 @@
         "emd_eng_nm": "Duhak-dong",
         "emd_kor_nm": "두학동",
         "full_nm": "충청북도 제천시 두학동",
-        "emd_cd": "43150118"
+        "emd_cd": 43150118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105961,7 +105961,7 @@
         "emd_eng_nm": "Sanoe-myeon",
         "emd_kor_nm": "산외면",
         "full_nm": "충청북도 보은군 산외면",
-        "emd_cd": "43720400"
+        "emd_cd": 43720400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109223,7 +109223,7 @@
         "emd_eng_nm": "Sari-myeon",
         "emd_kor_nm": "사리면",
         "full_nm": "충청북도 괴산군 사리면",
-        "emd_cd": "43760390"
+        "emd_cd": 43760390
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113585,7 +113585,7 @@
         "emd_eng_nm": "Jeongbuk-dong",
         "emd_kor_nm": "정북동",
         "full_nm": "충청북도 청주시 청원구 정북동",
-        "emd_cd": "43114109"
+        "emd_cd": 43114109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114735,7 +114735,7 @@
         "emd_eng_nm": "Jeongha-dong",
         "emd_kor_nm": "정하동",
         "full_nm": "충청북도 청주시 청원구 정하동",
-        "emd_cd": "43114108"
+        "emd_cd": 43114108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115597,7 +115597,7 @@
         "emd_eng_nm": "Gyohyeon-dong",
         "emd_kor_nm": "교현동",
         "full_nm": "충청북도 충주시 교현동",
-        "emd_cd": "43130105"
+        "emd_cd": 43130105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118499,7 +118499,7 @@
         "emd_eng_nm": "Chungin-dong",
         "emd_kor_nm": "충인동",
         "full_nm": "충청북도 충주시 충인동",
-        "emd_cd": "43130104"
+        "emd_cd": 43130104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118705,7 +118705,7 @@
         "emd_eng_nm": "Ochang-eup",
         "emd_kor_nm": "오창읍",
         "full_nm": "충청북도 청주시 청원구 오창읍",
-        "emd_cd": "43114253"
+        "emd_cd": 43114253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129623,7 +129623,7 @@
         "emd_eng_nm": "Jangam-dong",
         "emd_kor_nm": "장암동",
         "full_nm": "충청북도 청주시 서원구 장암동",
-        "emd_cd": "43112112"
+        "emd_cd": 43112112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131385,7 +131385,7 @@
         "emd_eng_nm": "Geumcheon-dong",
         "emd_kor_nm": "금천동",
         "full_nm": "충청북도 청주시 상당구 금천동",
-        "emd_cd": "43111120"
+        "emd_cd": 43111120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -133491,7 +133491,7 @@
         "emd_eng_nm": "Yongdam-dong",
         "emd_kor_nm": "용담동",
         "full_nm": "충청북도 청주시 상당구 용담동",
-        "emd_cd": "43111121"
+        "emd_cd": 43111121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135073,7 +135073,7 @@
         "emd_eng_nm": "Dongi-myeon",
         "emd_kor_nm": "동이면",
         "full_nm": "충청북도 옥천군 동이면",
-        "emd_cd": "43730310"
+        "emd_cd": 43730310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -138787,7 +138787,7 @@
         "emd_eng_nm": "Yullyang-dong",
         "emd_kor_nm": "율량동",
         "full_nm": "충청북도 청주시 청원구 율량동",
-        "emd_cd": "43114103"
+        "emd_cd": 43114103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141437,7 +141437,7 @@
         "emd_eng_nm": "Naedeok-dong",
         "emd_kor_nm": "내덕동",
         "full_nm": "충청북도 청주시 청원구 내덕동",
-        "emd_cd": "43114102"
+        "emd_cd": 43114102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142911,7 +142911,7 @@
         "emd_eng_nm": "Hoenam-myeon",
         "emd_kor_nm": "회남면",
         "full_nm": "충청북도 보은군 회남면",
-        "emd_cd": "43720370"
+        "emd_cd": 43720370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147305,7 +147305,7 @@
         "emd_eng_nm": "Chilseong-myeon",
         "emd_kor_nm": "칠성면",
         "full_nm": "충청북도 괴산군 칠성면",
-        "emd_cd": "43760340"
+        "emd_cd": 43760340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -150319,7 +150319,7 @@
         "emd_eng_nm": "Yongsan-myeon",
         "emd_kor_nm": "용산면",
         "full_nm": "충청북도 영동군 용산면",
-        "emd_cd": "43740310"
+        "emd_cd": 43740310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -155429,7 +155429,7 @@
         "emd_eng_nm": "Gadeok-myeon",
         "emd_kor_nm": "가덕면",
         "full_nm": "충청북도 청주시 상당구 가덕면",
-        "emd_cd": "43111330"
+        "emd_cd": 43111330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162239,7 +162239,7 @@
         "emd_eng_nm": "Wonnam-myeon",
         "emd_kor_nm": "원남면",
         "full_nm": "충청북도 음성군 원남면",
-        "emd_cd": "43770320"
+        "emd_cd": 43770320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167725,7 +167725,7 @@
         "emd_eng_nm": "Gwanghyewon-myeon",
         "emd_kor_nm": "광혜원면",
         "full_nm": "충청북도 진천군 광혜원면",
-        "emd_cd": "43750370"
+        "emd_cd": 43750370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172243,7 +172243,7 @@
         "emd_eng_nm": "Yeongdong-eup",
         "emd_kor_nm": "영동읍",
         "full_nm": "충청북도 영동군 영동읍",
-        "emd_cd": "43740250"
+        "emd_cd": 43740250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -177541,7 +177541,7 @@
         "emd_eng_nm": "Cheongjeon-dong",
         "emd_kor_nm": "청전동",
         "full_nm": "충청북도 제천시 청전동",
-        "emd_cd": "43150113"
+        "emd_cd": 43150113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179823,7 +179823,7 @@
         "emd_eng_nm": "Sinwol-dong",
         "emd_kor_nm": "신월동",
         "full_nm": "충청북도 제천시 신월동",
-        "emd_cd": "43150112"
+        "emd_cd": 43150112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -182089,7 +182089,7 @@
         "emd_eng_nm": "Okcheon-eup",
         "emd_kor_nm": "옥천읍",
         "full_nm": "충청북도 옥천군 옥천읍",
-        "emd_cd": "43730250"
+        "emd_cd": 43730250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186799,7 +186799,7 @@
         "emd_eng_nm": "Dongmak-dong",
         "emd_kor_nm": "동막동",
         "full_nm": "충청북도 청주시 흥덕구 동막동",
-        "emd_cd": "43113122"
+        "emd_cd": 43113122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188021,7 +188021,7 @@
         "emd_eng_nm": "Suui-dong",
         "emd_kor_nm": "수의동",
         "full_nm": "충청북도 청주시 흥덕구 수의동",
-        "emd_cd": "43113123"
+        "emd_cd": 43113123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189127,7 +189127,7 @@
         "emd_eng_nm": "Geumwang-eup",
         "emd_kor_nm": "금왕읍",
         "full_nm": "충청북도 음성군 금왕읍",
-        "emd_cd": "43770253"
+        "emd_cd": 43770253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199141,7 +199141,7 @@
         "emd_eng_nm": "Sinbaek-dong",
         "emd_kor_nm": "신백동",
         "full_nm": "충청북도 제천시 신백동",
-        "emd_cd": "43150120"
+        "emd_cd": 43150120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200327,7 +200327,7 @@
         "emd_eng_nm": "Gangje-dong",
         "emd_kor_nm": "강제동",
         "full_nm": "충청북도 제천시 강제동",
-        "emd_cd": "43150121"
+        "emd_cd": 43150121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202589,7 +202589,7 @@
         "emd_eng_nm": "Jik-dong",
         "emd_kor_nm": "직동",
         "full_nm": "충청북도 충주시 직동",
-        "emd_cd": "43130108"
+        "emd_cd": 43130108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203747,7 +203747,7 @@
         "emd_eng_nm": "Danwol-dong",
         "emd_kor_nm": "단월동",
         "full_nm": "충청북도 충주시 단월동",
-        "emd_cd": "43130109"
+        "emd_cd": 43130109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205197,7 +205197,7 @@
         "emd_eng_nm": "Su-dong",
         "emd_kor_nm": "수동",
         "full_nm": "충청북도 청주시 상당구 수동",
-        "emd_cd": "43111112"
+        "emd_cd": 43111112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -206371,7 +206371,7 @@
         "emd_eng_nm": "Sinni-myeon",
         "emd_kor_nm": "신니면",
         "full_nm": "충청북도 충주시 신니면",
-        "emd_cd": "43130350"
+        "emd_cd": 43130350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213761,7 +213761,7 @@
         "emd_eng_nm": "Susan-myeon",
         "emd_kor_nm": "수산면",
         "full_nm": "충청북도 제천시 수산면",
-        "emd_cd": "43150330"
+        "emd_cd": 43150330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219231,7 +219231,7 @@
         "emd_eng_nm": "Seongnam-dong",
         "emd_kor_nm": "성남동",
         "full_nm": "충청북도 충주시 성남동",
-        "emd_cd": "43130102"
+        "emd_cd": 43130102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219625,7 +219625,7 @@
         "emd_eng_nm": "Seongseo-dong",
         "emd_kor_nm": "성서동",
         "full_nm": "충청북도 충주시 성서동",
-        "emd_cd": "43130103"
+        "emd_cd": 43130103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219851,7 +219851,7 @@
         "emd_eng_nm": "Yanggang-myeon",
         "emd_kor_nm": "양강면",
         "full_nm": "충청북도 영동군 양강면",
-        "emd_cd": "43740360"
+        "emd_cd": 43740360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224841,7 +224841,7 @@
         "emd_eng_nm": "Yeonpung-myeon",
         "emd_kor_nm": "연풍면",
         "full_nm": "충청북도 괴산군 연풍면",
-        "emd_cd": "43760330"
+        "emd_cd": 43760330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -227703,7 +227703,7 @@
         "emd_eng_nm": "Pyeongchon-dong",
         "emd_kor_nm": "평촌동",
         "full_nm": "충청북도 청주시 상당구 평촌동",
-        "emd_cd": "43111127"
+        "emd_cd": 43111127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228373,7 +228373,7 @@
         "emd_eng_nm": "Bangseo-dong",
         "emd_kor_nm": "방서동",
         "full_nm": "충청북도 청주시 상당구 방서동",
-        "emd_cd": "43111126"
+        "emd_cd": 43111126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229579,7 +229579,7 @@
         "emd_eng_nm": "Namil-myeon",
         "emd_kor_nm": "남일면",
         "full_nm": "충청북도 청주시 상당구 남일면",
-        "emd_cd": "43111340"
+        "emd_cd": 43111340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235701,7 +235701,7 @@
         "emd_eng_nm": "Samseong-myeon",
         "emd_kor_nm": "삼성면",
         "full_nm": "충청북도 음성군 삼성면",
-        "emd_cd": "43770350"
+        "emd_cd": 43770350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243887,7 +243887,7 @@
         "emd_eng_nm": "Iwon-myeon",
         "emd_kor_nm": "이원면",
         "full_nm": "충청북도 옥천군 이원면",
-        "emd_cd": "43730360"
+        "emd_cd": 43730360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247737,7 +247737,7 @@
         "emd_eng_nm": "Sindae-dong",
         "emd_kor_nm": "신대동",
         "full_nm": "충청북도 청주시 흥덕구 신대동",
-        "emd_cd": "43113128"
+        "emd_cd": 43113128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -248855,7 +248855,7 @@
         "emd_eng_nm": "Namchon-dong",
         "emd_kor_nm": "남촌동",
         "full_nm": "충청북도 청주시 흥덕구 남촌동",
-        "emd_cd": "43113129"
+        "emd_cd": 43113129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -249817,7 +249817,7 @@
         "emd_eng_nm": "Sacheon-dong",
         "emd_kor_nm": "사천동",
         "full_nm": "충청북도 청주시 청원구 사천동",
-        "emd_cd": "43114104"
+        "emd_cd": 43114104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -251787,7 +251787,7 @@
         "emd_eng_nm": "Juseong-dong",
         "emd_kor_nm": "주성동",
         "full_nm": "충청북도 청주시 청원구 주성동",
-        "emd_cd": "43114105"
+        "emd_cd": 43114105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -252845,7 +252845,7 @@
         "emd_eng_nm": "Mosan-dong",
         "emd_kor_nm": "모산동",
         "full_nm": "충청북도 제천시 모산동",
-        "emd_cd": "43150114"
+        "emd_cd": 43150114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255131,7 +255131,7 @@
         "emd_eng_nm": "Goam-dong",
         "emd_kor_nm": "고암동",
         "full_nm": "충청북도 제천시 고암동",
-        "emd_cd": "43150115"
+        "emd_cd": 43150115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -257909,7 +257909,7 @@
         "emd_eng_nm": "Yeongun-dong",
         "emd_kor_nm": "영운동",
         "full_nm": "충청북도 청주시 상당구 영운동",
-        "emd_cd": "43111119"
+        "emd_cd": 43111119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -259115,7 +259115,7 @@
         "emd_eng_nm": "Daeseong-dong",
         "emd_kor_nm": "대성동",
         "full_nm": "충청북도 청주시 상당구 대성동",
-        "emd_cd": "43111118"
+        "emd_cd": 43111118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -260341,7 +260341,7 @@
         "emd_eng_nm": "Eomjeong-myeon",
         "emd_kor_nm": "엄정면",
         "full_nm": "충청북도 충주시 엄정면",
-        "emd_cd": "43130420"
+        "emd_cd": 43130420
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264515,7 +264515,7 @@
         "emd_eng_nm": "Songjeong-dong",
         "emd_kor_nm": "송정동",
         "full_nm": "충청북도 청주시 흥덕구 송정동",
-        "emd_cd": "43113116"
+        "emd_cd": 43113116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265849,7 +265849,7 @@
         "emd_eng_nm": "Gangseo-dong",
         "emd_kor_nm": "강서동",
         "full_nm": "충청북도 청주시 흥덕구 강서동",
-        "emd_cd": "43113117"
+        "emd_cd": 43113117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267339,7 +267339,7 @@
         "emd_eng_nm": "Chupungnyeong-myeon",
         "emd_kor_nm": "추풍령면",
         "full_nm": "충청북도 영동군 추풍령면",
-        "emd_cd": "43740335"
+        "emd_cd": 43740335
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -271657,7 +271657,7 @@
         "emd_eng_nm": "Hansu-myeon",
         "emd_kor_nm": "한수면",
         "full_nm": "충청북도 제천시 한수면",
-        "emd_cd": "43150350"
+        "emd_cd": 43150350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -275339,7 +275339,7 @@
         "emd_eng_nm": "Gaesin-dong",
         "emd_kor_nm": "개신동",
         "full_nm": "충청북도 청주시 서원구 개신동",
-        "emd_cd": "43112109"
+        "emd_cd": 43112109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -277305,7 +277305,7 @@
         "emd_eng_nm": "Seonghwa-dong",
         "emd_kor_nm": "성화동",
         "full_nm": "충청북도 청주시 서원구 성화동",
-        "emd_cd": "43112108"
+        "emd_cd": 43112108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -278891,7 +278891,7 @@
         "emd_eng_nm": "Hwagye-dong",
         "emd_kor_nm": "화계동",
         "full_nm": "충청북도 청주시 흥덕구 화계동",
-        "emd_cd": "43113135"
+        "emd_cd": 43113135
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -279653,7 +279653,7 @@
         "emd_eng_nm": "Songjeol-dong",
         "emd_kor_nm": "송절동",
         "full_nm": "충청북도 청주시 흥덕구 송절동",
-        "emd_cd": "43113134"
+        "emd_cd": 43113134
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -281491,7 +281491,7 @@
         "emd_eng_nm": "Daegang-myeon",
         "emd_kor_nm": "대강면",
         "full_nm": "충청북도 단양군 대강면",
-        "emd_cd": "43800310"
+        "emd_cd": 43800310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -285165,7 +285165,7 @@
         "emd_eng_nm": "Jongmin-dong",
         "emd_kor_nm": "종민동",
         "full_nm": "충청북도 충주시 종민동",
-        "emd_cd": "43130121"
+        "emd_cd": 43130121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -286967,7 +286967,7 @@
         "emd_eng_nm": "Yongtan-dong",
         "emd_kor_nm": "용탄동",
         "full_nm": "충청북도 충주시 용탄동",
-        "emd_cd": "43130120"
+        "emd_cd": 43130120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -288221,7 +288221,7 @@
         "emd_eng_nm": "Bungmunno 3(sam)-ga",
         "emd_kor_nm": "북문로3가",
         "full_nm": "충청북도 청주시 상당구 북문로3가",
-        "emd_cd": "43111104"
+        "emd_cd": 43111104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -288651,7 +288651,7 @@
         "emd_eng_nm": "Nammunno 1(il)-ga",
         "emd_kor_nm": "남문로1가",
         "full_nm": "충청북도 청주시 상당구 남문로1가",
-        "emd_cd": "43111105"
+        "emd_cd": 43111105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -288885,7 +288885,7 @@
         "emd_eng_nm": "Danyang-eup",
         "emd_kor_nm": "단양읍",
         "full_nm": "충청북도 단양군 단양읍",
-        "emd_cd": "43800250"
+        "emd_cd": 43800250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -292079,7 +292079,7 @@
         "emd_eng_nm": "Hwasan-dong",
         "emd_kor_nm": "화산동",
         "full_nm": "충청북도 제천시 화산동",
-        "emd_cd": "43150109"
+        "emd_cd": 43150109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -293261,7 +293261,7 @@
         "emd_eng_nm": "Myeong-dong",
         "emd_kor_nm": "명동",
         "full_nm": "충청북도 제천시 명동",
-        "emd_cd": "43150108"
+        "emd_cd": 43150108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -294015,7 +294015,7 @@
         "emd_eng_nm": "Hoein-myeon",
         "emd_kor_nm": "회인면",
         "full_nm": "충청북도 보은군 회인면",
-        "emd_cd": "43720385"
+        "emd_cd": 43720385
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -297597,7 +297597,7 @@
         "emd_eng_nm": "Mochung-dong",
         "emd_kor_nm": "모충동",
         "full_nm": "충청북도 청주시 서원구 모충동",
-        "emd_cd": "43112103"
+        "emd_cd": 43112103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -298923,7 +298923,7 @@
         "emd_eng_nm": "Sachang-dong",
         "emd_kor_nm": "사창동",
         "full_nm": "충청북도 청주시 서원구 사창동",
-        "emd_cd": "43112102"
+        "emd_cd": 43112102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299881,7 +299881,7 @@
         "emd_eng_nm": "Woro-dong",
         "emd_kor_nm": "월오동",
         "full_nm": "충청북도 청주시 상당구 월오동",
-        "emd_cd": "43111130"
+        "emd_cd": 43111130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -301203,7 +301203,7 @@
         "emd_eng_nm": "Osong-eup",
         "emd_kor_nm": "오송읍",
         "full_nm": "충청북도 청주시 흥덕구 오송읍",
-        "emd_cd": "43113250"
+        "emd_cd": 43113250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -306117,7 +306117,7 @@
         "emd_eng_nm": "Gangnae-myeon",
         "emd_kor_nm": "강내면",
         "full_nm": "충청북도 청주시 흥덕구 강내면",
-        "emd_cd": "43113310"
+        "emd_cd": 43113310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -313727,7 +313727,7 @@
         "emd_eng_nm": "Bongbang-dong",
         "emd_kor_nm": "봉방동",
         "full_nm": "충청북도 충주시 봉방동",
-        "emd_cd": "43130115"
+        "emd_cd": 43130115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -316001,7 +316001,7 @@
         "emd_eng_nm": "Dalcheon-dong",
         "emd_kor_nm": "달천동",
         "full_nm": "충청북도 충주시 달천동",
-        "emd_cd": "43130114"
+        "emd_cd": 43130114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -317771,7 +317771,7 @@
         "emd_eng_nm": "Songhak-myeon",
         "emd_kor_nm": "송학면",
         "full_nm": "충청북도 제천시 송학면",
-        "emd_cd": "43150380"
+        "emd_cd": 43150380
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -323601,7 +323601,7 @@
         "emd_eng_nm": "Donghyeon-dong",
         "emd_kor_nm": "동현동",
         "full_nm": "충청북도 제천시 동현동",
-        "emd_cd": "43150103"
+        "emd_cd": 43150103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -324739,7 +324739,7 @@
         "emd_eng_nm": "Seobu-dong",
         "emd_kor_nm": "서부동",
         "full_nm": "충청북도 제천시 서부동",
-        "emd_cd": "43150102"
+        "emd_cd": 43150102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -325541,7 +325541,7 @@
         "emd_eng_nm": "Oeha-dong",
         "emd_kor_nm": "외하동",
         "full_nm": "충청북도 청주시 청원구 외하동",
-        "emd_cd": "43114113"
+        "emd_cd": 43114113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -327155,7 +327155,7 @@
         "emd_eng_nm": "Oepyeong-dong",
         "emd_kor_nm": "외평동",
         "full_nm": "충청북도 청주시 청원구 외평동",
-        "emd_cd": "43114112"
+        "emd_cd": 43114112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -330025,7 +330025,7 @@
         "emd_eng_nm": "Suhan-myeon",
         "emd_kor_nm": "수한면",
         "full_nm": "충청북도 보은군 수한면",
-        "emd_cd": "43720360"
+        "emd_cd": 43720360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -335539,7 +335539,7 @@
         "emd_eng_nm": "Mungwang-myeon",
         "emd_kor_nm": "문광면",
         "full_nm": "충청북도 괴산군 문광면",
-        "emd_cd": "43760350"
+        "emd_cd": 43760350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -341049,7 +341049,7 @@
         "emd_eng_nm": "Maedong-myeon",
         "emd_kor_nm": "맹동면",
         "full_nm": "충청북도 음성군 맹동면",
-        "emd_cd": "43770330"
+        "emd_cd": 43770330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -346351,7 +346351,7 @@
         "emd_eng_nm": "Miwon-myeon",
         "emd_kor_nm": "미원면",
         "full_nm": "충청북도 청주시 상당구 미원면",
-        "emd_cd": "43111320"
+        "emd_cd": 43111320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -353161,7 +353161,7 @@
         "emd_eng_nm": "Yongsan-dong",
         "emd_kor_nm": "용산동",
         "full_nm": "충청북도 충주시 용산동",
-        "emd_cd": "43130106"
+        "emd_cd": 43130106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -354811,7 +354811,7 @@
         "emd_eng_nm": "Noeun-myeon",
         "emd_kor_nm": "노은면",
         "full_nm": "충청북도 충주시 노은면",
-        "emd_cd": "43130360"
+        "emd_cd": 43130360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -358181,7 +358181,7 @@
         "emd_eng_nm": "Hoam-dong",
         "emd_kor_nm": "호암동",
         "full_nm": "충청북도 충주시 호암동",
-        "emd_cd": "43130107"
+        "emd_cd": 43130107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -360895,7 +360895,7 @@
         "emd_eng_nm": "Naesu-eup",
         "emd_kor_nm": "내수읍",
         "full_nm": "충청북도 청주시 청원구 내수읍",
-        "emd_cd": "43114250"
+        "emd_cd": 43114250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -368437,7 +368437,7 @@
         "emd_eng_nm": "Bugi-myeon",
         "emd_kor_nm": "북이면",
         "full_nm": "충청북도 청주시 청원구 북이면",
-        "emd_cd": "43114310"
+        "emd_cd": 43114310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -373595,7 +373595,7 @@
         "emd_eng_nm": "Sanseong-dong",
         "emd_kor_nm": "산성동",
         "full_nm": "충청북도 청주시 상당구 산성동",
-        "emd_cd": "43111123"
+        "emd_cd": 43111123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -374905,7 +374905,7 @@
         "emd_eng_nm": "Myeongam-dong",
         "emd_kor_nm": "명암동",
         "full_nm": "충청북도 청주시 상당구 명암동",
-        "emd_cd": "43111122"
+        "emd_cd": 43111122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -376423,7 +376423,7 @@
         "emd_eng_nm": "Jungnim-dong",
         "emd_kor_nm": "죽림동",
         "full_nm": "충청북도 청주시 서원구 죽림동",
-        "emd_cd": "43112110"
+        "emd_cd": 43112110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -377997,7 +377997,7 @@
         "emd_eng_nm": "Jangseong-dong",
         "emd_kor_nm": "장성동",
         "full_nm": "충청북도 청주시 서원구 장성동",
-        "emd_cd": "43112111"
+        "emd_cd": 43112111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -379319,7 +379319,7 @@
         "emd_eng_nm": "Haksan-myeon",
         "emd_kor_nm": "학산면",
         "full_nm": "충청북도 영동군 학산면",
-        "emd_cd": "43740380"
+        "emd_cd": 43740380
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -384941,7 +384941,7 @@
         "emd_eng_nm": "Uam-dong",
         "emd_kor_nm": "우암동",
         "full_nm": "충청북도 청주시 청원구 우암동",
-        "emd_cd": "43114101"
+        "emd_cd": 43114101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -386163,7 +386163,7 @@
         "emd_eng_nm": "Gunbuk-myeon",
         "emd_kor_nm": "군북면",
         "full_nm": "충청북도 옥천군 군북면",
-        "emd_cd": "43730380"
+        "emd_cd": 43730380
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -390013,7 +390013,7 @@
         "emd_eng_nm": "Eosangcheon-myeon",
         "emd_kor_nm": "어상천면",
         "full_nm": "충청북도 단양군 어상천면",
-        "emd_cd": "43800340"
+        "emd_cd": 43800340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -392655,7 +392655,7 @@
         "emd_eng_nm": "Gagyeong-dong",
         "emd_kor_nm": "가경동",
         "full_nm": "충청북도 청주시 흥덕구 가경동",
-        "emd_cd": "43113113"
+        "emd_cd": 43113113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -394133,7 +394133,7 @@
         "emd_eng_nm": "Yeongcheon-dong",
         "emd_kor_nm": "영천동",
         "full_nm": "충청북도 제천시 영천동",
-        "emd_cd": "43150110"
+        "emd_cd": 43150110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -395183,7 +395183,7 @@
         "emd_eng_nm": "Haso-dong",
         "emd_kor_nm": "하소동",
         "full_nm": "충청북도 제천시 하소동",
-        "emd_cd": "43150111"
+        "emd_cd": 43150111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -396141,7 +396141,7 @@
         "emd_eng_nm": "Jungangtap-myeon",
         "emd_kor_nm": "중앙탑면",
         "full_nm": "충청북도 충주시 중앙탑면",
-        "emd_cd": "43130385"
+        "emd_cd": 43130385
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -399387,7 +399387,7 @@
         "emd_eng_nm": "Undong-dong",
         "emd_kor_nm": "운동동",
         "full_nm": "충청북도 청주시 상당구 운동동",
-        "emd_cd": "43111129"
+        "emd_cd": 43111129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -400445,7 +400445,7 @@
         "emd_eng_nm": "Jibuk-dong",
         "emd_kor_nm": "지북동",
         "full_nm": "충청북도 청주시 상당구 지북동",
-        "emd_cd": "43111128"
+        "emd_cd": 43111128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -401703,7 +401703,7 @@
         "emd_eng_nm": "Wangam-dong",
         "emd_kor_nm": "왕암동",
         "full_nm": "충청북도 제천시 왕암동",
-        "emd_cd": "43150124"
+        "emd_cd": 43150124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -404877,7 +404877,7 @@
         "emd_eng_nm": "Cheonnam-dong",
         "emd_kor_nm": "천남동",
         "full_nm": "충청북도 제천시 천남동",
-        "emd_cd": "43150125"
+        "emd_cd": 43150125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -406623,7 +406623,7 @@
         "emd_eng_nm": "Sinseong-dong",
         "emd_kor_nm": "신성동",
         "full_nm": "충청북도 청주시 흥덕구 신성동",
-        "emd_cd": "43113126"
+        "emd_cd": 43113126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -407625,7 +407625,7 @@
         "emd_eng_nm": "Pyeong-dong",
         "emd_kor_nm": "평동",
         "full_nm": "충청북도 청주시 흥덕구 평동",
-        "emd_cd": "43113127"
+        "emd_cd": 43113127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -408447,7 +408447,7 @@
         "emd_eng_nm": "Sancheok-myeon",
         "emd_kor_nm": "산척면",
         "full_nm": "충청북도 충주시 산척면",
-        "emd_cd": "43130410"
+        "emd_cd": 43130410
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -412913,7 +412913,7 @@
         "emd_eng_nm": "Saenggeuk-myeon",
         "emd_kor_nm": "생극면",
         "full_nm": "충청북도 음성군 생극면",
-        "emd_cd": "43770360"
+        "emd_cd": 43770360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -419271,7 +419271,7 @@
         "emd_eng_nm": "Munbaek-myeon",
         "emd_kor_nm": "문백면",
         "full_nm": "충청북도 진천군 문백면",
-        "emd_cd": "43750330"
+        "emd_cd": 43750330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -426097,7 +426097,7 @@
         "emd_eng_nm": "Tap-dong",
         "emd_kor_nm": "탑동",
         "full_nm": "충청북도 청주시 상당구 탑동",
-        "emd_cd": "43111117"
+        "emd_cd": 43111117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -427263,7 +427263,7 @@
         "emd_eng_nm": "Sangchon-myeon",
         "emd_kor_nm": "상촌면",
         "full_nm": "충청북도 영동군 상촌면",
-        "emd_cd": "43740350"
+        "emd_cd": 43740350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -430993,7 +430993,7 @@
         "emd_eng_nm": "Maro-myeon",
         "emd_kor_nm": "마로면",
         "full_nm": "충청북도 보은군 마로면",
-        "emd_cd": "43720330"
+        "emd_cd": 43720330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -436123,7 +436123,7 @@
         "emd_eng_nm": "Seokgok-dong",
         "emd_kor_nm": "석곡동",
         "full_nm": "충청북도 청주시 흥덕구 석곡동",
-        "emd_cd": "43113118"
+        "emd_cd": 43113118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -437629,7 +437629,7 @@
         "emd_eng_nm": "Hyuam-dong",
         "emd_kor_nm": "휴암동",
         "full_nm": "충청북도 청주시 흥덕구 휴암동",
-        "emd_cd": "43113119"
+        "emd_cd": 43113119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -438827,7 +438827,7 @@
         "emd_eng_nm": "Cheongsan-myeon",
         "emd_kor_nm": "청산면",
         "full_nm": "충청북도 옥천군 청산면",
-        "emd_cd": "43730350"
+        "emd_cd": 43730350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -443397,7 +443397,7 @@
         "emd_eng_nm": "Buljeong-myeon",
         "emd_kor_nm": "불정면",
         "full_nm": "충청북도 괴산군 불정면",
-        "emd_cd": "43760410"
+        "emd_cd": 43760410
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -448035,7 +448035,7 @@
         "emd_eng_nm": "Sugok-dong",
         "emd_kor_nm": "수곡동",
         "full_nm": "충청북도 청주시 서원구 수곡동",
-        "emd_cd": "43112107"
+        "emd_cd": 43112107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -449405,7 +449405,7 @@
         "emd_eng_nm": "Bunpyeong-dong",
         "emd_kor_nm": "분평동",
         "full_nm": "충청북도 청주시 서원구 분평동",
-        "emd_cd": "43112106"
+        "emd_cd": 43112106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -451423,7 +451423,7 @@
         "emd_eng_nm": "Gaju-dong",
         "emd_kor_nm": "가주동",
         "full_nm": "충청북도 충주시 가주동",
-        "emd_cd": "43130111"
+        "emd_cd": 43130111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -452653,7 +452653,7 @@
         "emd_eng_nm": "Pung-dong",
         "emd_kor_nm": "풍동",
         "full_nm": "충청북도 충주시 풍동",
-        "emd_cd": "43130110"
+        "emd_cd": 43130110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -453827,7 +453827,7 @@
         "emd_eng_nm": "Gagok-myeon",
         "emd_kor_nm": "가곡면",
         "full_nm": "충청북도 단양군 가곡면",
-        "emd_cd": "43800320"
+        "emd_cd": 43800320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -457209,7 +457209,7 @@
         "emd_eng_nm": "Deoksan-eup",
         "emd_kor_nm": "덕산읍",
         "full_nm": "충청북도 진천군 덕산읍",
-        "emd_cd": "43750253"
+        "emd_cd": 43750253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -463671,7 +463671,7 @@
         "emd_eng_nm": "Jungangno 2(i)-ga",
         "emd_kor_nm": "중앙로2가",
         "full_nm": "충청북도 제천시 중앙로2가",
-        "emd_cd": "43150107"
+        "emd_cd": 43150107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -464313,7 +464313,7 @@
         "emd_eng_nm": "Baegun-myeon",
         "emd_kor_nm": "백운면",
         "full_nm": "충청북도 제천시 백운면",
-        "emd_cd": "43150360"
+        "emd_cd": 43150360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -467643,7 +467643,7 @@
         "emd_eng_nm": "Jungangno 1(il)-ga",
         "emd_kor_nm": "중앙로1가",
         "full_nm": "충청북도 제천시 중앙로1가",
-        "emd_cd": "43150106"
+        "emd_cd": 43150106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -467977,7 +467977,7 @@
         "emd_eng_nm": "Sinbong-dong",
         "emd_kor_nm": "신봉동",
         "full_nm": "충청북도 청주시 흥덕구 신봉동",
-        "emd_cd": "43113105"
+        "emd_cd": 43113105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -469735,7 +469735,7 @@
         "emd_eng_nm": "Uncheon-dong",
         "emd_kor_nm": "운천동",
         "full_nm": "충청북도 청주시 흥덕구 운천동",
-        "emd_cd": "43113104"
+        "emd_cd": 43113104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -470681,7 +470681,7 @@
         "emd_eng_nm": "Samseung-myeon",
         "emd_kor_nm": "삼승면",
         "full_nm": "충청북도 보은군 삼승면",
-        "emd_cd": "43720350"
+        "emd_cd": 43720350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -474163,7 +474163,7 @@
         "emd_eng_nm": "Annae-myeon",
         "emd_kor_nm": "안내면",
         "full_nm": "충청북도 옥천군 안내면",
-        "emd_cd": "43730330"
+        "emd_cd": 43730330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -480857,7 +480857,7 @@
         "emd_eng_nm": "Nangseong-myeon",
         "emd_kor_nm": "낭성면",
         "full_nm": "충청북도 청주시 상당구 낭성면",
-        "emd_cd": "43111310"
+        "emd_cd": 43111310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -485539,7 +485539,7 @@
         "emd_eng_nm": "Iwol-myeon",
         "emd_kor_nm": "이월면",
         "full_nm": "충청북도 진천군 이월면",
-        "emd_cd": "43750350"
+        "emd_cd": 43750350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -493797,7 +493797,7 @@
         "emd_eng_nm": "Cheongcheon-myeon",
         "emd_kor_nm": "청천면",
         "full_nm": "충청북도 괴산군 청천면",
-        "emd_cd": "43760360"
+        "emd_cd": 43760360
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -503203,7 +503203,7 @@
         "emd_eng_nm": "Daesowon-myeon",
         "emd_kor_nm": "대소원면",
         "full_nm": "충청북도 충주시 대소원면",
-        "emd_cd": "43130335"
+        "emd_cd": 43130335
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -508513,7 +508513,7 @@
         "emd_eng_nm": "Sangsin-dong",
         "emd_kor_nm": "상신동",
         "full_nm": "충청북도 청주시 흥덕구 상신동",
-        "emd_cd": "43113131"
+        "emd_cd": 43113131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -509819,7 +509819,7 @@
         "emd_eng_nm": "Naegok-dong",
         "emd_kor_nm": "내곡동",
         "full_nm": "충청북도 청주시 흥덕구 내곡동",
-        "emd_cd": "43113130"
+        "emd_cd": 43113130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -510881,7 +510881,7 @@
         "emd_eng_nm": "Jihyeon-dong",
         "emd_kor_nm": "지현동",
         "full_nm": "충청북도 충주시 지현동",
-        "emd_cd": "43130125"
+        "emd_cd": 43130125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -512371,7 +512371,7 @@
         "emd_eng_nm": "Chungui-dong",
         "emd_kor_nm": "충의동",
         "full_nm": "충청북도 충주시 충의동",
-        "emd_cd": "43130124"
+        "emd_cd": 43130124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -512641,7 +512641,7 @@
         "emd_eng_nm": "Oksan-myeon",
         "emd_kor_nm": "옥산면",
         "full_nm": "충청북도 청주시 흥덕구 옥산면",
-        "emd_cd": "43113320"
+        "emd_cd": 43113320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -521483,7 +521483,7 @@
         "emd_eng_nm": "Yeong-dong",
         "emd_kor_nm": "영동",
         "full_nm": "충청북도 청주시 상당구 영동",
-        "emd_cd": "43111101"
+        "emd_cd": 43111101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -522077,7 +522077,7 @@
         "emd_eng_nm": "Bongyang-eup",
         "emd_kor_nm": "봉양읍",
         "full_nm": "충청북도 제천시 봉양읍",
-        "emd_cd": "43150250"
+        "emd_cd": 43150250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -529687,7 +529687,7 @@
         "emd_eng_nm": "Songnisan-myeon",
         "emd_kor_nm": "속리산면",
         "full_nm": "충청북도 보은군 속리산면",
-        "emd_cd": "43720315"
+        "emd_cd": 43720315
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -532297,7 +532297,7 @@
         "emd_eng_nm": "Sajik-dong",
         "emd_kor_nm": "사직동",
         "full_nm": "충청북도 청주시 서원구 사직동",
-        "emd_cd": "43112101"
+        "emd_cd": 43112101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -534135,7 +534135,7 @@
         "emd_eng_nm": "Angseong-myeon",
         "emd_kor_nm": "앙성면",
         "full_nm": "충청북도 충주시 앙성면",
-        "emd_cd": "43130370"
+        "emd_cd": 43130370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -538721,7 +538721,7 @@
         "emd_eng_nm": "Chilgeum-dong",
         "emd_kor_nm": "칠금동",
         "full_nm": "충청북도 충주시 칠금동",
-        "emd_cd": "43130116"
+        "emd_cd": 43130116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -540451,7 +540451,7 @@
         "emd_eng_nm": "Geumseong-myeon",
         "emd_kor_nm": "금성면",
         "full_nm": "충청북도 제천시 금성면",
-        "emd_cd": "43150310"
+        "emd_cd": 43150310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -544621,7 +544621,7 @@
         "emd_eng_nm": "Jeokseong-myeon",
         "emd_kor_nm": "적성면",
         "full_nm": "충청북도 단양군 적성면",
-        "emd_cd": "43800350"
+        "emd_cd": 43800350
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -549139,7 +549139,7 @@
         "emd_eng_nm": "Uirim-dong",
         "emd_kor_nm": "의림동",
         "full_nm": "충청북도 제천시 의림동",
-        "emd_cd": "43150101"
+        "emd_cd": 43150101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -550069,7 +550069,7 @@
         "emd_eng_nm": "Yangsan-myeon",
         "emd_kor_nm": "양산면",
         "full_nm": "충청북도 영동군 양산면",
-        "emd_cd": "43740390"
+        "emd_cd": 43740390
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -554715,7 +554715,7 @@
         "emd_eng_nm": "Geumneung-dong",
         "emd_kor_nm": "금릉동",
         "full_nm": "충청북도 충주시 금릉동",
-        "emd_cd": "43130128"
+        "emd_cd": 43130128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -556465,7 +556465,7 @@
         "emd_eng_nm": "Odong-dong",
         "emd_kor_nm": "오동동",
         "full_nm": "충청북도 청주시 청원구 오동동",
-        "emd_cd": "43114110"
+        "emd_cd": 43114110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -557935,7 +557935,7 @@
         "emd_eng_nm": "Oenam-dong",
         "emd_kor_nm": "외남동",
         "full_nm": "충청북도 청주시 청원구 외남동",
-        "emd_cd": "43114111"
+        "emd_cd": 43114111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -559733,7 +559733,7 @@
         "emd_eng_nm": "Nami-myeon",
         "emd_kor_nm": "남이면",
         "full_nm": "충청북도 청주시 서원구 남이면",
-        "emd_cd": "43112310"
+        "emd_cd": 43112310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -568903,7 +568903,7 @@
         "emd_eng_nm": "Dongnyang-myeon",
         "emd_kor_nm": "동량면",
         "full_nm": "충청북도 충주시 동량면",
-        "emd_cd": "43130400"
+        "emd_cd": 43130400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -574553,7 +574553,7 @@
         "emd_eng_nm": "Oebuk-dong",
         "emd_kor_nm": "외북동",
         "full_nm": "충청북도 청주시 흥덕구 외북동",
-        "emd_cd": "43113136"
+        "emd_cd": 43113136
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -576155,7 +576155,7 @@
         "emd_eng_nm": "Hyangjeong-dong",
         "emd_kor_nm": "향정동",
         "full_nm": "충청북도 청주시 흥덕구 향정동",
-        "emd_cd": "43113137"
+        "emd_cd": 43113137
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -577257,7 +577257,7 @@
         "emd_eng_nm": "Allim-dong",
         "emd_kor_nm": "안림동",
         "full_nm": "충청북도 충주시 안림동",
-        "emd_cd": "43130122"
+        "emd_cd": 43130122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -579483,7 +579483,7 @@
         "emd_eng_nm": "Mokbeol-dong",
         "emd_kor_nm": "목벌동",
         "full_nm": "충청북도 충주시 목벌동",
-        "emd_cd": "43130123"
+        "emd_cd": 43130123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -581073,7 +581073,7 @@
         "emd_eng_nm": "Goesan-eup",
         "emd_kor_nm": "괴산읍",
         "full_nm": "충청북도 괴산군 괴산읍",
-        "emd_cd": "43760250"
+        "emd_cd": 43760250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -586431,7 +586431,7 @@
         "emd_eng_nm": "Sinchon-dong",
         "emd_kor_nm": "신촌동",
         "full_nm": "충청북도 청주시 흥덕구 신촌동",
-        "emd_cd": "43113141"
+        "emd_cd": 43113141
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -587861,7 +587861,7 @@
         "emd_eng_nm": "Jeongbong-dong",
         "emd_kor_nm": "정봉동",
         "full_nm": "충청북도 청주시 흥덕구 정봉동",
-        "emd_cd": "43113140"
+        "emd_cd": 43113140
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -589107,7 +589107,7 @@
         "emd_eng_nm": "Munhwa-dong",
         "emd_kor_nm": "문화동",
         "full_nm": "충청북도 청주시 상당구 문화동",
-        "emd_cd": "43111107"
+        "emd_cd": 43111107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -589817,7 +589817,7 @@
         "emd_eng_nm": "Maepo-eup",
         "emd_kor_nm": "매포읍",
         "full_nm": "충청북도 단양군 매포읍",
-        "emd_cd": "43800253"
+        "emd_cd": 43800253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -594275,7 +594275,7 @@
         "emd_eng_nm": "Nammunno 2(i)-ga",
         "emd_kor_nm": "남문로2가",
         "full_nm": "충청북도 청주시 상당구 남문로2가",
-        "emd_cd": "43111106"
+        "emd_cd": 43111106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -594449,7 +594449,7 @@
         "emd_eng_nm": "Gamgok-myeon",
         "emd_kor_nm": "감곡면",
         "full_nm": "충청북도 음성군 감곡면",
-        "emd_cd": "43770370"
+        "emd_cd": 43770370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -600923,7 +600923,7 @@
         "emd_eng_nm": "Chopyeong-myeon",
         "emd_kor_nm": "초평면",
         "full_nm": "충청북도 진천군 초평면",
-        "emd_cd": "43750320"
+        "emd_cd": 43750320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -608313,7 +608313,7 @@
         "emd_eng_nm": "Gammul-myeon",
         "emd_kor_nm": "감물면",
         "full_nm": "충청북도 괴산군 감물면",
-        "emd_cd": "43760310"
+        "emd_cd": 43760310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -611667,7 +611667,7 @@
         "emd_eng_nm": "Maegok-myeon",
         "emd_kor_nm": "매곡면",
         "full_nm": "충청북도 영동군 매곡면",
-        "emd_cd": "43740340"
+        "emd_cd": 43740340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -614825,7 +614825,7 @@
         "emd_eng_nm": "Cheongseong-myeon",
         "emd_kor_nm": "청성면",
         "full_nm": "충청북도 옥천군 청성면",
-        "emd_cd": "43730340"
+        "emd_cd": 43730340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -619763,7 +619763,7 @@
         "emd_eng_nm": "Seongnae-dong",
         "emd_kor_nm": "성내동",
         "full_nm": "충청북도 충주시 성내동",
-        "emd_cd": "43130101"
+        "emd_cd": 43130101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -620105,7 +620105,7 @@
         "emd_eng_nm": "Yeongchun-myeon",
         "emd_kor_nm": "영춘면",
         "full_nm": "충청북도 단양군 영춘면",
-        "emd_cd": "43800330"
+        "emd_cd": 43800330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -628095,7 +628095,7 @@
         "emd_eng_nm": "Yongam-dong",
         "emd_kor_nm": "용암동",
         "full_nm": "충청북도 청주시 상당구 용암동",
-        "emd_cd": "43111124"
+        "emd_cd": 43111124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -630757,7 +630757,7 @@
         "emd_eng_nm": "Yongjeong-dong",
         "emd_kor_nm": "용정동",
         "full_nm": "충청북도 청주시 상당구 용정동",
-        "emd_cd": "43111125"
+        "emd_cd": 43111125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -633511,7 +633511,7 @@
         "emd_eng_nm": "Sosu-myeon",
         "emd_kor_nm": "소수면",
         "full_nm": "충청북도 괴산군 소수면",
-        "emd_cd": "43760400"
+        "emd_cd": 43760400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -637301,7 +637301,7 @@
         "emd_eng_nm": "Daerang-dong",
         "emd_kor_nm": "대랑동",
         "full_nm": "충청북도 제천시 대랑동",
-        "emd_cd": "43150128"
+        "emd_cd": 43150128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -638931,7 +638931,7 @@
         "emd_eng_nm": "Naebuk-myeon",
         "emd_kor_nm": "내북면",
         "full_nm": "충청북도 보은군 내북면",
-        "emd_cd": "43720390"
+        "emd_cd": 43720390
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -643377,7 +643377,7 @@
         "emd_eng_nm": "Judeok-eup",
         "emd_kor_nm": "주덕읍",
         "full_nm": "충청북도 충주시 주덕읍",
-        "emd_cd": "43130250"
+        "emd_cd": 43130250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -649399,7 +649399,7 @@
         "emd_eng_nm": "Jeongsang-dong",
         "emd_kor_nm": "정상동",
         "full_nm": "충청북도 청주시 청원구 정상동",
-        "emd_cd": "43114107"
+        "emd_cd": 43114107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -650969,7 +650969,7 @@
         "emd_eng_nm": "Jujung-dong",
         "emd_kor_nm": "주중동",
         "full_nm": "충청북도 청주시 청원구 주중동",
-        "emd_cd": "43114106"
+        "emd_cd": 43114106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -652735,7 +652735,7 @@
         "emd_eng_nm": "Heukseok-dong",
         "emd_kor_nm": "흑석동",
         "full_nm": "충청북도 제천시 흑석동",
-        "emd_cd": "43150117"
+        "emd_cd": 43150117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -654601,7 +654601,7 @@
         "emd_eng_nm": "Jangnak-dong",
         "emd_kor_nm": "장락동",
         "full_nm": "충청북도 제천시 장락동",
-        "emd_cd": "43150116"
+        "emd_cd": 43150116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -656523,7 +656523,7 @@
         "emd_eng_nm": "Salmi-myeon",
         "emd_kor_nm": "살미면",
         "full_nm": "충청북도 충주시 살미면",
-        "emd_cd": "43130310"
+        "emd_cd": 43130310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -661501,7 +661501,7 @@
         "emd_eng_nm": "Bongmyeong-dong",
         "emd_kor_nm": "봉명동",
         "full_nm": "충청북도 청주시 흥덕구 봉명동",
-        "emd_cd": "43113115"
+        "emd_cd": 43113115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -663231,7 +663231,7 @@
         "emd_eng_nm": "Bokdae-dong",
         "emd_kor_nm": "복대동",
         "full_nm": "충청북도 청주시 흥덕구 복대동",
-        "emd_cd": "43113114"
+        "emd_cd": 43113114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -665865,7 +665865,7 @@
         "emd_eng_nm": "Suanbo-myeon",
         "emd_kor_nm": "수안보면",
         "full_nm": "충청북도 충주시 수안보면",
-        "emd_cd": "43130325"
+        "emd_cd": 43130325
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -669699,7 +669699,7 @@
         "emd_eng_nm": "Hyeonam-dong",
         "emd_kor_nm": "현암동",
         "full_nm": "충청북도 청주시 흥덕구 현암동",
-        "emd_cd": "43113121"
+        "emd_cd": 43113121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -671157,7 +671157,7 @@
         "emd_eng_nm": "Sinjeon-dong",
         "emd_kor_nm": "신전동",
         "full_nm": "충청북도 청주시 흥덕구 신전동",
-        "emd_cd": "43113120"
+        "emd_cd": 43113120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -672899,7 +672899,7 @@
         "emd_eng_nm": "Eumseong-eup",
         "emd_kor_nm": "음성읍",
         "full_nm": "충청북도 음성군 음성읍",
-        "emd_cd": "43770250"
+        "emd_cd": 43770250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -680305,7 +680305,7 @@
         "emd_eng_nm": "Sangok-dong",
         "emd_kor_nm": "산곡동",
         "full_nm": "충청북도 제천시 산곡동",
-        "emd_cd": "43150123"
+        "emd_cd": 43150123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -681631,7 +681631,7 @@
         "emd_eng_nm": "Myeongji-dong",
         "emd_kor_nm": "명지동",
         "full_nm": "충청북도 제천시 명지동",
-        "emd_cd": "43150122"
+        "emd_cd": 43150122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -683173,7 +683173,7 @@
         "emd_eng_nm": "Tanbu-myeon",
         "emd_kor_nm": "탄부면",
         "full_nm": "충청북도 보은군 탄부면",
-        "emd_cd": "43720340"
+        "emd_cd": 43720340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -687427,7 +687427,7 @@
         "emd_eng_nm": "Annam-myeon",
         "emd_kor_nm": "안남면",
         "full_nm": "충청북도 옥천군 안남면",
-        "emd_cd": "43730320"
+        "emd_cd": 43730320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -689485,7 +689485,7 @@
         "emd_eng_nm": "Baekgok-myeon",
         "emd_kor_nm": "백곡면",
         "full_nm": "충청북도 진천군 백곡면",
-        "emd_cd": "43750340"
+        "emd_cd": 43750340
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -692783,7 +692783,7 @@
         "emd_eng_nm": "Soi-myeon",
         "emd_kor_nm": "소이면",
         "full_nm": "충청북도 음성군 소이면",
-        "emd_cd": "43770310"
+        "emd_cd": 43770310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -697617,7 +697617,7 @@
         "emd_eng_nm": "Hwanggan-myeon",
         "emd_kor_nm": "황간면",
         "full_nm": "충청북도 영동군 황간면",
-        "emd_cd": "43740320"
+        "emd_cd": 43740320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -701423,7 +701423,7 @@
         "emd_eng_nm": "Cheongan-myeon",
         "emd_kor_nm": "청안면",
         "full_nm": "충청북도 괴산군 청안면",
-        "emd_cd": "43760370"
+        "emd_cd": 43760370
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -706909,7 +706909,7 @@
         "emd_eng_nm": "Namju-dong",
         "emd_kor_nm": "남주동",
         "full_nm": "충청북도 청주시 상당구 남주동",
-        "emd_cd": "43111110"
+        "emd_cd": 43111110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -707199,7 +707199,7 @@
         "emd_eng_nm": "Seokgyo-dong",
         "emd_kor_nm": "석교동",
         "full_nm": "충청북도 청주시 상당구 석교동",
-        "emd_cd": "43111111"
+        "emd_cd": 43111111
       },
       "geometry": {
         "type": "MultiPolygon",

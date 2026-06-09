@@ -78642,7 +78642,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Chungcheongbuk-do",
-        "ctprvn_cd": "43",
+        "ctprvn_cd": 43,
         "ctp_kor_nm": "충청북도"
       }
     }

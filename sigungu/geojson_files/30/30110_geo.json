@@ -10249,7 +10249,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "30110",
+        "sig_cd": 30110,
         "sig_eng_nm": "Dong-gu",
         "full_nm": "대전광역시 동구",
         "sig_kor_nm": "동구"

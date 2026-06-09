@@ -7,7 +7,7 @@
         "emd_eng_nm": "Donam-dong",
         "emd_kor_nm": "도남동",
         "full_nm": "제주특별자치도 제주시 도남동",
-        "emd_cd": "50110129"
+        "emd_cd": 50110129
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1617,7 +1617,7 @@
         "emd_eng_nm": "Dodu 2(i)-dong",
         "emd_kor_nm": "도두이동",
         "full_nm": "제주특별자치도 제주시 도두이동",
-        "emd_cd": "50110128"
+        "emd_cd": 50110128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4715,7 +4715,7 @@
         "emd_eng_nm": "Ara 1(il)-dong",
         "emd_kor_nm": "아라일동",
         "full_nm": "제주특별자치도 제주시 아라일동",
-        "emd_cd": "50110117"
+        "emd_cd": 50110117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10057,7 +10057,7 @@
         "emd_eng_nm": "Pyoseon-myeon",
         "emd_kor_nm": "표선면",
         "full_nm": "제주특별자치도 서귀포시 표선면",
-        "emd_cd": "50130320"
+        "emd_cd": 50130320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18063,7 +18063,7 @@
         "emd_eng_nm": "Bonggae-dong",
         "emd_kor_nm": "봉개동",
         "full_nm": "제주특별자치도 제주시 봉개동",
-        "emd_cd": "50110116"
+        "emd_cd": 50110116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22697,7 +22697,7 @@
         "emd_eng_nm": "Oedo 1(il)-dong",
         "emd_kor_nm": "외도일동",
         "full_nm": "제주특별자치도 제주시 외도일동",
-        "emd_cd": "50110123"
+        "emd_cd": 50110123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24487,7 +24487,7 @@
         "emd_eng_nm": "Nohyeong-dong",
         "emd_kor_nm": "노형동",
         "full_nm": "제주특별자치도 제주시 노형동",
-        "emd_cd": "50110122"
+        "emd_cd": 50110122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27953,7 +27953,7 @@
         "emd_eng_nm": "Hogeun-dong",
         "emd_kor_nm": "호근동",
         "full_nm": "제주특별자치도 서귀포시 호근동",
-        "emd_cd": "50130104"
+        "emd_cd": 50130104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32759,7 +32759,7 @@
         "emd_eng_nm": "Donghong-dong",
         "emd_kor_nm": "동홍동",
         "full_nm": "제주특별자치도 서귀포시 동홍동",
-        "emd_cd": "50130105"
+        "emd_cd": 50130105
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37601,7 +37601,7 @@
         "emd_eng_nm": "Hangyeong-myeon",
         "emd_kor_nm": "한경면",
         "full_nm": "제주특별자치도 제주시 한경면",
-        "emd_cd": "50110310"
+        "emd_cd": 50110310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52405,7 +52405,7 @@
         "emd_eng_nm": "Hallim-eup",
         "emd_kor_nm": "한림읍",
         "full_nm": "제주특별자치도 제주시 한림읍",
-        "emd_cd": "50110250"
+        "emd_cd": 50110250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67043,7 +67043,7 @@
         "emd_eng_nm": "Saekdal-dong",
         "emd_kor_nm": "색달동",
         "full_nm": "제주특별자치도 서귀포시 색달동",
-        "emd_cd": "50130119"
+        "emd_cd": 50130119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70705,7 +70705,7 @@
         "emd_eng_nm": "Hawon-dong",
         "emd_kor_nm": "하원동",
         "full_nm": "제주특별자치도 서귀포시 하원동",
-        "emd_cd": "50130118"
+        "emd_cd": 50130118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74867,7 +74867,7 @@
         "emd_eng_nm": "Ildo 1(il)-dong",
         "emd_kor_nm": "일도일동",
         "full_nm": "제주특별자치도 제주시 일도일동",
-        "emd_cd": "50110101"
+        "emd_cd": 50110101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76685,7 +76685,7 @@
         "emd_eng_nm": "Odeung-dong",
         "emd_kor_nm": "오등동",
         "full_nm": "제주특별자치도 제주시 오등동",
-        "emd_cd": "50110134"
+        "emd_cd": 50110134
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79943,7 +79943,7 @@
         "emd_eng_nm": "Wolpyeong-dong",
         "emd_kor_nm": "월평동",
         "full_nm": "제주특별자치도 제주시 월평동",
-        "emd_cd": "50110135"
+        "emd_cd": 50110135
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83453,7 +83453,7 @@
         "emd_eng_nm": "Hoesu-dong",
         "emd_kor_nm": "회수동",
         "full_nm": "제주특별자치도 서귀포시 회수동",
-        "emd_cd": "50130113"
+        "emd_cd": 50130113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85599,7 +85599,7 @@
         "emd_eng_nm": "Jungmun-dong",
         "emd_kor_nm": "중문동",
         "full_nm": "제주특별자치도 서귀포시 중문동",
-        "emd_cd": "50130112"
+        "emd_cd": 50130112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89145,7 +89145,7 @@
         "emd_eng_nm": "Sangye-dong",
         "emd_kor_nm": "상예동",
         "full_nm": "제주특별자치도 서귀포시 상예동",
-        "emd_cd": "50130120"
+        "emd_cd": 50130120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92175,7 +92175,7 @@
         "emd_eng_nm": "Haye-dong",
         "emd_kor_nm": "하예동",
         "full_nm": "제주특별자치도 서귀포시 하예동",
-        "emd_cd": "50130121"
+        "emd_cd": 50130121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94093,7 +94093,7 @@
         "emd_eng_nm": "Gujwa-eup",
         "emd_kor_nm": "구좌읍",
         "full_nm": "제주특별자치도 제주시 구좌읍",
-        "emd_cd": "50110256"
+        "emd_cd": 50110256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111703,7 +111703,7 @@
         "emd_eng_nm": "Haean-dong",
         "emd_kor_nm": "해안동",
         "full_nm": "제주특별자치도 제주시 해안동",
-        "emd_cd": "50110139"
+        "emd_cd": 50110139
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114097,7 +114097,7 @@
         "emd_eng_nm": "Dopyeong-dong",
         "emd_kor_nm": "도평동",
         "full_nm": "제주특별자치도 제주시 도평동",
-        "emd_cd": "50110138"
+        "emd_cd": 50110138
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115783,7 +115783,7 @@
         "emd_eng_nm": "Geonip-dong",
         "emd_kor_nm": "건입동",
         "full_nm": "제주특별자치도 제주시 건입동",
-        "emd_cd": "50110107"
+        "emd_cd": 50110107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121025,7 +121025,7 @@
         "emd_eng_nm": "Samdo 2(i)-dong",
         "emd_kor_nm": "삼도이동",
         "full_nm": "제주특별자치도 제주시 삼도이동",
-        "emd_cd": "50110106"
+        "emd_cd": 50110106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122395,7 +122395,7 @@
         "emd_eng_nm": "Hoecheon-dong",
         "emd_kor_nm": "회천동",
         "full_nm": "제주특별자치도 제주시 회천동",
-        "emd_cd": "50110133"
+        "emd_cd": 50110133
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126585,7 +126585,7 @@
         "emd_eng_nm": "Yonggang-dong",
         "emd_kor_nm": "용강동",
         "full_nm": "제주특별자치도 제주시 용강동",
-        "emd_cd": "50110132"
+        "emd_cd": 50110132
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129139,7 +129139,7 @@
         "emd_eng_nm": "Daepo-dong",
         "emd_kor_nm": "대포동",
         "full_nm": "제주특별자치도 서귀포시 대포동",
-        "emd_cd": "50130114"
+        "emd_cd": 50130114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134069,7 +134069,7 @@
         "emd_eng_nm": "Wolpyeong-dong",
         "emd_kor_nm": "월평동",
         "full_nm": "제주특별자치도 서귀포시 월평동",
-        "emd_cd": "50130115"
+        "emd_cd": 50130115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136115,7 +136115,7 @@
         "emd_eng_nm": "Seongsan-eup",
         "emd_kor_nm": "성산읍",
         "full_nm": "제주특별자치도 서귀포시 성산읍",
-        "emd_cd": "50130259"
+        "emd_cd": 50130259
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149503,7 +149503,7 @@
         "emd_eng_nm": "Yongdam 3(sam)-dong",
         "emd_kor_nm": "용담삼동",
         "full_nm": "제주특별자치도 제주시 용담삼동",
-        "emd_cd": "50110110"
+        "emd_cd": 50110110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152681,7 +152681,7 @@
         "emd_eng_nm": "Hwabuk 1(il)-dong",
         "emd_kor_nm": "화북일동",
         "full_nm": "제주특별자치도 제주시 화북일동",
-        "emd_cd": "50110111"
+        "emd_cd": 50110111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156439,7 +156439,7 @@
         "emd_eng_nm": "Sinhyo-dong",
         "emd_kor_nm": "신효동",
         "full_nm": "제주특별자치도 서귀포시 신효동",
-        "emd_cd": "50130109"
+        "emd_cd": 50130109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -159537,7 +159537,7 @@
         "emd_eng_nm": "Hahyo-dong",
         "emd_kor_nm": "하효동",
         "full_nm": "제주특별자치도 서귀포시 하효동",
-        "emd_cd": "50130108"
+        "emd_cd": 50130108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -161863,7 +161863,7 @@
         "emd_eng_nm": "Namwon-eup",
         "emd_kor_nm": "남원읍",
         "full_nm": "제주특별자치도 서귀포시 남원읍",
-        "emd_cd": "50130253"
+        "emd_cd": 50130253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172557,7 +172557,7 @@
         "emd_eng_nm": "Oedo 2(i)-dong",
         "emd_kor_nm": "외도이동",
         "full_nm": "제주특별자치도 제주시 외도이동",
-        "emd_cd": "50110124"
+        "emd_cd": 50110124
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173983,7 +173983,7 @@
         "emd_eng_nm": "Iho 1(il)-dong",
         "emd_kor_nm": "이호일동",
         "full_nm": "제주특별자치도 제주시 이호일동",
-        "emd_cd": "50110125"
+        "emd_cd": 50110125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176501,7 +176501,7 @@
         "emd_eng_nm": "Seoho-dong",
         "emd_kor_nm": "서호동",
         "full_nm": "제주특별자치도 서귀포시 서호동",
-        "emd_cd": "50130103"
+        "emd_cd": 50130103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180839,7 +180839,7 @@
         "emd_eng_nm": "Beophwan-dong",
         "emd_kor_nm": "법환동",
         "full_nm": "제주특별자치도 서귀포시 법환동",
-        "emd_cd": "50130102"
+        "emd_cd": 50130102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183861,7 +183861,7 @@
         "emd_eng_nm": "Jocheon-eup",
         "emd_kor_nm": "조천읍",
         "full_nm": "제주특별자치도 제주시 조천읍",
-        "emd_cd": "50110259"
+        "emd_cd": 50110259
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199071,7 +199071,7 @@
         "emd_eng_nm": "Yeon-dong",
         "emd_kor_nm": "연동",
         "full_nm": "제주특별자치도 제주시 연동",
-        "emd_cd": "50110137"
+        "emd_cd": 50110137
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203225,7 +203225,7 @@
         "emd_eng_nm": "Yeongpyeong-dong",
         "emd_kor_nm": "영평동",
         "full_nm": "제주특별자치도 제주시 영평동",
-        "emd_cd": "50110136"
+        "emd_cd": 50110136
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -210247,7 +210247,7 @@
         "emd_eng_nm": "Yongdam 2(i)-dong",
         "emd_kor_nm": "용담이동",
         "full_nm": "제주특별자치도 제주시 용담이동",
-        "emd_cd": "50110109"
+        "emd_cd": 50110109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -214613,7 +214613,7 @@
         "emd_eng_nm": "Yongdam 1(il)-dong",
         "emd_kor_nm": "용담일동",
         "full_nm": "제주특별자치도 제주시 용담일동",
-        "emd_cd": "50110108"
+        "emd_cd": 50110108
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215771,7 +215771,7 @@
         "emd_eng_nm": "Bomok-dong",
         "emd_kor_nm": "보목동",
         "full_nm": "제주특별자치도 서귀포시 보목동",
-        "emd_cd": "50130110"
+        "emd_cd": 50130110
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -218897,7 +218897,7 @@
         "emd_eng_nm": "Naedo-dong",
         "emd_kor_nm": "내도동",
         "full_nm": "제주특별자치도 제주시 내도동",
-        "emd_cd": "50110140"
+        "emd_cd": 50110140
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220539,7 +220539,7 @@
         "emd_eng_nm": "Topyeong-dong",
         "emd_kor_nm": "토평동",
         "full_nm": "제주특별자치도 서귀포시 토평동",
-        "emd_cd": "50130111"
+        "emd_cd": 50130111
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226273,7 +226273,7 @@
         "emd_eng_nm": "Aewol-eup",
         "emd_kor_nm": "애월읍",
         "full_nm": "제주특별자치도 제주시 애월읍",
-        "emd_cd": "50110253"
+        "emd_cd": 50110253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -238987,7 +238987,7 @@
         "emd_eng_nm": "Ido 1(il)-dong",
         "emd_kor_nm": "이도일동",
         "full_nm": "제주특별자치도 제주시 이도일동",
-        "emd_cd": "50110103"
+        "emd_cd": 50110103
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -241005,7 +241005,7 @@
         "emd_eng_nm": "Ildo 2(i)-dong",
         "emd_kor_nm": "일도이동",
         "full_nm": "제주특별자치도 제주시 일도이동",
-        "emd_cd": "50110102"
+        "emd_cd": 50110102
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243575,7 +243575,7 @@
         "emd_eng_nm": "Ora 2(i)-dong",
         "emd_kor_nm": "오라이동",
         "full_nm": "제주특별자치도 제주시 오라이동",
-        "emd_cd": "50110120"
+        "emd_cd": 50110120
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247325,7 +247325,7 @@
         "emd_eng_nm": "Ora 3(sam)-dong",
         "emd_kor_nm": "오라삼동",
         "full_nm": "제주특별자치도 제주시 오라삼동",
-        "emd_cd": "50110121"
+        "emd_cd": 50110121
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -248667,7 +248667,7 @@
         "emd_eng_nm": "Sanghyo-dong",
         "emd_kor_nm": "상효동",
         "full_nm": "제주특별자치도 서귀포시 상효동",
-        "emd_cd": "50130107"
+        "emd_cd": 50130107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253049,7 +253049,7 @@
         "emd_eng_nm": "Seohong-dong",
         "emd_kor_nm": "서홍동",
         "full_nm": "제주특별자치도 서귀포시 서홍동",
-        "emd_cd": "50130106"
+        "emd_cd": 50130106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -259007,7 +259007,7 @@
         "emd_eng_nm": "Udo-myeon",
         "emd_kor_nm": "우도면",
         "full_nm": "제주특별자치도 제주시 우도면",
-        "emd_cd": "50110330"
+        "emd_cd": 50110330
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -263277,7 +263277,7 @@
         "emd_eng_nm": "Samyang 2(i)-dong",
         "emd_kor_nm": "삼양이동",
         "full_nm": "제주특별자치도 제주시 삼양이동",
-        "emd_cd": "50110114"
+        "emd_cd": 50110114
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264835,7 +264835,7 @@
         "emd_eng_nm": "Samyang 3(sam)-dong",
         "emd_kor_nm": "삼양삼동",
         "full_nm": "제주특별자치도 제주시 삼양삼동",
-        "emd_cd": "50110115"
+        "emd_cd": 50110115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265697,7 +265697,7 @@
         "emd_eng_nm": "Daejeong-eup",
         "emd_kor_nm": "대정읍",
         "full_nm": "제주특별자치도 서귀포시 대정읍",
-        "emd_cd": "50130250"
+        "emd_cd": 50130250
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -279799,7 +279799,7 @@
         "emd_eng_nm": "Dodu 1(il)-dong",
         "emd_kor_nm": "도두일동",
         "full_nm": "제주특별자치도 제주시 도두일동",
-        "emd_cd": "50110127"
+        "emd_cd": 50110127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -282489,7 +282489,7 @@
         "emd_eng_nm": "Iho 2(i)-dong",
         "emd_kor_nm": "이호이동",
         "full_nm": "제주특별자치도 제주시 이호이동",
-        "emd_cd": "50110126"
+        "emd_cd": 50110126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284491,7 +284491,7 @@
         "emd_eng_nm": "Andeok-myeon",
         "emd_kor_nm": "안덕면",
         "full_nm": "제주특별자치도 서귀포시 안덕면",
-        "emd_cd": "50130310"
+        "emd_cd": 50130310
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -293189,7 +293189,7 @@
         "emd_eng_nm": "Seogwi-dong",
         "emd_kor_nm": "서귀동",
         "full_nm": "제주특별자치도 서귀포시 서귀동",
-        "emd_cd": "50130101"
+        "emd_cd": 50130101
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -295107,7 +295107,7 @@
         "emd_eng_nm": "Ora 1(il)-dong",
         "emd_kor_nm": "오라일동",
         "full_nm": "제주특별자치도 제주시 오라일동",
-        "emd_cd": "50110119"
+        "emd_cd": 50110119
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -295641,7 +295641,7 @@
         "emd_eng_nm": "Ara 2(i)-dong",
         "emd_kor_nm": "아라이동",
         "full_nm": "제주특별자치도 제주시 아라이동",
-        "emd_cd": "50110118"
+        "emd_cd": 50110118
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -298487,7 +298487,7 @@
         "emd_eng_nm": "Samyang 1(il)-dong",
         "emd_kor_nm": "삼양일동",
         "full_nm": "제주특별자치도 제주시 삼양일동",
-        "emd_cd": "50110113"
+        "emd_cd": 50110113
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -303069,7 +303069,7 @@
         "emd_eng_nm": "Hwabuk 2(i)-dong",
         "emd_kor_nm": "화북이동",
         "full_nm": "제주특별자치도 제주시 화북이동",
-        "emd_cd": "50110112"
+        "emd_cd": 50110112
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -307743,7 +307743,7 @@
         "emd_eng_nm": "Doryeon 1(il)-dong",
         "emd_kor_nm": "도련일동",
         "full_nm": "제주특별자치도 제주시 도련일동",
-        "emd_cd": "50110130"
+        "emd_cd": 50110130
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -310677,7 +310677,7 @@
         "emd_eng_nm": "Doryeon 2(i)-dong",
         "emd_kor_nm": "도련이동",
         "full_nm": "제주특별자치도 제주시 도련이동",
-        "emd_cd": "50110131"
+        "emd_cd": 50110131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -313643,7 +313643,7 @@
         "emd_eng_nm": "Dosun-dong",
         "emd_kor_nm": "도순동",
         "full_nm": "제주특별자치도 서귀포시 도순동",
-        "emd_cd": "50130117"
+        "emd_cd": 50130117
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -317177,7 +317177,7 @@
         "emd_eng_nm": "Gangjeong-dong",
         "emd_kor_nm": "강정동",
         "full_nm": "제주특별자치도 서귀포시 강정동",
-        "emd_cd": "50130116"
+        "emd_cd": 50130116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -322183,7 +322183,7 @@
         "emd_eng_nm": "Chuja-myeon",
         "emd_kor_nm": "추자면",
         "full_nm": "제주특별자치도 제주시 추자면",
-        "emd_cd": "50110320"
+        "emd_cd": 50110320
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -329485,7 +329485,7 @@
         "emd_eng_nm": "Yeongnam-dong",
         "emd_kor_nm": "영남동",
         "full_nm": "제주특별자치도 서귀포시 영남동",
-        "emd_cd": "50130122"
+        "emd_cd": 50130122
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -331231,7 +331231,7 @@
         "emd_eng_nm": "Ido 2(i)-dong",
         "emd_kor_nm": "이도이동",
         "full_nm": "제주특별자치도 제주시 이도이동",
-        "emd_cd": "50110104"
+        "emd_cd": 50110104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -333685,7 +333685,7 @@
         "emd_eng_nm": "Samdo 1(il)-dong",
         "emd_kor_nm": "삼도일동",
         "full_nm": "제주특별자치도 제주시 삼도일동",
-        "emd_cd": "50110105"
+        "emd_cd": 50110105
       },
       "geometry": {
         "type": "MultiPolygon",

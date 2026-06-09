@@ -5501,7 +5501,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "11320",
+        "sig_cd": 11320,
         "sig_eng_nm": "Dobong-gu",
         "full_nm": "서울특별시 도봉구",
         "sig_kor_nm": "도봉구"

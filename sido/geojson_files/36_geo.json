@@ -20618,7 +20618,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Sejong-si",
-        "ctprvn_cd": "36",
+        "ctprvn_cd": 36,
         "ctp_kor_nm": "세종특별자치시"
       }
     }

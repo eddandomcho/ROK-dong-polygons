@@ -15541,7 +15541,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "43800",
+        "sig_cd": 43800,
         "sig_eng_nm": "Danyang-gun",
         "full_nm": "충청북도 단양군",
         "sig_kor_nm": "단양군"

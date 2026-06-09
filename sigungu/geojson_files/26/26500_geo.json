@@ -3161,7 +3161,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "26500",
+        "sig_cd": 26500,
         "sig_eng_nm": "Suyeong-gu",
         "full_nm": "부산광역시 수영구",
         "sig_kor_nm": "수영구"

@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48730",
+        "sig_cd": 48730,
         "sig_eng_nm": "Haman-gun",
         "full_nm": "경상남도 함안군",
         "sig_kor_nm": "함안군"
@@ -8530,7 +8530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48310",
+        "sig_cd": 48310,
         "sig_eng_nm": "Geoje-si",
         "full_nm": "경상남도 거제시",
         "sig_kor_nm": "거제시"
@@ -90800,7 +90800,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48820",
+        "sig_cd": 48820,
         "sig_eng_nm": "Goseong-gun",
         "full_nm": "경상남도 고성군",
         "sig_kor_nm": "고성군"
@@ -148638,7 +148638,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48250",
+        "sig_cd": 48250,
         "sig_eng_nm": "Gimhae-si",
         "full_nm": "경상남도 김해시",
         "sig_kor_nm": "김해시"
@@ -164136,7 +164136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48123",
+        "sig_cd": 48123,
         "sig_eng_nm": "Seongsan-gu, Changwon-si",
         "full_nm": "경상남도 창원시 성산구",
         "sig_kor_nm": "창원시 성산구"
@@ -168918,7 +168918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48890",
+        "sig_cd": 48890,
         "sig_eng_nm": "Hapcheon-gun",
         "full_nm": "경상남도 합천군",
         "sig_kor_nm": "합천군"
@@ -190392,7 +190392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48129",
+        "sig_cd": 48129,
         "sig_eng_nm": "Jinhae-gu, Changwon-si",
         "full_nm": "경상남도 창원시 진해구",
         "sig_kor_nm": "창원시 진해구"
@@ -212634,7 +212634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48840",
+        "sig_cd": 48840,
         "sig_eng_nm": "Namhae-gun",
         "full_nm": "경상남도 남해군",
         "sig_kor_nm": "남해군"
@@ -292752,7 +292752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48125",
+        "sig_cd": 48125,
         "sig_eng_nm": "Masanhappo-gu, Changwon-si",
         "full_nm": "경상남도 창원시 마산합포구",
         "sig_kor_nm": "창원시 마산합포구"
@@ -337954,7 +337954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48720",
+        "sig_cd": 48720,
         "sig_eng_nm": "Uiryeong-gun",
         "full_nm": "경상남도 의령군",
         "sig_kor_nm": "의령군"
@@ -353048,7 +353048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48240",
+        "sig_cd": 48240,
         "sig_eng_nm": "Sacheon-si",
         "full_nm": "경상남도 사천시",
         "sig_kor_nm": "사천시"
@@ -404610,7 +404610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48740",
+        "sig_cd": 48740,
         "sig_eng_nm": "Changnyeong-gun",
         "full_nm": "경상남도 창녕군",
         "sig_kor_nm": "창녕군"
@@ -414932,7 +414932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48880",
+        "sig_cd": 48880,
         "sig_eng_nm": "Geochang-gun",
         "full_nm": "경상남도 거창군",
         "sig_kor_nm": "거창군"
@@ -429494,7 +429494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48170",
+        "sig_cd": 48170,
         "sig_eng_nm": "Jinju-si",
         "full_nm": "경상남도 진주시",
         "sig_kor_nm": "진주시"
@@ -445020,7 +445020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48220",
+        "sig_cd": 48220,
         "sig_eng_nm": "Tongyeong-si",
         "full_nm": "경상남도 통영시",
         "sig_kor_nm": "통영시"
@@ -584578,7 +584578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48850",
+        "sig_cd": 48850,
         "sig_eng_nm": "Hadong-gun",
         "full_nm": "경상남도 하동군",
         "sig_kor_nm": "하동군"
@@ -609922,7 +609922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48121",
+        "sig_cd": 48121,
         "sig_eng_nm": "Uichang-gu, Changwon-si",
         "full_nm": "경상남도 창원시 의창구",
         "sig_kor_nm": "창원시 의창구"
@@ -621504,7 +621504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48330",
+        "sig_cd": 48330,
         "sig_eng_nm": "Yangsan-si",
         "full_nm": "경상남도 양산시",
         "sig_kor_nm": "양산시"
@@ -633246,7 +633246,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48270",
+        "sig_cd": 48270,
         "sig_eng_nm": "Miryang-si",
         "full_nm": "경상남도 밀양시",
         "sig_kor_nm": "밀양시"
@@ -641828,7 +641828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48860",
+        "sig_cd": 48860,
         "sig_eng_nm": "Sancheong-gun",
         "full_nm": "경상남도 산청군",
         "sig_kor_nm": "산청군"
@@ -655050,7 +655050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48870",
+        "sig_cd": 48870,
         "sig_eng_nm": "Hamyang-gun",
         "full_nm": "경상남도 함양군",
         "sig_kor_nm": "함양군"
@@ -666192,7 +666192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "sig_cd": "48127",
+        "sig_cd": 48127,
         "sig_eng_nm": "Masanhoewon-gu, Changwon-si",
         "full_nm": "경상남도 창원시 마산회원구",
         "sig_kor_nm": "창원시 마산회원구"

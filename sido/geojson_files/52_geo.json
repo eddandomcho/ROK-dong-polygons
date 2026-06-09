@@ -131768,7 +131768,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Jeonbuk-do",
-        "ctprvn_cd": "52",
+        "ctprvn_cd": 52,
         "ctp_kor_nm": "전북특별자치도"
       }
     }

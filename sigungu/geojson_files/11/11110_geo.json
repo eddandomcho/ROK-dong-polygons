@@ -9341,7 +9341,7 @@
         ]
       },
       "properties": {
-        "sig_cd": "11110",
+        "sig_cd": 11110,
         "sig_eng_nm": "Jongno-gu",
         "full_nm": "서울특별시 종로구",
         "sig_kor_nm": "종로구"

@@ -514918,7 +514918,7 @@
       },
       "properties": {
         "ctp_eng_nm": "Gyeongsangnam-do",
-        "ctprvn_cd": "48",
+        "ctprvn_cd": 48,
         "ctp_kor_nm": "경상남도"
       }
     }
