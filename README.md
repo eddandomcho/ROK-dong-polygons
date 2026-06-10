@@ -37,7 +37,7 @@ dong_polygon_generate_script.py
 geojson_merge_script.py
 ```
 
-최종 파일은 `final_geojson` 폴더에서 찾을 수 있습니다. 생성한 날짜에 따라 파일 명도 바뀝니다. 
+최종 파일은 `final_geojson` 폴더에서 찾을 수 있습니다. 생성한 날짜에 따라 파일 명도 바뀝니다. \\
 `emd/final_geojson/법정동_polygon_20XX-XX-XX_기준.json`
 
 ## 📁 Repository 구조
